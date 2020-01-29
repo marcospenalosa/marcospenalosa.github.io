@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title: Sobre mí
 permalink: /about/
 ---
 
-Some information about you!
+Alguna información sobre mi:
 
-### More Information
+Me llamo Marcos Peñalosa y me apasiona todo lo relacionado con las nuevas tecnologías y sobre todo lo que esté relacionado con la informática.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
+### Contáctame
 
 [email@domain.com](mailto:email@domain.com)
