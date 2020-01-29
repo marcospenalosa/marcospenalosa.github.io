@@ -9,9 +9,9 @@ La _primera entrada_ de muchas que vendrán en este blog.
 
 Al escribir entradas se realizan 3 pasos muy importantes.
 
-    - Apuntar la nueva información.
-    - Almacenamiento ordenado.
-    - Repaso de lo aprendido.
+* Apuntar la nueva información.
+* Almacenamiento ordenado.
+* Repaso de lo aprendido.
 
 Así que dedicaré este lugar para almacenar la nueva información que vaya recopilando, bien sea por el trabajo que realizo, o por otras fuentes que consulto constantemente, principalmente relacionado con el mundo de la informática.
 
