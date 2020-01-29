@@ -3,7 +3,9 @@ layout: page
 title: Sobre mí
 permalink: /about/
 ---
-Actualmente: _Reinvientándome_ e iniciando una apasionante carrera en el mundo de la informática.
+Actualmente: 
+
+_Reinvientándome_ e iniciando una apasionante carrera en el mundo de la informática.
 
 Alguna información sobre mi:
 
