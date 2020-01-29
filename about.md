@@ -10,4 +10,4 @@ Me llamo Marcos Peñalosa y me apasiona todo lo relacionado con las nuevas tecno
 
 ### Contáctame
 
-[email@domain.com](mailto:email@domain.com)
+[marcospenalosa@gmail.com](mailto:marcospenalosa@gmail.com)
