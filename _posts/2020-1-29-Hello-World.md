@@ -15,4 +15,4 @@ Al escribir entradas se realizan 3 pasos muy importantes.
 
 Así que dedicaré este lugar para almacenar la nueva información que vaya recopilando, bien sea por el trabajo que realizo, o por otras fuentes que consulto constantemente, principalmente relacionado con el mundo de la informática.
 
-Así que:**¡HOLA MUNDO!**
+Así que: **¡HOLA MUNDO!**
