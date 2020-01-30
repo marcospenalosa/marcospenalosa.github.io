@@ -3,7 +3,7 @@ layout: post
 title: HOLA MUNDO!
 ---
 
-La _primera entrada_ de muchas que vendrán en este blog.
+### La _primera entrada_ de muchas que vendrán en este blog.
 
 ¿Por qué un **blog**? La respuesta es muy sencilla, necesidad. Cuando aprendemos algo nuevo hay varias formas de garantizar que lo asimilamos. Una de ella es apuntar lo que aprendes y, más importante, saber donde acudir cuando lo necesitas.
 
