@@ -1,6 +1,9 @@
 ---
 layout: post
 title: HOLA MUNDO!
+categories: [blog, general]
+tags: 
+
 ---
 
 ### La _primera entrada_ de muchas que vendrán en este blog.
