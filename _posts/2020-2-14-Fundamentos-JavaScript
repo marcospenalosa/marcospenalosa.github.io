@@ -4,7 +4,9 @@ title: Fundamentos JavaScript
 categories: [JavaScript, Apuntes]
 tags: [JavaScript, básicos, fundamentos]
 ---
-### Sitio para poner los más básico de JavaScript:
+
+###Los apuntes más básico de JavaScript:
+
 *Variables* _(para vectores usar [])_
 '''Javascript
 var mochila = {
@@ -16,6 +18,7 @@ print(mochila.comida);
 print(mochila.equipo);
 print(mochila.cropa);
 '''
+
 *Bucle For* 
 '''Javascript
 for (var element of mochila.equipo){
