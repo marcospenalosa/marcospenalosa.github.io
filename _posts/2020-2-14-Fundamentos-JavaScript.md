@@ -7,16 +7,16 @@ tags: [JavaScript, básicos, fundamentos]
 
 ### Los apuntes más básico de JavaScript:
 
-**Variables** _(para vectores usar [])_
+**Variables** _(para vectores usar [ ])_
 ```Javascript
 var mochila = {
  comida: 'platanos',
- equipo: ['mapa', 'cuerda', 'compás']
+ equipo: ['mapa', 'cuerda', 'compás'],
  ropa: 'chaqueta',
 };
 print(mochila.comida);
 print(mochila.equipo);
-print(mochila.cropa);
+print(mochila.ropa);
 ```
 
 **Bucle For** 
