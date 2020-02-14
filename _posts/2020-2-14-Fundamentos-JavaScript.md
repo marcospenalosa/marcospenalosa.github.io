@@ -29,10 +29,10 @@ for (var element of mochila.equipo){
 **Condicional IF**
 ```Javascript
 for (var element of mochila.equipo){
- if(element === 'cuerda'){
-  print('Hemos encontrado le cuerda');
- }else{
-  print('No se ha encontrado la cuerda');
- }
+  if(element === 'cuerda'){
+   print('Hemos encontrado le cuerda');
+  }else {
+    print('No se ha encontrado la cuerda');
+  }
 }
 ```
