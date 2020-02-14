@@ -5,10 +5,10 @@ categories: [JavaScript, Apuntes]
 tags: [JavaScript, básicos, fundamentos]
 ---
 
-###Los apuntes más básico de JavaScript:
+### Los apuntes más básico de JavaScript:
 
-*Variables* _(para vectores usar [])_
-'''Javascript
+**Variables** _(para vectores usar [])_
+```Javascript
 var mochila = {
  comida: 'platanos',
  equipo: ['mapa', 'cuerda', 'compás']
@@ -17,17 +17,17 @@ var mochila = {
 print(mochila.comida);
 print(mochila.equipo);
 print(mochila.cropa);
-'''
+```
 
-*Bucle For* 
-'''Javascript
+**Bucle For** 
+```Javascript
 for (var element of mochila.equipo){
  print(element);
 }
-'''
+```
 
-*Condicional IF*
-'''Javascript
+**Condicional IF**
+```Javascript
 for (var element of mochila.equipo){
  if(element === 'cuerda'){
   print('Hemos encontrado le cuerda');
@@ -35,4 +35,4 @@ for (var element of mochila.equipo){
   print('No se ha encontrado la cuerda');
  }
 }
-'''
+```
