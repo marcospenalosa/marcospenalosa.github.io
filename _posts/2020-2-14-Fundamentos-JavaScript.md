@@ -7,6 +7,8 @@ tags: [JavaScript, básicos, fundamentos]
 
 ### Los apuntes más básico de JavaScript:
 
+Estoy aprendiendo JavaScript con la aplicación Grasshopper, así que utilizaré este post para ir apuntando lo básico que vaya apareciendo.
+
 **Variables** _(para vectores usar [ ])_
 ```Javascript
 var mochila = {
@@ -14,15 +16,18 @@ var mochila = {
  equipo: ['mapa', 'cuerda', 'compás'],
  ropa: 'chaqueta',
 };
-print(mochila.comida);
-print(mochila.equipo);
-print(mochila.ropa);
+console.log(mochila.comida);
+console.log(mochila.equipo);
+console.log(mochila.ropa);
+
+//let crea la variable en modo local
+let ciudad
 ```
 
 **Bucle For** 
 ```Javascript
 for (var element of mochila.equipo){
- print(element);
+ console.log(element);
 }
 ```
 
@@ -30,9 +35,45 @@ for (var element of mochila.equipo){
 ```Javascript
 for (var element of mochila.equipo){
   if(element === 'cuerda'){
-   print('Hemos encontrado le cuerda');
+   console.log('Hemos encontrado le cuerda');
   }else {
-    print('No se ha encontrado la cuerda');
+    console.log('No se ha encontrado la cuerda');
   }
 }
+```
+**Condicional IF en una línea**
+```Javascript
+max = value < min ? value : min;
+```
+**Funciones de Arrays**
+```JavaScript
+// .slice(posIni, posFin) Crear un vector seleccionando las posiciones de otro. 
+console.log(ciudad.slice(3,6);
+
+// .pop() Quitar información en la posición final del vector y permite guardarla en una variable.
+viajeAtlanta = viajeCiudades.pop();
+
+// .push() Añadir información en la posición final del vector.
+viajarCiudades.push(barcoAtlanta);
+```
+**Funciones**
+```JavaScript
+//.filter() Devuelve un vector con todos los elementos que cumplan el filtro.
+//Ejemplo de developer.mozilla.org
+
+function esSuficientementeGrande(elemento) {
+  return elemento >= 10;
+}
+var filtrados = [12, 5, 8, 130, 44].filter(esSuficientementeGrande);
+// filtrados es [12, 130, 44]
+
+//.includes() Devuelve verdadero o falso si la variable, array o matriz contiene el elemento enviado.
+tiempo.includes('pm')
+
+[1, 2, 3].includes(2);     // true
+[1, 2, 3].includes(4);     // false
+[1, 2, 3].includes(3, 3);  // false
+[1, 2, 3].includes(3, -1); // true
+[1, 2, NaN].includes(NaN); // true
+
 ```
