@@ -7,7 +7,7 @@ tags: [JavaScript, básicos, fundamentos]
 
 ### Los apuntes más básico de JavaScript:
 
-Estoy aprendiendo JavaScript con la aplicación Grasshopper, así que utilizaré este post para ir apuntando lo básico que vaya apareciendo.
+Estoy aprendiendo **JavaScript** con la aplicación _Grasshopper_, así que utilizaré este post para ir apuntando lo básico que vaya apareciendo.
 
 **Variables** _(para vectores usar [ ])_
 ```Javascript
@@ -55,6 +55,20 @@ viajeAtlanta = viajeCiudades.pop();
 
 // .push() Añadir información en la posición final del vector.
 viajarCiudades.push(barcoAtlanta);
+
+//.forEach() recorre cada posición del vector.
+precioVuelos.forEach(compararMinimo);
+
+function logArrayElements(element, index, array) {
+    console.log("a[" + index + "] = " + element);
+}
+// Nótese que se evita el 2° índice ya que no hay ningún elemento en esa posición del array
+[2, 5, , 9].forEach(logArrayElements);
+// salida:
+// a[0] = 2
+// a[1] = 5
+// a[2] = 9
+
 ```
 **Funciones**
 ```JavaScript
@@ -68,7 +82,7 @@ var filtrados = [12, 5, 8, 130, 44].filter(esSuficientementeGrande);
 // filtrados es [12, 130, 44]
 
 //.includes() Devuelve verdadero o falso si la variable, array o matriz contiene el elemento enviado.
-tiempo.includes('pm')
+tiempo.includes('pm');
 
 [1, 2, 3].includes(2);     // true
 [1, 2, 3].includes(4);     // false
@@ -77,3 +91,14 @@ tiempo.includes('pm')
 [1, 2, NaN].includes(NaN); // true
 
 ```
+**Importar y Crear Funciones**
+```JavaScript
+import{ salidas } from 'grasshopper.viaje';
+
+function tarde(tiempo){
+ return tiempo.includes('pm');
+};
+let pmTiempo = salidas.filter(tarde);
+
+```
+
