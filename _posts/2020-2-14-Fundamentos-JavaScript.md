@@ -5,7 +5,7 @@ categories: [JavaScript, Apuntes]
 tags: [JavaScript, básicos, fundamentos]
 ---
 
-### Los apuntes más básico de JavaScript:
+### Los apuntes más básicos de JavaScript:
 
 Estoy aprendiendo **JavaScript** con la aplicación _Grasshopper_, así que utilizaré este post para ir apuntando lo básico que vaya apareciendo.
 
