@@ -2,17 +2,18 @@
 
 layout: post
 
-title: Apuntes del curso UI design course
+title: Apuntes del curso de diseño UI
 
 categories: [cursos, tutoriales]
 
-tags: [diseño, markdown, formato]
+tags: [diseño, UI, interfaces]
 
 ---
 
 
 
-### _Markdown_ para dar la forma que necesitamos al texto de forma rápida.
+### _Diseño de Interfaces básico_
+#### Curso de introducción Diseño UI 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTY2MzM4MDldfQ==
+eyJoaXN0b3J5IjpbLTEyMDQ2NTQ0NjldfQ==
 -->
