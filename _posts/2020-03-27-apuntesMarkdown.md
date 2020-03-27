@@ -82,21 +82,47 @@ let i = 0;
 i = i + 5;
 console.log(i);
 ```
-Para **imagenes** y **URLs**
+Para imagenes y URLs
 
 ```markdown
 Para imagenes
+
 ![Texto si no carga la imagen](dirección de la imagen)
 
+
+
 Para URL
+
 [texto a mostrar](dirección a la que enlazar)
 
+
+
 Imagen y URL
+
 [![Texto a mostrar si no carga la imagen](dirección de la imagen](dirección del enlace)
 ```
+
+
 
 Línea horizontal
 
 ```markdown
 ---
 ```
+---
+**Tablas**
+
+```markdown
+| Encabezado 1 | Encabezado 2 | Encabezado 3 |
+| :-- | :--: | --: |
+| Texto 1      | Texto 2      | Texto 3      |
+
+---: alineo al final
+:--- al inicio
+:---: centro
+```
+
+| Encabezado 1 | Encabezado 2 | Encabezado 3 |
+| :-- | :--: | --: |
+| Texto 1 (izq)   | Texto 2  (centrado)  | Texto 3  (dch)   |
+
