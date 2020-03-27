@@ -13,7 +13,7 @@ tags: [diseño, UI, interfaces]
 ### _Diseño de Interfaces básico_
 ####  [Curso de introducción al diseño de interfaces básico (en inglés)](https://scrimba.com/g/gdesign)
 
-Estoy realizando este curso básico de diseño de interfaces donde explican
+Estoy realizando este curso básico de diseño de interfaces donde se explica de modo muy ameno y en una plataforma muy interactiva unos consejos básicos a la hora de realizar cualquier tipo de diseño de interfaces.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDA0Mjg5Ml19
+eyJoaXN0b3J5IjpbODc1NjU5NjYxXX0=
 -->
