@@ -10,7 +10,7 @@ tags: [JavaScript, básicos, fundamentos]
 Estoy aprendiendo **JavaScript** con la aplicación _Grasshopper_, así que utilizaré este post para ir apuntando lo básico que vaya apareciendo.
 
 **Variables** _(para vectores usar [ ])_
-```Javascript
+```javascript
 var mochila = {
  comida: 'platanos',
  equipo: ['mapa', 'cuerda', 'compás'],
