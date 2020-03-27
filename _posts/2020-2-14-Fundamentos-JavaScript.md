@@ -25,14 +25,14 @@ let ciudad
 ```
 
 **Bucle For** 
-```Javascript
+```javascript
 for (var element of mochila.equipo){
  console.log(element);
 }
 ```
 
 **Condicional IF**
-```Javascript
+```javascript
 for (var element of mochila.equipo){
   if(element === 'cuerda'){
    console.log('Hemos encontrado le cuerda');
@@ -42,11 +42,11 @@ for (var element of mochila.equipo){
 }
 ```
 **Condicional IF en una línea**
-```Javascript
+```javascript
 max = value < min ? value : min;
 ```
 **Funciones de Arrays**
-```JavaScript
+```javascript
 // .slice(posIni, posFin) Crear un vector seleccionando las posiciones de otro. 
 console.log(ciudad.slice(3,6);
 
@@ -61,7 +61,7 @@ precioVuelos.forEach(compararMinimo);
 
 ```
 **Funciones**
-```JavaScript
+```javascript
 //.filter() Devuelve un vector con todos los elementos que cumplan el filtro.
 //Ejemplo de developer.mozilla.org
 
@@ -82,7 +82,7 @@ tiempo.includes('pm');
 
 ```
 **Importar y Crear Funciones**
-```JavaScript
+```javascript
 import{ salidas } from 'grasshopper.viaje';
 
 function tarde(tiempo){
