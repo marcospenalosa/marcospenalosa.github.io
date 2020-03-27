@@ -2,11 +2,11 @@
 
 layout: post
 
-title: Markdown
+title: Apuntes del curso UI design course
 
-categories: [blog, markdown]
+categories: [cursos, tutoriales]
 
-tags: [marcado, markdown, formato]
+tags: [diseño, markdown, formato]
 
 ---
 
@@ -14,5 +14,5 @@ tags: [marcado, markdown, formato]
 
 ### _Markdown_ para dar la forma que necesitamos al texto de forma rápida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODY1MDI3MDJdfQ==
+eyJoaXN0b3J5IjpbLTEzMTY2MzM4MDldfQ==
 -->
