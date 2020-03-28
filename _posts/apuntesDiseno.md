@@ -21,16 +21,14 @@ Hay que usar correctamente las propiedades del padding, margin, line-height, etc
 
 ##### Contraste
 Hay un contraste mínmo y recomendado que mantener para considerar que está correcto.
-| Minimum AA | Texto "pequeño" | Texto "grande" |
+|  | Texto "pequeño" | Texto "grande" |
 | :--: |  :--: | :--: |
 | | 4,5:1 | 3:1 |
-
-| Minimum AA | Texto "pequeño" | Texto "grande" |
-| :--: |  :--: | :--: |
-| | 4,5:1 | 3:1 |
+| **Recomendado** | **Texto "pequeño"** | **Texto "grande"** |
+| | 7:1 | 4,5:1 |
 
 ##### Espacios en blanco
 Hay que usar correctamente las propiedades del padding, margin, line-height, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxODUzNDA2LDg3NTY1OTY2MV19
+eyJoaXN0b3J5IjpbLTI5OTE3Nzg0NSw4NzU2NTk2NjFdfQ==
 -->
