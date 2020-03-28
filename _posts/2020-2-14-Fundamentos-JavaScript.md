@@ -31,7 +31,7 @@ for (var element of mochila.equipo){
 }
 
 for (let i = 0, i < array.length(), i++){
- console.log(element);
+ console.log(array[i]);
 }
 ```
 
@@ -97,5 +97,5 @@ let pmTiempo = salidas.filter(tarde);
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MjgxMzIyNl19
+eyJoaXN0b3J5IjpbMTExMjA5NDA3MF19
 -->
