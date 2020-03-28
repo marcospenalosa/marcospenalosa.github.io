@@ -28,8 +28,11 @@ Hay un contraste mínmo y recomendado que mantener para considerar que está cor
 
 Para saber **si** cumplimos esta condición con los diferentes colores del texto y los fondos, hay muchos plugins para navegadores web o páginas web que nos los indica, como por ejemplo: [comprueba el contraste con webaim.org](https://webaim.org/resources/contrastchecker/)
 ##### Escala
-En esta clase utilizó una propiedad css para poder igualar todos los objetos y no dejar espacios inecesarios 
+En esta clase utilizó una propiedad css para poder igualar todos los objetos y no dejar espacios innecesarios, dejándolo más simétrico.
+```css
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjI4ODg5NTYsLTIwNTU4OTI3MTIsOD
-c1NjU5NjYxXX0=
+eyJoaXN0b3J5IjpbLTgwOTAzNDUyOSwtMjA1NTg5MjcxMiw4Nz
+U2NTk2NjFdfQ==
 -->
