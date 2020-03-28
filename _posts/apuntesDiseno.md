@@ -17,7 +17,12 @@ Estoy realizando este curso básico de diseño de interfaces donde se explica de
 
 #### Consideraciones básicas:
 ##### Espacios en blanco
-Hay que usar correctamente el padding, margin,
+Hay que usar correctamente las propiedades del padding, margin, line-height, etc.
+
+##### Contraste
+Hay que usar correctamente las propiedades del padding, margin, line-height, etc.
+##### Espacios en blanco
+Hay que usar correctamente las propiedades del padding, margin, line-height, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA3MTA1MDQ4LDg3NTY1OTY2MV19
+eyJoaXN0b3J5IjpbMjIxMzc5OTM4LDg3NTY1OTY2MV19
 -->
