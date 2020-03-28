@@ -6,8 +6,8 @@
 * Creamos el proyecto con la opción datos e interfaz.
   * Añadir el alias = que el nombre.
   * Añadimos los dibujos de las tablas (iconos).
-* Creamos las tablas con los esquemas.
+* Creamos las tablas desde el editor de esquemas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzk1NjgzMl19
+eyJoaXN0b3J5IjpbNDA1ODQwNzg2LDExMjc5NTY4MzJdfQ==
 -->
