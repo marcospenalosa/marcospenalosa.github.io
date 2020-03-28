@@ -23,7 +23,7 @@ Para la gente que tenga conocimientos en html, funciona de forma muy parecida, d
 Negrita y cursiva.
 
 ```markdown
-**cursiva**
+*cursiva*
 
 
 
@@ -126,3 +126,6 @@ Línea horizontal
 | :-- | :--: | --: |
 | Texto 1 (izq)   | Texto 2  (centrado)  | Texto 3  (dch)   |
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTI0NzkyNjI4Nl19
+-->
