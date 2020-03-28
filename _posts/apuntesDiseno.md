@@ -40,9 +40,10 @@ Es recomendable no utilizar más de dos tipografías y hay que mantener correcta
 
 ##### Colores
 Lo primero y más importante, no usar **muchos** colores y que no combinen correctamente.
+![Correcta combinación de colores](https://raw.githubusercontent.com/marcospenalosa/marcospenalosa.github.io/master/_posts/img/apuntesDiseno/01colores.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzc0NjQzMjgsLTIwNTU4OTI3MTIsOD
-c1NjU5NjYxXX0=
+eyJoaXN0b3J5IjpbOTQ2NjE0MjM4LC0yMTM3NDY0MzI4LC0yMD
+U1ODkyNzEyLDg3NTY1OTY2MV19
 -->
