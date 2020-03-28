@@ -19,7 +19,7 @@ Estoy realizando este curso básico de diseño de interfaces donde se explica de
 ##### Espacios en blanco
 Hay que usar correctamente las propiedades del padding, margin, line-height, etc, para dejar unos espacios mínimos entre los objetos.
 ##### Alineación
-Tenemos que pensar que la interfaz está dividida en columnas y filas, a
+Tenemos que pensar que la interfaz está *dividida* en columnas y filas, así nos será más fácil buscar alinear los elementos para que tenga sensanción de uniformidad.
 ##### Contraste
 Hay un contraste mínmo y recomendado que mantener para considerar que está correcto.
 |  | Texto "pequeño" | Texto "grande" |
@@ -29,7 +29,7 @@ Hay un contraste mínmo y recomendado que mantener para considerar que está cor
 
 Para saber **si** cumplimos esta condición con los diferentes colores del texto y los fondos, hay muchos plugins para navegadores web o páginas web que nos los indica, como por ejemplo: [comprueba el contraste con webaim.org](https://webaim.org/resources/contrastchecker/)
 ##### Escala
-En esta clase utilizó una propiedad css para poder igualar todos los objetos y no dejar espacios innecesarios, dejándolo más simétrico.
+En esta clase utilizó una propiedad css para poder igualar todos los objetos y no dejar espacios innecesarios, dejándolo más **simétrico**.
 ```css
 .color-container {
     grid-template-columns: repeat(3, auto);
@@ -38,6 +38,6 @@ En esta clase utilizó una propiedad css para poder igualar todos los objetos y 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI0ODQxNjQ1LC0yMDU1ODkyNzEyLDg3NT
+eyJoaXN0b3J5IjpbMzE0MDM3NzQ4LC0yMDU1ODkyNzEyLDg3NT
 Y1OTY2MV19
 -->
