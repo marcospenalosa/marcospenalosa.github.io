@@ -26,9 +26,10 @@ Hay un contraste mínmo y recomendado que mantener para considerar que está cor
 | **Mínimo**| 4,5 : 1 | 3 : 1 |
 |**Recomendado**| 7 : 1 | 4,5 : 1 |
 
-Para saber si cumplimos esta condición con los diferentes colores del texto y los fondos, hay muchos plugins para navegadores web
+Para saber si cumplimos esta condición con los diferentes colores del texto y los fondos, hay muchos plugins para navegadores web o páginas web que nos los indica como por ejemplo:
+[Comprueba el contraste con webaim.org](https://webaim.org/resources/contrastchecker/)
 ##### Espacios en blanco
 Hay que usar correctamente las propiedades del padding, margin, line-height, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjIzMTE2OTUsODc1NjU5NjYxXX0=
+eyJoaXN0b3J5IjpbLTIwNTU4OTI3MTIsODc1NjU5NjYxXX0=
 -->
