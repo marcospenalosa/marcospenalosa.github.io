@@ -29,6 +29,10 @@ let ciudad
 for (var element of mochila.equipo){
  console.log(element);
 }
+
+for (let i = 0, i < array.length(), i++){
+ console.log(element);
+}
 ```
 
 **Condicional IF**
@@ -92,3 +96,6 @@ let pmTiempo = salidas.filter(tarde);
 
 ```
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTA5MjgxMzIyNl19
+-->
