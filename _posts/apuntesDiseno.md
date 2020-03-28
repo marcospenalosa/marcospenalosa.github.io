@@ -20,9 +20,10 @@ Estoy realizando este curso básico de diseño de interfaces donde se explica de
 Hay que usar correctamente las propiedades del padding, margin, line-height, etc.
 
 ##### Contraste
-Hay que usar correctamente las propiedades del padding, margin, line-height, etc.
+Hay un contraste mínmo y recomendado que mantener para considerar que está correcto.
+|Minimum AA 
 ##### Espacios en blanco
 Hay que usar correctamente las propiedades del padding, margin, line-height, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxMzc5OTM4LDg3NTY1OTY2MV19
+eyJoaXN0b3J5IjpbLTI0NTg0ODIyMiw4NzU2NTk2NjFdfQ==
 -->
