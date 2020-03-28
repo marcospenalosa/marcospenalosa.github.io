@@ -23,12 +23,12 @@ Hay que usar correctamente las propiedades del padding, margin, line-height, etc
 Hay un contraste mínmo y recomendado que mantener para considerar que está correcto.
 |  | Texto "pequeño" | Texto "grande" |
 | :--: |  :--: | :--: |
-| | 4,5:1 | 3:1 |
-| **Recomendado** | **Texto "pequeño"** | **Texto "grande"** |
-| | 7:1 | 4,5:1 |
+| **Mínimo**| 4,5 : 1 | 3 : 1 |
+|**Recomendado**| 7 : 1 | 4,5 : 1 |
 
+Para saber si cumplimos esta condición con los diferentes colores del texto y los fondos, hay muchos plugins para navegadores web
 ##### Espacios en blanco
 Hay que usar correctamente las propiedades del padding, margin, line-height, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5OTE3Nzg0NSw4NzU2NTk2NjFdfQ==
+eyJoaXN0b3J5IjpbLTEwNjIzMTE2OTUsODc1NjU5NjYxXX0=
 -->
