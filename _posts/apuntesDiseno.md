@@ -35,9 +35,11 @@ En esta clase utilizó una propiedad css para poder igualar todos los objetos y 
     grid-template-columns: repeat(3, auto);
 }
 ```
+##### Tipografía
+Es recomendable no utilizar más de dos tipografías y hay que mantener correctamente la **jerarquía** de los elementos, es decir, que se vea diferente los títulos, los encabezados, textos...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE0MDM3NzQ4LC0yMDU1ODkyNzEyLDg3NT
-Y1OTY2MV19
+eyJoaXN0b3J5IjpbLTE0Njk5MjIwOTYsLTIwNTU4OTI3MTIsOD
+c1NjU5NjYxXX0=
 -->
