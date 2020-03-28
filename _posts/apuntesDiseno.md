@@ -38,12 +38,12 @@ En esta clase utilizó una propiedad css para poder igualar todos los objetos y 
 ##### Tipografía
 Es recomendable no utilizar más de dos tipografías y hay que mantener correctamente la **jerarquía** de los elementos, es decir, que se vea diferente los títulos, los encabezados, textos...
 
-##### Espacios en blanco
+##### Colores
 Hay que usar correctamente las propiedades del padding, margin, line-height, etc, para dejar unos espacios mínimos entre los objetos.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzc3MzY1NDYsLTIwNTU4OTI3MTIsOD
+eyJoaXN0b3J5IjpbLTE5NTIzMTU5MzgsLTIwNTU4OTI3MTIsOD
 c1NjU5NjYxXX0=
 -->
