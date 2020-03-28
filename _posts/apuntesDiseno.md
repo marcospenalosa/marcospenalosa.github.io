@@ -18,7 +18,8 @@ Estoy realizando este curso básico de diseño de interfaces donde se explica de
 #### Consideraciones básicas:
 ##### Espacios en blanco
 Hay que usar correctamente las propiedades del padding, margin, line-height, etc, para dejar unos espacios mínimos entre los objetos.
-
+##### Alineación
+Tenemos que pensar que la interfaz está dividida en columnas y filas, a
 ##### Contraste
 Hay un contraste mínmo y recomendado que mantener para considerar que está correcto.
 |  | Texto "pequeño" | Texto "grande" |
@@ -30,9 +31,13 @@ Para saber **si** cumplimos esta condición con los diferentes colores del texto
 ##### Escala
 En esta clase utilizó una propiedad css para poder igualar todos los objetos y no dejar espacios innecesarios, dejándolo más simétrico.
 ```css
+.color-container {
+    grid-template-columns: repeat(3, auto);
+}
+```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTAzNDUyOSwtMjA1NTg5MjcxMiw4Nz
-U2NTk2NjFdfQ==
+eyJoaXN0b3J5IjpbODI0ODQxNjQ1LC0yMDU1ODkyNzEyLDg3NT
+Y1OTY2MV19
 -->
