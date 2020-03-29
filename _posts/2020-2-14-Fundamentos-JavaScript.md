@@ -97,8 +97,7 @@ let pmTiempo = salidas.filter(tarde);
 ```
 **Animaciones**
 ```javascript
-import{ salidas } from 'grasshopper.viaje';
-
+//El método .attr() de la librería D3 Library, 
 function tarde(tiempo){
  return tiempo.includes('pm');
 };
@@ -106,5 +105,5 @@ let pmTiempo = salidas.filter(tarde);
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5Njk4NTIwMiwxMTEyMDk0MDcwXX0=
+eyJoaXN0b3J5IjpbLTEwODcyMTAwNTksMTExMjA5NDA3MF19
 -->
