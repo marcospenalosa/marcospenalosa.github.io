@@ -11,10 +11,11 @@
      * Una familia puede tener muchos artículos.
      * A través de la línea **azul** puede *obtener* los datos de la familia
      *  A través de la línea **roja** puede *cargar* los artículos
-   * Los campos **indirectos reales** se usan para apuntar a tablas que no están directamente relaciondas y queremos actualiza.
+   * Los campos **indirectos*** ***reales*** se usan para apuntar a tablas que no están directamente relaciondas y queremos **actualizar los registros**.
      * Se tiene que resolver un índice único.  
+   * * Los campos **indirectos*** ***virtuales*** se usan para apuntar a tablas que no están directamente relaciondas y solo queremos **leer los registros**. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODE5ODczODgsODMwMTE5MzE4LDE0OD
-A0ODMxODYsNDA1ODQwNzg2LDExMjc5NTY4MzJdfQ==
+eyJoaXN0b3J5IjpbLTk0OTIwNzIwMCw4MzAxMTkzMTgsMTQ4MD
+Q4MzE4Niw0MDU4NDA3ODYsMTEyNzk1NjgzMl19
 -->
