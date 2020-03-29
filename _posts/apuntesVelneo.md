@@ -11,8 +11,10 @@
      * Una familia puede tener muchos artículos.
      * A través de la línea **azul** puede *obtener* los datos de la familia
      *  A través de la línea **roja** puede *cargar* los artículos
+   * Los campos indirectos reales se usan para apuntar a tablas que no están directamente relaciondas.
+     * Se tiene que resolver un índice único.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMwMTE5MzE4LDE0ODA0ODMxODYsNDA1OD
-QwNzg2LDExMjc5NTY4MzJdfQ==
+eyJoaXN0b3J5IjpbLTEzOTYyODIzNzgsODMwMTE5MzE4LDE0OD
+A0ODMxODYsNDA1ODQwNzg2LDExMjc5NTY4MzJdfQ==
 -->
