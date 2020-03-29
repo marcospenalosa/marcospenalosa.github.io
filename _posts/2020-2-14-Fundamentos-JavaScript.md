@@ -103,7 +103,9 @@ let pmTiempo = salidas.filter(tarde);
 
 blueStripe.attr('width',50).attr('height',100);
 
+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY1NTUzODgyLDExMTIwOTQwNzBdfQ==
+eyJoaXN0b3J5IjpbMTY5MjYwNzg1Miw2NjU1NTM4ODIsMTExMj
+A5NDA3MF19
 -->
