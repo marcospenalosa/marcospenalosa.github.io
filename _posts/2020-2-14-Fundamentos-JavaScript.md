@@ -103,11 +103,14 @@ let pmTiempo = salidas.filter(tarde);
 
 blueStripe.attr('width',50).attr('height',100);
 
+//Con 'r' modificamos el radio
+circle.attr('r',50);
+
 //Para crear formas svg.append('String');
 var rect = svg.append('rect');
 var circle = svg.append('circle');
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMzY0OTI0NCw2NjU1NTM4ODIsMTExMj
-A5NDA3MF19
+eyJoaXN0b3J5IjpbNTc2NTcxOTg5LDY2NTU1Mzg4MiwxMTEyMD
+k0MDcwXX0=
 -->
