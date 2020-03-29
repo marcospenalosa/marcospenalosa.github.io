@@ -16,8 +16,9 @@
    * * Los campos **indirectos*** ***virtuales*** se usan para apuntar a tablas que no están directamente relaciondas y solo queremos **leer los registros**. 
    * Shift + F4 --> Abre el asistente de programación.
      *  #FCH **:** isModified() --> Comprueba si un campo ha cambiado
+   * Shift + F6 --> Com
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NTE2OTIyMSw4MzAxMTkzMTgsMTQ4MD
-Q4MzE4Niw0MDU4NDA3ODYsMTEyNzk1NjgzMl19
+eyJoaXN0b3J5IjpbOTk2MDE3MDI5LDgzMDExOTMxOCwxNDgwND
+gzMTg2LDQwNTg0MDc4NiwxMTI3OTU2ODMyXX0=
 -->
