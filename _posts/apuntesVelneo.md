@@ -15,9 +15,9 @@
      * Se tiene que resolver un índice único.  
    * * Los campos **indirectos*** ***virtuales*** se usan para apuntar a tablas que no están directamente relaciondas y solo queremos **leer los registros**. 
    * Shift + F4 --> Abre el asistente de programación.
-     *  #
+     *  #FCH **:** isModified() --> Comprueba si un campo ha cambiado
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjA4MjE5MCw4MzAxMTkzMTgsMTQ4MD
+eyJoaXN0b3J5IjpbMjA3NTE2OTIyMSw4MzAxMTkzMTgsMTQ4MD
 Q4MzE4Niw0MDU4NDA3ODYsMTEyNzk1NjgzMl19
 -->
