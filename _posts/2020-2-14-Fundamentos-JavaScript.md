@@ -95,7 +95,16 @@ function tarde(tiempo){
 let pmTiempo = salidas.filter(tarde);
 
 ```
+**Animaciones**
+```javascript
+import{ salidas } from 'grasshopper.viaje';
 
+function tarde(tiempo){
+ return tiempo.includes('pm');
+};
+let pmTiempo = salidas.filter(tarde);
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMjA5NDA3MF19
+eyJoaXN0b3J5IjpbLTU5Njk4NTIwMiwxMTEyMDk0MDcwXX0=
 -->
