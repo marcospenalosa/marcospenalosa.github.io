@@ -100,12 +100,10 @@ let pmTiempo = salidas.filter(tarde);
 //En la librería 3D Library tiene el método .attr()
 //.attr('string', num);
 //.attr(atributo a modificar, valor)
-function tarde(tiempo){
- return tiempo.includes('pm');
-};
-let pmTiempo = salidas.filter(tarde);
+
+blueStripe.attr('width',50).attr('height',100);
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NjU0ODExOSwxMTEyMDk0MDcwXX0=
+eyJoaXN0b3J5IjpbNjY1NTUzODgyLDExMTIwOTQwNzBdfQ==
 -->
