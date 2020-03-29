@@ -97,7 +97,9 @@ let pmTiempo = salidas.filter(tarde);
 ```
 **Animaciones**
 ```javascript
-//El método .attr() de la librería D3 Library, 
+//En la librería 3D Library tiene el método .attr()
+//.attr('string', num);
+//.attr(atributo a modificar, valor)
 function tarde(tiempo){
  return tiempo.includes('pm');
 };
@@ -105,5 +107,5 @@ let pmTiempo = salidas.filter(tarde);
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODcyMTAwNTksMTExMjA5NDA3MF19
+eyJoaXN0b3J5IjpbMTY1NjU0ODExOSwxMTEyMDk0MDcwXX0=
 -->
