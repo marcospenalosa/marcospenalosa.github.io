@@ -16,6 +16,9 @@
    * Los campos **indirectos*** ***reales*** se usan para apuntar a tablas que no están directamente relaciondas y queremos **actualizar los registros**.
      * Se tiene que resolver un índice único.  
    * * Los campos **indirectos*** ***virtuales*** se usan para apuntar a tablas que no están directamente relaciondas y solo queremos **leer los registros**. 
+   * 
+### Interfaz
+* Solo puede haber un marco AUTOEXEC, que puede ser herado y es donde se indica el formulario de inicio.
    
 ### Programación 
    * Shift + F4 --> Abre el asistente de programación.
@@ -23,7 +26,7 @@
    * Shift + F6 --> Comenta las líneas seleccionadas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjM0NDM5NTQsNTY4OTczMDg4LDgzMD
-ExOTMxOCwxNDgwNDgzMTg2LDQwNTg0MDc4NiwxMTI3OTU2ODMy
-XX0=
+eyJoaXN0b3J5IjpbMTk1MjcxODc5NiwtMTEyMzQ0Mzk1NCw1Nj
+g5NzMwODgsODMwMTE5MzE4LDE0ODA0ODMxODYsNDA1ODQwNzg2
+LDExMjc5NTY4MzJdfQ==
 -->
