@@ -23,6 +23,7 @@
    *  Creamos un botón de alto y ancho 0.
    *  Lo ponemos como *botón por defecto*
    *  Comando --> Mover foco al control siguiente
+ * Menú -> Acciónes (los botones). 
    
 ### Programación 
    * Shift + F4 --> Abre el asistente de programación.
@@ -30,7 +31,7 @@
    * Shift + F6 --> Comenta las líneas seleccionadas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMjA2NzM1NSwxOTUyNzE4Nzk2LC0xMT
-IzNDQzOTU0LDU2ODk3MzA4OCw4MzAxMTkzMTgsMTQ4MDQ4MzE4
-Niw0MDU4NDA3ODYsMTEyNzk1NjgzMl19
+eyJoaXN0b3J5IjpbLTEzNzY2OTIyODYsMTgyMjA2NzM1NSwxOT
+UyNzE4Nzk2LC0xMTIzNDQzOTU0LDU2ODk3MzA4OCw4MzAxMTkz
+MTgsMTQ4MDQ4MzE4Niw0MDU4NDA3ODYsMTEyNzk1NjgzMl19
 -->
