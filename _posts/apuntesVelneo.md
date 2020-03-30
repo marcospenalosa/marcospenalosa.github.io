@@ -24,6 +24,7 @@
    *  Lo ponemos como *botón por defecto*
    *  Comando --> Mover foco al control siguiente
  * Menú -> Acciónes (los botones).  
+ * Rejilla
    
 ### Programación 
    * Shift + F4 --> Abre el asistente de programación.
@@ -31,7 +32,8 @@
    * Shift + F6 --> Comenta las líneas seleccionadas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU3MjEwNDM0LDE4MjIwNjczNTUsMTk1Mj
-cxODc5NiwtMTEyMzQ0Mzk1NCw1Njg5NzMwODgsODMwMTE5MzE4
-LDE0ODA0ODMxODYsNDA1ODQwNzg2LDExMjc5NTY4MzJdfQ==
+eyJoaXN0b3J5IjpbMjA1MzA0MjI2Myw1NTcyMTA0MzQsMTgyMj
+A2NzM1NSwxOTUyNzE4Nzk2LC0xMTIzNDQzOTU0LDU2ODk3MzA4
+OCw4MzAxMTkzMTgsMTQ4MDQ4MzE4Niw0MDU4NDA3ODYsMTEyNz
+k1NjgzMl19
 -->
