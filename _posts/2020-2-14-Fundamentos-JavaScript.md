@@ -106,11 +106,15 @@ blueStripe.attr('width',50).attr('height',100);
 //Con 'r' modificamos el radio
 circle.attr('r',50);
 
+//Con 'x' e 'y' modificamos la posición
+circle.attr('x',50).attr('y',100);
+
+
 //Para crear formas svg.append('String');
 var rect = svg.append('rect');
 var circle = svg.append('circle');
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc2NTcxOTg5LDY2NTU1Mzg4MiwxMTEyMD
-k0MDcwXX0=
+eyJoaXN0b3J5IjpbMzEwNjQ0OTU1LDU3NjU3MTk4OSw2NjU1NT
+M4ODIsMTExMjA5NDA3MF19
 -->
