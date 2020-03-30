@@ -108,8 +108,10 @@ circle.attr('r',50);
 
 //Con 'x' e 'y' modificamos la posición
 circle.attr('x',50).attr('y',100);
-//Con 'cx' e 'cy' modificamos la posición
-circle.attr('x',50).attr('y',100);
+
+//Con 'cx' e 'cy' modificamos la distancia con respecto a la pantalla
+//cx a la izquierda de la pantalla, cy a la parte de arriba
+circle.attr('cx',50).attr('cy',100);
 
 
 //Para crear formas svg.append('String');
@@ -117,6 +119,6 @@ var rect = svg.append('rect');
 var circle = svg.append('circle');
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTc0ODExNzcsMzEwNjQ0OTU1LDU3Nj
+eyJoaXN0b3J5IjpbLTE4MzM0NzE4MTEsMzEwNjQ0OTU1LDU3Nj
 U3MTk4OSw2NjU1NTM4ODIsMTExMjA5NDA3MF19
 -->
