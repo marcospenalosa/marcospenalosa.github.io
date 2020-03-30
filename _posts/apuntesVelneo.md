@@ -24,7 +24,7 @@
    *  Lo ponemos como *botón por defecto*
    *  Comando --> Mover foco al control siguiente
  * Menú -> Acciónes (los botones).  
- * Rejilla
+ * Rejilla --> Editable cuerpo verdadero (permite editar directamente los datos)
    
 ### Programación 
    * Shift + F4 --> Abre el asistente de programación.
@@ -32,8 +32,8 @@
    * Shift + F6 --> Comenta las líneas seleccionadas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MzA0MjI2Myw1NTcyMTA0MzQsMTgyMj
-A2NzM1NSwxOTUyNzE4Nzk2LC0xMTIzNDQzOTU0LDU2ODk3MzA4
-OCw4MzAxMTkzMTgsMTQ4MDQ4MzE4Niw0MDU4NDA3ODYsMTEyNz
-k1NjgzMl19
+eyJoaXN0b3J5IjpbOTMxMDc3MTc3LDU1NzIxMDQzNCwxODIyMD
+Y3MzU1LDE5NTI3MTg3OTYsLTExMjM0NDM5NTQsNTY4OTczMDg4
+LDgzMDExOTMxOCwxNDgwNDgzMTg2LDQwNTg0MDc4NiwxMTI3OT
+U2ODMyXX0=
 -->
