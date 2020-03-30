@@ -25,7 +25,7 @@
    *  Comando --> Mover foco al control siguiente
  * Menú -> Acciónes (los botones).  
  * Rejilla --> Editable cuerpo verdadero (permite editar directamente los datos)
- * 
+ * Video 77 --> Como hacer un informe https://www.youtube.com/watch?v=-1NGm5foTdo&list=PL-bVpgNOlmioFuAHHTmRlXX2dlof9w_tY&index=77
    
 ### Programación 
    * Shift + F4 --> Abre el asistente de programación.
@@ -33,7 +33,7 @@
    * Shift + F6 --> Comenta las líneas seleccionadas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NjU4NjA1NSw5MzEwNzcxNzcsNTU3Mj
+eyJoaXN0b3J5IjpbLTIyNjk4MDUzNSw5MzEwNzcxNzcsNTU3Mj
 EwNDM0LDE4MjIwNjczNTUsMTk1MjcxODc5NiwtMTEyMzQ0Mzk1
 NCw1Njg5NzMwODgsODMwMTE5MzE4LDE0ODA0ODMxODYsNDA1OD
 QwNzg2LDExMjc5NTY4MzJdfQ==
