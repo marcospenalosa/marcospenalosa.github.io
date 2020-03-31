@@ -118,11 +118,12 @@ circle.attr('cx',50).attr('cy',100);
 var rect = svg.append('rect');
 var circle = svg.append('circle');
 
-//
-`rectangle.attr('transform','rotate(15 60 40)`;
+//Con el atributo transform, se pueden enviar difrentes movimientos.
+//rotate hace girar el objeto en la posición x e y ind
+rectangle.attr('transform','rotate(15 60 40)';
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NjMyOTk4OSwtMTgzMzQ3MTgxMSwzMT
-A2NDQ5NTUsNTc2NTcxOTg5LDY2NTU1Mzg4MiwxMTEyMDk0MDcw
-XX0=
+eyJoaXN0b3J5IjpbOTY5NTU5MTIzLC0xODMzNDcxODExLDMxMD
+Y0NDk1NSw1NzY1NzE5ODksNjY1NTUzODgyLDExMTIwOTQwNzBd
+fQ==
 -->
