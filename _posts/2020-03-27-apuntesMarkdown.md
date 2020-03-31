@@ -49,13 +49,15 @@ Para la gente que tenga conocimientos en html, funciona de forma muy parecida, d
 * Viñeta 2
   * Viñeta 2.1
 
-**Viñetas**:
+**Lista de tareas**:
 
 ```markdown
-
  - [ ] Sin completar
-
+ - [x] Completada
 ```
+ - [ ] Sin completar
+ - [x] Completada
+ 
 Hay **encabezados** del 1 al 6 (1 el mayor 6 el menor)
 
 ```markdown
@@ -135,6 +137,6 @@ Línea horizontal
 | Texto 1 (izq)   | Texto 2  (centrado)  | Texto 3  (dch)   |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgwNzg0NDI4LDIxMzcxMjM1MDgsMTI0Nz
-kyNjI4Nl19
+eyJoaXN0b3J5IjpbLTIwODExNjI4OTUsMjEzNzEyMzUwOCwxMj
+Q3OTI2Mjg2XX0=
 -->
