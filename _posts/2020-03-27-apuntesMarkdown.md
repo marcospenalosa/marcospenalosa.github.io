@@ -20,7 +20,7 @@ El principal motivo para elegir Github como zona de apuntes, es que permite el f
 
 Para la gente que tenga conocimientos en html, funciona de forma muy parecida, de hecho en muchas páginas web te indican las formas de conseguir los mismos resultados con ambos. Necesitamos añadir las "marcas" para que las reconozca y realizace el formato que le indicamos.
 
-Negrita y cursiva.
+**Negrita y cursiva**:
 
 ```markdown
 *cursiva*
@@ -34,7 +34,7 @@ Negrita y cursiva.
 ***negrita y cursiva***
 ```
 
-Viñetas
+**Viñetas**:
 
 ```markdown
 * Viñeta 1 (hay que dejar el espacio)
@@ -130,5 +130,6 @@ Línea horizontal
 | Texto 1 (izq)   | Texto 2  (centrado)  | Texto 3  (dch)   |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNzEyMzUwOCwxMjQ3OTI2Mjg2XX0=
+eyJoaXN0b3J5IjpbLTM4MzQxNjc4OCwyMTM3MTIzNTA4LDEyND
+c5MjYyODZdfQ==
 -->
