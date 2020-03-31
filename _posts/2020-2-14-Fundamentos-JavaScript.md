@@ -117,8 +117,12 @@ circle.attr('cx',50).attr('cy',100);
 //Para crear formas svg.append('String');
 var rect = svg.append('rect');
 var circle = svg.append('circle');
+
+//
+`rectangle.attr('transform','rotate(15 60 40)`;
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzM0NzE4MTEsMzEwNjQ0OTU1LDU3Nj
-U3MTk4OSw2NjU1NTM4ODIsMTExMjA5NDA3MF19
+eyJoaXN0b3J5IjpbLTU5NjMyOTk4OSwtMTgzMzQ3MTgxMSwzMT
+A2NDQ5NTUsNTc2NTcxOTg5LDY2NTU1Mzg4MiwxMTEyMDk0MDcw
+XX0=
 -->
