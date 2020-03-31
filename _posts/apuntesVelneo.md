@@ -29,15 +29,15 @@
    
 ### Programación 
    * Shift + F4 --> Abre el asistente de programación.
-   * F
+   * Funciones de **campo**:
      *  #FCH **:** isModified() --> Comprueba si un campo ha cambiado
    * Shift + F6 --> Comenta las líneas seleccionadas.
    * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NzExMjMwMCwtMTc3NTQ5ODgzOCwtOT
-gyMjA0Mjg2LC0yMjY5ODA1MzUsOTMxMDc3MTc3LDU1NzIxMDQz
-NCwxODIyMDY3MzU1LDE5NTI3MTg3OTYsLTExMjM0NDM5NTQsNT
-Y4OTczMDg4LDgzMDExOTMxOCwxNDgwNDgzMTg2LDQwNTg0MDc4
-NiwxMTI3OTU2ODMyXX0=
+eyJoaXN0b3J5IjpbOTQ2MDI1MjgzLC0xNzc1NDk4ODM4LC05OD
+IyMDQyODYsLTIyNjk4MDUzNSw5MzEwNzcxNzcsNTU3MjEwNDM0
+LDE4MjIwNjczNTUsMTk1MjcxODc5NiwtMTEyMzQ0Mzk1NCw1Nj
+g5NzMwODgsODMwMTE5MzE4LDE0ODA0ODMxODYsNDA1ODQwNzg2
+LDExMjc5NTY4MzJdfQ==
 -->
