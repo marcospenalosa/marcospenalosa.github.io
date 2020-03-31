@@ -40,7 +40,7 @@ Viñetas
 * Viñeta 1 (hay que dejar el espacio)
 
 * Viñeta 2
-  * Viñeta 2.1 (hay que poner el * debajo de la 
+  * Viñeta 2.1 (hay que poner el * debajo de la primera letra)
 1. Lista numerada 1
 
 2. Lista numerada 2
@@ -130,5 +130,5 @@ Línea horizontal
 | Texto 1 (izq)   | Texto 2  (centrado)  | Texto 3  (dch)   |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk5NTMwODUxLDEyNDc5MjYyODZdfQ==
+eyJoaXN0b3J5IjpbMjEzNzEyMzUwOCwxMjQ3OTI2Mjg2XX0=
 -->
