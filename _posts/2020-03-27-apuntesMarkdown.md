@@ -49,6 +49,13 @@ Para la gente que tenga conocimientos en html, funciona de forma muy parecida, d
 * Viñeta 2
   * Viñeta 2.1
 
+**Viñetas**:
+
+```markdown
+
+ - [ ] Sin completar
+
+```
 Hay **encabezados** del 1 al 6 (1 el mayor 6 el menor)
 
 ```markdown
@@ -85,7 +92,7 @@ let i = 0;
 i = i + 5;
 console.log(i);
 ```
-Para imagenes y URLs
+Para **imagenes** y **URL**s
 
 ```markdown
 Para imagenes
@@ -93,11 +100,9 @@ Para imagenes
 ![Texto si no carga la imagen](dirección de la imagen)
 
 
-
 Para URL
 
 [texto a mostrar](dirección a la que enlazar)
-
 
 
 Imagen y URL
@@ -130,6 +135,6 @@ Línea horizontal
 | Texto 1 (izq)   | Texto 2  (centrado)  | Texto 3  (dch)   |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MzQxNjc4OCwyMTM3MTIzNTA4LDEyND
-c5MjYyODZdfQ==
+eyJoaXN0b3J5IjpbNzgwNzg0NDI4LDIxMzcxMjM1MDgsMTI0Nz
+kyNjI4Nl19
 -->
