@@ -31,10 +31,12 @@
    * Shift + F4 --> Abre el asistente de programación.
      *  #FCH **:** isModified() --> Comprueba si un campo ha cambiado
    * Shift + F6 --> Comenta las líneas seleccionadas.
+   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MjIwNDI4NiwtMjI2OTgwNTM1LDkzMT
-A3NzE3Nyw1NTcyMTA0MzQsMTgyMjA2NzM1NSwxOTUyNzE4Nzk2
-LC0xMTIzNDQzOTU0LDU2ODk3MzA4OCw4MzAxMTkzMTgsMTQ4MD
-Q4MzE4Niw0MDU4NDA3ODYsMTEyNzk1NjgzMl19
+eyJoaXN0b3J5IjpbLTE3NzU0OTg4MzgsLTk4MjIwNDI4NiwtMj
+I2OTgwNTM1LDkzMTA3NzE3Nyw1NTcyMTA0MzQsMTgyMjA2NzM1
+NSwxOTUyNzE4Nzk2LC0xMTIzNDQzOTU0LDU2ODk3MzA4OCw4Mz
+AxMTkzMTgsMTQ4MDQ4MzE4Niw0MDU4NDA3ODYsMTEyNzk1Njgz
+Ml19
 -->
