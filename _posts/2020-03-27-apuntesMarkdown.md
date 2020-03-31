@@ -40,11 +40,14 @@ Viñetas
 * Viñeta 1 (hay que dejar el espacio)
 
 * Viñeta 2
-
+  * Viñeta 2.1 (hay que poner el * debajo de la 
 1. Lista numerada 1
 
 2. Lista numerada 2
+   3. Lista numerada 2.1 
 ```
+* Viñeta 2
+  * Viñeta 2.1
 
 Hay **encabezados** del 1 al 6 (1 el mayor 6 el menor)
 
@@ -127,5 +130,5 @@ Línea horizontal
 | Texto 1 (izq)   | Texto 2  (centrado)  | Texto 3  (dch)   |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzkyNjI4Nl19
+eyJoaXN0b3J5IjpbMjk5NTMwODUxLDEyNDc5MjYyODZdfQ==
 -->
