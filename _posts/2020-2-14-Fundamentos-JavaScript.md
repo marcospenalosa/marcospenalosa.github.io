@@ -113,6 +113,11 @@ circle.attr('x',50).attr('y',100);
 //cx a la izquierda de la pantalla, cy a la parte de arriba
 circle.attr('cx',50).attr('cy',100);
 
+//'click' realiza el evento que le indiquemos al hacer click sobre
+// el objeto
+circle.attr('click',50).attr('cy',100);
+
+
 
 //Para crear formas svg.append('String');
 var rect = svg.append('rect');
@@ -123,7 +128,7 @@ var circle = svg.append('circle');
 rectangle.attr('transform','rotate(15 60 40)';
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyOTYwNjQ3MSwtMTgzMzQ3MTgxMSwzMT
-A2NDQ5NTUsNTc2NTcxOTg5LDY2NTU1Mzg4MiwxMTEyMDk0MDcw
-XX0=
+eyJoaXN0b3J5IjpbLTIxMTYxNTk5NTUsLTMyOTYwNjQ3MSwtMT
+gzMzQ3MTgxMSwzMTA2NDQ5NTUsNTc2NTcxOTg5LDY2NTU1Mzg4
+MiwxMTEyMDk0MDcwXX0=
 -->
