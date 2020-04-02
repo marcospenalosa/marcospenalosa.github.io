@@ -115,7 +115,7 @@ circle.attr('cx',50).attr('cy',100);
 
 //'click' realiza el evento que le indiquemos al hacer click sobre
 // el objeto
-circle.attr('click',50).attr('cy',100);
+circle.attr('click',pickRamdon(color);
 
 
 
@@ -128,7 +128,7 @@ var circle = svg.append('circle');
 rectangle.attr('transform','rotate(15 60 40)';
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTYxNTk5NTUsLTMyOTYwNjQ3MSwtMT
-gzMzQ3MTgxMSwzMTA2NDQ5NTUsNTc2NTcxOTg5LDY2NTU1Mzg4
-MiwxMTEyMDk0MDcwXX0=
+eyJoaXN0b3J5IjpbMTg2Mjk3MjY0MiwtMzI5NjA2NDcxLC0xOD
+MzNDcxODExLDMxMDY0NDk1NSw1NzY1NzE5ODksNjY1NTUzODgy
+LDExMTIwOTQwNzBdfQ==
 -->
