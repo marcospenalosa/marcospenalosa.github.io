@@ -60,14 +60,14 @@
     * Marcar el check de Fichero -> Preferencia -> Miscelánea -> Abrir ventana maximizada
     * Informe -> Configuración de informe y página  
        * Modo de pasa doble: Si queremos hacer 1 pág de 50 hay que marcar este check para que vReport cuente cuantas páginas hay.
-       * 
+       * Opciones de sección: Se define las cabeceras y pies.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMjgxNjY0MywtNDU0Mjg0ODk1LDQxMT
-c2MzE3MywtMTUxMTQ3ODcyMywtMjg4MTc2MDUzLC03ODQ4MzYz
-MiwxNTA4ODQxMTg0LDk0NjAyNTI4MywtMTc3NTQ5ODgzOCwtOT
-gyMjA0Mjg2LC0yMjY5ODA1MzUsOTMxMDc3MTc3LDU1NzIxMDQz
-NCwxODIyMDY3MzU1LDE5NTI3MTg3OTYsLTExMjM0NDM5NTQsNT
-Y4OTczMDg4LDgzMDExOTMxOCwxNDgwNDgzMTg2LDQwNTg0MDc4
-Nl19
+eyJoaXN0b3J5IjpbLTgzMDg3NjQ4LC00NTQyODQ4OTUsNDExNz
+YzMTczLC0xNTExNDc4NzIzLC0yODgxNzYwNTMsLTc4NDgzNjMy
+LDE1MDg4NDExODQsOTQ2MDI1MjgzLC0xNzc1NDk4ODM4LC05OD
+IyMDQyODYsLTIyNjk4MDUzNSw5MzEwNzcxNzcsNTU3MjEwNDM0
+LDE4MjIwNjczNTUsMTk1MjcxODc5NiwtMTEyMzQ0Mzk1NCw1Nj
+g5NzMwODgsODMwMTE5MzE4LDE0ODA0ODMxODYsNDA1ODQwNzg2
+XX0=
 -->
