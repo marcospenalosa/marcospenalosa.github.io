@@ -35,15 +35,20 @@
    
 ### vReport
    * Partes de un informe:
-     *  Cabecera de página.
-     *  Cabecera de informe
-     *  Cabecera de agrupamiento
+     *  Cabecera de página: Siempre
+     *  Cabecera de informe: Al inicio del informe
+     *  Cabecera de agrupamiento: Dentro del agrupamiento
+	 * Detalle 1
+	 * Detalle n
+      * Pie de agrupamiento: Dentro 
+      * Pie de informe: Al final del informe
+      * Pie de página: Siempre 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY3OTQwNDgsLTc4NDgzNjMyLDE1MDg4ND
-ExODQsOTQ2MDI1MjgzLC0xNzc1NDk4ODM4LC05ODIyMDQyODYs
-LTIyNjk4MDUzNSw5MzEwNzcxNzcsNTU3MjEwNDM0LDE4MjIwNj
-czNTUsMTk1MjcxODc5NiwtMTEyMzQ0Mzk1NCw1Njg5NzMwODgs
-ODMwMTE5MzE4LDE0ODA0ODMxODYsNDA1ODQwNzg2LDExMjc5NT
-Y4MzJdfQ==
+eyJoaXN0b3J5IjpbODU4MjIxNzM0LC03ODQ4MzYzMiwxNTA4OD
+QxMTg0LDk0NjAyNTI4MywtMTc3NTQ5ODgzOCwtOTgyMjA0Mjg2
+LC0yMjY5ODA1MzUsOTMxMDc3MTc3LDU1NzIxMDQzNCwxODIyMD
+Y3MzU1LDE5NTI3MTg3OTYsLTExMjM0NDM5NTQsNTY4OTczMDg4
+LDgzMDExOTMxOCwxNDgwNDgzMTg2LDQwNTg0MDc4NiwxMTI3OT
+U2ODMyXX0=
 -->
