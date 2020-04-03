@@ -56,10 +56,12 @@
      * Impresora.
      * Disco.
      * Pantalla. 
-  * En el e 
+  * En el editor de informes:
+    * Marcar el check de Fichero -> Preferencia -> Miscelánea -> Abrir ventana maximizada
+    *   Modo de pasa doble: Si queremos hacer 1 pa´g de 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxOTEwNjA1NSwtNDU0Mjg0ODk1LDQxMT
+eyJoaXN0b3J5IjpbLTM5MDExNDE5NSwtNDU0Mjg0ODk1LDQxMT
 c2MzE3MywtMTUxMTQ3ODcyMywtMjg4MTc2MDUzLC03ODQ4MzYz
 MiwxNTA4ODQxMTg0LDk0NjAyNTI4MywtMTc3NTQ5ODgzOCwtOT
 gyMjA0Mjg2LC0yMjY5ODA1MzUsOTMxMDc3MTc3LDU1NzIxMDQz
