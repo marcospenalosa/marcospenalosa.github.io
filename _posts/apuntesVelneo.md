@@ -37,18 +37,18 @@
    * Partes de un informe:
      *  Cabecera de página: Siempre
      *  Cabecera de informe: Al inicio del informe
-     *  Cabecera de agrupamiento: Dentro del agrupamiento
+     *  Cabecera de agrupamiento: Al inicio del agrupamiento
 	 * Detalle 1
 	 * Detalle n
-      * Pie de agrupamiento: Dentro 
+      * Pie de agrupamiento: Al final del agrupamiento
       * Pie de informe: Al final del informe
       * Pie de página: Siempre 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU4MjIxNzM0LC03ODQ4MzYzMiwxNTA4OD
-QxMTg0LDk0NjAyNTI4MywtMTc3NTQ5ODgzOCwtOTgyMjA0Mjg2
-LC0yMjY5ODA1MzUsOTMxMDc3MTc3LDU1NzIxMDQzNCwxODIyMD
-Y3MzU1LDE5NTI3MTg3OTYsLTExMjM0NDM5NTQsNTY4OTczMDg4
-LDgzMDExOTMxOCwxNDgwNDgzMTg2LDQwNTg0MDc4NiwxMTI3OT
-U2ODMyXX0=
+eyJoaXN0b3J5IjpbMTEyMjk1Mjg4MiwtNzg0ODM2MzIsMTUwOD
+g0MTE4NCw5NDYwMjUyODMsLTE3NzU0OTg4MzgsLTk4MjIwNDI4
+NiwtMjI2OTgwNTM1LDkzMTA3NzE3Nyw1NTcyMTA0MzQsMTgyMj
+A2NzM1NSwxOTUyNzE4Nzk2LC0xMTIzNDQzOTU0LDU2ODk3MzA4
+OCw4MzAxMTkzMTgsMTQ4MDQ4MzE4Niw0MDU4NDA3ODYsMTEyNz
+k1NjgzMl19
 -->
