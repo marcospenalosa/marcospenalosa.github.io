@@ -42,7 +42,7 @@
    *  Cabecera de informe: Al inicio del informe
    *  Cabecera de agrupamiento: Al inicio del agrupamiento
        * Detalle 1
-	* Detalle n
+	* Detalle N
 * Pie de agrupamiento: Al final del agrupamiento
 * Pie de informe: Al final del informe
 * Pie de página: Siempre .
@@ -56,7 +56,7 @@
      * Pantalla. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjIwNzA5NjQsLTE1MTE0Nzg3MjMsLT
+eyJoaXN0b3J5IjpbLTExMzg1MDgyNDQsLTE1MTE0Nzg3MjMsLT
 I4ODE3NjA1MywtNzg0ODM2MzIsMTUwODg0MTE4NCw5NDYwMjUy
 ODMsLTE3NzU0OTg4MzgsLTk4MjIwNDI4NiwtMjI2OTgwNTM1LD
 kzMTA3NzE3Nyw1NTcyMTA0MzQsMTgyMjA2NzM1NSwxOTUyNzE4
