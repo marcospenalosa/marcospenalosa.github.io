@@ -61,9 +61,10 @@
     * Informe -> Configuración de informe y página  
        * Modo de pasa doble: Si queremos hacer 1 pág de 50 hay que marcar este check para que vReport cuente cuantas páginas hay.
        * Opciones de sección: Se define las cabeceras y pies.
+       * Origen de datos: Indicamos donde 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMDg3NjQ4LC00NTQyODQ4OTUsNDExNz
+eyJoaXN0b3J5IjpbNzYwNTMyNDczLC00NTQyODQ4OTUsNDExNz
 YzMTczLC0xNTExNDc4NzIzLC0yODgxNzYwNTMsLTc4NDgzNjMy
 LDE1MDg4NDExODQsOTQ2MDI1MjgzLC0xNzc1NDk4ODM4LC05OD
 IyMDQyODYsLTIyNjk4MDUzNSw5MzEwNzcxNzcsNTU3MjEwNDM0
