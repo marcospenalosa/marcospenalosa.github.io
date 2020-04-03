@@ -64,16 +64,15 @@
        * Origen de datos: Indicamos donde coge los datos.
        * Tablas y campos con check privados nos ayuda a quitar opciones a editar por parte del cliente.
  * Fórmulas script:
-   *  V7:
-     * "$D{#NAME}" == "name" 
-     * "
+    * "$D{#NAME}" == "name" 
+    * "Página " + $V{pageno} + " de " + $V{pagecount}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTE1OTIzOCwtMjAxNjA0MDE0OCwtND
-cxODQwMjcwLC00NTQyODQ4OTUsNDExNzYzMTczLC0xNTExNDc4
-NzIzLC0yODgxNzYwNTMsLTc4NDgzNjMyLDE1MDg4NDExODQsOT
-Q2MDI1MjgzLC0xNzc1NDk4ODM4LC05ODIyMDQyODYsLTIyNjk4
-MDUzNSw5MzEwNzcxNzcsNTU3MjEwNDM0LDE4MjIwNjczNTUsMT
-k1MjcxODc5NiwtMTEyMzQ0Mzk1NCw1Njg5NzMwODgsODMwMTE5
-MzE4XX0=
+eyJoaXN0b3J5IjpbLTEwMzI1MTI4MzcsLTIwMTYwNDAxNDgsLT
+Q3MTg0MDI3MCwtNDU0Mjg0ODk1LDQxMTc2MzE3MywtMTUxMTQ3
+ODcyMywtMjg4MTc2MDUzLC03ODQ4MzYzMiwxNTA4ODQxMTg0LD
+k0NjAyNTI4MywtMTc3NTQ5ODgzOCwtOTgyMjA0Mjg2LC0yMjY5
+ODA1MzUsOTMxMDc3MTc3LDU1NzIxMDQzNCwxODIyMDY3MzU1LD
+E5NTI3MTg3OTYsLTExMjM0NDM5NTQsNTY4OTczMDg4LDgzMDEx
+OTMxOF19
 -->
