@@ -33,7 +33,7 @@
      *  #FCH **:** isModified() --> Comprueba si un campo ha cambiado
    * Shift + F6 --> Comenta las líneas seleccionadas.
    
-### vReport e Informes
+### vReport
 * Se puede editar desde 2 sitios:
   * vDevelop: Objetos -> Editar informe externo.
   * vClient: Es la mejor opción, porque se ve los cambios en directo, mediante comandos.
@@ -54,12 +54,13 @@
      * Impresora.
      * Disco.
      * Pantalla. 
-
+### vReport pasos para crear un informe
+#### Crear un plantilla de texto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzg1MDgyNDQsLTE1MTE0Nzg3MjMsLT
-I4ODE3NjA1MywtNzg0ODM2MzIsMTUwODg0MTE4NCw5NDYwMjUy
-ODMsLTE3NzU0OTg4MzgsLTk4MjIwNDI4NiwtMjI2OTgwNTM1LD
-kzMTA3NzE3Nyw1NTcyMTA0MzQsMTgyMjA2NzM1NSwxOTUyNzE4
-Nzk2LC0xMTIzNDQzOTU0LDU2ODk3MzA4OCw4MzAxMTkzMTgsMT
-Q4MDQ4MzE4Niw0MDU4NDA3ODYsMTEyNzk1NjgzMl19
+eyJoaXN0b3J5IjpbLTY0MzM5MTkwMywtMTUxMTQ3ODcyMywtMj
+g4MTc2MDUzLC03ODQ4MzYzMiwxNTA4ODQxMTg0LDk0NjAyNTI4
+MywtMTc3NTQ5ODgzOCwtOTgyMjA0Mjg2LC0yMjY5ODA1MzUsOT
+MxMDc3MTc3LDU1NzIxMDQzNCwxODIyMDY3MzU1LDE5NTI3MTg3
+OTYsLTExMjM0NDM5NTQsNTY4OTczMDg4LDgzMDExOTMxOCwxND
+gwNDgzMTg2LDQwNTg0MDc4NiwxMTI3OTU2ODMyXX0=
 -->
