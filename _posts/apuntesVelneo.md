@@ -32,12 +32,13 @@
    * Funciones de **campo**:
      *  #FCH **:** isModified() --> Comprueba si un campo ha cambiado
    * Shift + F6 --> Comenta las líneas seleccionadas.
+### vReport
    * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ2MDI1MjgzLC0xNzc1NDk4ODM4LC05OD
-IyMDQyODYsLTIyNjk4MDUzNSw5MzEwNzcxNzcsNTU3MjEwNDM0
-LDE4MjIwNjczNTUsMTk1MjcxODc5NiwtMTEyMzQ0Mzk1NCw1Nj
-g5NzMwODgsODMwMTE5MzE4LDE0ODA0ODMxODYsNDA1ODQwNzg2
-LDExMjc5NTY4MzJdfQ==
+eyJoaXN0b3J5IjpbMTUwODg0MTE4NCw5NDYwMjUyODMsLTE3Nz
+U0OTg4MzgsLTk4MjIwNDI4NiwtMjI2OTgwNTM1LDkzMTA3NzE3
+Nyw1NTcyMTA0MzQsMTgyMjA2NzM1NSwxOTUyNzE4Nzk2LC0xMT
+IzNDQzOTU0LDU2ODk3MzA4OCw4MzAxMTkzMTgsMTQ4MDQ4MzE4
+Niw0MDU4NDA3ODYsMTEyNzk1NjgzMl19
 -->
