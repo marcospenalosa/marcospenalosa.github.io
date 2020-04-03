@@ -56,12 +56,13 @@
      * Pantalla. 
 ### vReport pasos para crear un informe
 #### Crear un plantilla de texto.
-No existe editor, hay que hacerlo en un archivo de texto plano con formulas, script y etiquetas de V7
+No existe editor, hay que hacerlo en un archivo de texto plano con formulas, script y etiquetas de V7.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExNzYzMTczLC0xNTExNDc4NzIzLC0yOD
-gxNzYwNTMsLTc4NDgzNjMyLDE1MDg4NDExODQsOTQ2MDI1Mjgz
-LC0xNzc1NDk4ODM4LC05ODIyMDQyODYsLTIyNjk4MDUzNSw5Mz
-EwNzcxNzcsNTU3MjEwNDM0LDE4MjIwNjczNTUsMTk1MjcxODc5
-NiwtMTEyMzQ0Mzk1NCw1Njg5NzMwODgsODMwMTE5MzE4LDE0OD
-A0ODMxODYsNDA1ODQwNzg2LDExMjc5NTY4MzJdfQ==
+eyJoaXN0b3J5IjpbLTQ1NDI4NDg5NSw0MTE3NjMxNzMsLTE1MT
+E0Nzg3MjMsLTI4ODE3NjA1MywtNzg0ODM2MzIsMTUwODg0MTE4
+NCw5NDYwMjUyODMsLTE3NzU0OTg4MzgsLTk4MjIwNDI4NiwtMj
+I2OTgwNTM1LDkzMTA3NzE3Nyw1NTcyMTA0MzQsMTgyMjA2NzM1
+NSwxOTUyNzE4Nzk2LC0xMTIzNDQzOTU0LDU2ODk3MzA4OCw4Mz
+AxMTkzMTgsMTQ4MDQ4MzE4Niw0MDU4NDA3ODYsMTEyNzk1Njgz
+Ml19
 -->
