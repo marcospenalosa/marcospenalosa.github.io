@@ -38,14 +38,16 @@
   * vDevelop: Objetos -> Editar informe externo.
   * vClient: Es la mejor opción, porque se ve los cambios en directo, mediante comandos.
 * Partes de un informe:
-   *  Cabecera de página: Siempre
-   *  Cabecera de informe: Al inicio del informe
-   *  Cabecera de agrupamiento: Al inicio del agrupamiento
-       * Detalle 1
-       * Detalle N
-* Pie de agrupamiento: Al final del agrupamiento
-* Pie de informe: Al final del informe
-* Pie de página: Siempre .
+   *  Cabecera 
+      * De página: Siempre
+      * De informe: Al inicio del informe
+      * De agrupamiento: Al inicio del agrupamiento
+         * Detalle 1
+         * Detalle N
+  * Pie 
+    * De agrupamiento: Al final del agrupamiento
+    * De informe: Al final del informe
+     * De página: Siempre .
 * En vReport siempre tenemos que ordenar la lista que le pasemos. 
 * Definir impresora lógica.
    *  Path: usuario/velneo/printers/vrl
@@ -54,13 +56,14 @@
      * Impresora.
      * Disco.
      * Pantalla. 
+  * En el e 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTQzNTc2LC00NTQyODQ4OTUsNDExNz
-YzMTczLC0xNTExNDc4NzIzLC0yODgxNzYwNTMsLTc4NDgzNjMy
-LDE1MDg4NDExODQsOTQ2MDI1MjgzLC0xNzc1NDk4ODM4LC05OD
-IyMDQyODYsLTIyNjk4MDUzNSw5MzEwNzcxNzcsNTU3MjEwNDM0
-LDE4MjIwNjczNTUsMTk1MjcxODc5NiwtMTEyMzQ0Mzk1NCw1Nj
-g5NzMwODgsODMwMTE5MzE4LDE0ODA0ODMxODYsNDA1ODQwNzg2
-XX0=
+eyJoaXN0b3J5IjpbMTcxOTEwNjA1NSwtNDU0Mjg0ODk1LDQxMT
+c2MzE3MywtMTUxMTQ3ODcyMywtMjg4MTc2MDUzLC03ODQ4MzYz
+MiwxNTA4ODQxMTg0LDk0NjAyNTI4MywtMTc3NTQ5ODgzOCwtOT
+gyMjA0Mjg2LC0yMjY5ODA1MzUsOTMxMDc3MTc3LDU1NzIxMDQz
+NCwxODIyMDY3MzU1LDE5NTI3MTg3OTYsLTExMjM0NDM5NTQsNT
+Y4OTczMDg4LDgzMDExOTMxOCwxNDgwNDgzMTg2LDQwNTg0MDc4
+Nl19
 -->
