@@ -34,12 +34,16 @@
    * Shift + F6 --> Comenta las líneas seleccionadas.
    
 ### vReport
-   * 
+   * Partes de un informe:
+     *  Cabecera de página.
+     *  Cabecera de informe
+     *  Cabecera de agrupamiento
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NDgzNjMyLDE1MDg4NDExODQsOTQ2MD
-I1MjgzLC0xNzc1NDk4ODM4LC05ODIyMDQyODYsLTIyNjk4MDUz
-NSw5MzEwNzcxNzcsNTU3MjEwNDM0LDE4MjIwNjczNTUsMTk1Mj
-cxODc5NiwtMTEyMzQ0Mzk1NCw1Njg5NzMwODgsODMwMTE5MzE4
-LDE0ODA0ODMxODYsNDA1ODQwNzg2LDExMjc5NTY4MzJdfQ==
+eyJoaXN0b3J5IjpbNDY3OTQwNDgsLTc4NDgzNjMyLDE1MDg4ND
+ExODQsOTQ2MDI1MjgzLC0xNzc1NDk4ODM4LC05ODIyMDQyODYs
+LTIyNjk4MDUzNSw5MzEwNzcxNzcsNTU3MjEwNDM0LDE4MjIwNj
+czNTUsMTk1MjcxODc5NiwtMTEyMzQ0Mzk1NCw1Njg5NzMwODgs
+ODMwMTE5MzE4LDE0ODA0ODMxODYsNDA1ODQwNzg2LDExMjc5NT
+Y4MzJdfQ==
 -->
