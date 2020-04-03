@@ -35,7 +35,7 @@
    
 ### vReport e Informes
 * Se puede editar desde 2 sitios:
-* 
+  * vDevelop: 
 * Partes de un informe:
    *  Cabecera de página: Siempre
    *  Cabecera de informe: Al inicio del informe
@@ -48,17 +48,17 @@
 * En vReport siempre tenemos que ordenar la lista que le pasemos. 
 * Definir impresora lógica.
    *  Path: usuario/velneo/printers/vrl
-    * Extensión del fichero **.vil**
-     *  Modos de impresión:
-        * Impresora.
-        * Disco.
-        * Pantalla. 
+    * Extensión del fichero: **.vil**
+ *  Modos de impresión:
+     * Impresora.
+     * Disco.
+     * Pantalla. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzODc5MDQ3MCwtMTUxMTQ3ODcyMywtMj
-g4MTc2MDUzLC03ODQ4MzYzMiwxNTA4ODQxMTg0LDk0NjAyNTI4
-MywtMTc3NTQ5ODgzOCwtOTgyMjA0Mjg2LC0yMjY5ODA1MzUsOT
-MxMDc3MTc3LDU1NzIxMDQzNCwxODIyMDY3MzU1LDE5NTI3MTg3
-OTYsLTExMjM0NDM5NTQsNTY4OTczMDg4LDgzMDExOTMxOCwxND
-gwNDgzMTg2LDQwNTg0MDc4NiwxMTI3OTU2ODMyXX0=
+eyJoaXN0b3J5IjpbLTE3MjA2NDQ0ODEsLTE1MTE0Nzg3MjMsLT
+I4ODE3NjA1MywtNzg0ODM2MzIsMTUwODg0MTE4NCw5NDYwMjUy
+ODMsLTE3NzU0OTg4MzgsLTk4MjIwNDI4NiwtMjI2OTgwNTM1LD
+kzMTA3NzE3Nyw1NTcyMTA0MzQsMTgyMjA2NzM1NSwxOTUyNzE4
+Nzk2LC0xMTIzNDQzOTU0LDU2ODk3MzA4OCw4MzAxMTkzMTgsMT
+Q4MDQ4MzE4Niw0MDU4NDA3ODYsMTEyNzk1NjgzMl19
 -->
