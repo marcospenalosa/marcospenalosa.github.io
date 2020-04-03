@@ -44,12 +44,13 @@
       * Pie de informe: Al final del informe
       * Pie de página: Siempre .
     * En vReport siempre ordenar la lista que le pasemos. 
+    * Definir impresora lógica.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3Nzc2NzY5NywtNzg0ODM2MzIsMTUwOD
-g0MTE4NCw5NDYwMjUyODMsLTE3NzU0OTg4MzgsLTk4MjIwNDI4
-NiwtMjI2OTgwNTM1LDkzMTA3NzE3Nyw1NTcyMTA0MzQsMTgyMj
-A2NzM1NSwxOTUyNzE4Nzk2LC0xMTIzNDQzOTU0LDU2ODk3MzA4
-OCw4MzAxMTkzMTgsMTQ4MDQ4MzE4Niw0MDU4NDA3ODYsMTEyNz
-k1NjgzMl19
+eyJoaXN0b3J5IjpbLTEyNzc0NDQ3NjMsLTc4NDgzNjMyLDE1MD
+g4NDExODQsOTQ2MDI1MjgzLC0xNzc1NDk4ODM4LC05ODIyMDQy
+ODYsLTIyNjk4MDUzNSw5MzEwNzcxNzcsNTU3MjEwNDM0LDE4Mj
+IwNjczNTUsMTk1MjcxODc5NiwtMTEyMzQ0Mzk1NCw1Njg5NzMw
+ODgsODMwMTE5MzE4LDE0ODA0ODMxODYsNDA1ODQwNzg2LDExMj
+c5NTY4MzJdfQ==
 -->
