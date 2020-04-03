@@ -42,7 +42,7 @@
    *  Cabecera de informe: Al inicio del informe
    *  Cabecera de agrupamiento: Al inicio del agrupamiento
        * Detalle 1
-	* Detalle N
+       * Detalle N
 * Pie de agrupamiento: Al final del agrupamiento
 * Pie de informe: Al final del informe
 * Pie de página: Siempre .
@@ -54,15 +54,13 @@
      * Impresora.
      * Disco.
      * Pantalla. 
-### vReport pasos para crear un informe
-#### Crear un plantilla de texto.
-No existe editor, hay que hacerlo en un archivo de texto plano con formulas, script y etiquetas de V7.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDI4NDg5NSw0MTE3NjMxNzMsLTE1MT
-E0Nzg3MjMsLTI4ODE3NjA1MywtNzg0ODM2MzIsMTUwODg0MTE4
-NCw5NDYwMjUyODMsLTE3NzU0OTg4MzgsLTk4MjIwNDI4NiwtMj
-I2OTgwNTM1LDkzMTA3NzE3Nyw1NTcyMTA0MzQsMTgyMjA2NzM1
-NSwxOTUyNzE4Nzk2LC0xMTIzNDQzOTU0LDU2ODk3MzA4OCw4Mz
-AxMTkzMTgsMTQ4MDQ4MzE4Niw0MDU4NDA3ODYsMTEyNzk1Njgz
-Ml19
+eyJoaXN0b3J5IjpbLTk2NTQzNTc2LC00NTQyODQ4OTUsNDExNz
+YzMTczLC0xNTExNDc4NzIzLC0yODgxNzYwNTMsLTc4NDgzNjMy
+LDE1MDg4NDExODQsOTQ2MDI1MjgzLC0xNzc1NDk4ODM4LC05OD
+IyMDQyODYsLTIyNjk4MDUzNSw5MzEwNzcxNzcsNTU3MjEwNDM0
+LDE4MjIwNjczNTUsMTk1MjcxODc5NiwtMTEyMzQ0Mzk1NCw1Nj
+g5NzMwODgsODMwMTE5MzE4LDE0ODA0ODMxODYsNDA1ODQwNzg2
+XX0=
 -->
