@@ -35,7 +35,8 @@
    
 ### vReport e Informes
 * Se puede editar desde 2 sitios:
-  * vDevelop: 
+  * vDevelop: Objetos -> Editar informe externo.
+  * vClient: Es la mejor opción, porque se ve los cambios en directo, mediante comandos.
 * Partes de un informe:
    *  Cabecera de página: Siempre
    *  Cabecera de informe: Al inicio del informe
@@ -55,7 +56,7 @@
      * Pantalla. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjA2NDQ0ODEsLTE1MTE0Nzg3MjMsLT
+eyJoaXN0b3J5IjpbLTExMjIwNzA5NjQsLTE1MTE0Nzg3MjMsLT
 I4ODE3NjA1MywtNzg0ODM2MzIsMTUwODg0MTE4NCw5NDYwMjUy
 ODMsLTE3NzU0OTg4MzgsLTk4MjIwNDI4NiwtMjI2OTgwNTM1LD
 kzMTA3NzE3Nyw1NTcyMTA0MzQsMTgyMjA2NzM1NSwxOTUyNzE4
