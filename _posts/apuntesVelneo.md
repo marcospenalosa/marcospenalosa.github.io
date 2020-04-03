@@ -33,7 +33,7 @@
      *  #FCH **:** isModified() --> Comprueba si un campo ha cambiado
    * Shift + F6 --> Comenta las líneas seleccionadas.
    
-### vReport
+### vReport e Informes
    * Partes de un informe:
      *  Cabecera de página: Siempre
      *  Cabecera de informe: Al inicio del informe
@@ -42,10 +42,11 @@
 	 * Detalle n
       * Pie de agrupamiento: Al final del agrupamiento
       * Pie de informe: Al final del informe
-      * Pie de página: Siempre 
+      * Pie de página: Siempre .
+    * En vReport siempre ordenar la lista que le pasemos. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjk1Mjg4MiwtNzg0ODM2MzIsMTUwOD
+eyJoaXN0b3J5IjpbLTU3Nzc2NzY5NywtNzg0ODM2MzIsMTUwOD
 g0MTE4NCw5NDYwMjUyODMsLTE3NzU0OTg4MzgsLTk4MjIwNDI4
 NiwtMjI2OTgwNTM1LDkzMTA3NzE3Nyw1NTcyMTA0MzQsMTgyMj
 A2NzM1NSwxOTUyNzE4Nzk2LC0xMTIzNDQzOTU0LDU2ODk3MzA4
