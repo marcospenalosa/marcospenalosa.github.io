@@ -58,10 +58,12 @@
      * Pantalla. 
   * En el editor de informes:
     * Marcar el check de Fichero -> Preferencia -> Miscelánea -> Abrir ventana maximizada
-    *   Modo de pasa doble: Si queremos hacer 1 pa´g de 
+    * Informe -> Configuración de informe y página  
+       * Modo de pasa doble: Si queremos hacer 1 pág de 50 hay que marcar este check para que vReport cuente cuantas páginas hay.
+       * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDExNDE5NSwtNDU0Mjg0ODk1LDQxMT
+eyJoaXN0b3J5IjpbMTIxMjgxNjY0MywtNDU0Mjg0ODk1LDQxMT
 c2MzE3MywtMTUxMTQ3ODcyMywtMjg4MTc2MDUzLC03ODQ4MzYz
 MiwxNTA4ODQxMTg0LDk0NjAyNTI4MywtMTc3NTQ5ODgzOCwtOT
 gyMjA0Mjg2LC0yMjY5ODA1MzUsOTMxMDc3MTc3LDU1NzIxMDQz
