@@ -63,14 +63,16 @@
        * Opciones de sección: Se define las cabeceras y pies.
        * Origen de datos: Indicamos donde coge los datos.
        * Tablas y campos con check privados nos ayuda a quitar opciones a editar por parte del cliente.
-       * Fo´rmula
+ * Fórmulas script:
+   *  V7:
+     * "$D{#NAME} 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDI1MjQ2OTAsLTQ3MTg0MDI3MCwtND
-U0Mjg0ODk1LDQxMTc2MzE3MywtMTUxMTQ3ODcyMywtMjg4MTc2
-MDUzLC03ODQ4MzYzMiwxNTA4ODQxMTg0LDk0NjAyNTI4MywtMT
-c3NTQ5ODgzOCwtOTgyMjA0Mjg2LC0yMjY5ODA1MzUsOTMxMDc3
-MTc3LDU1NzIxMDQzNCwxODIyMDY3MzU1LDE5NTI3MTg3OTYsLT
-ExMjM0NDM5NTQsNTY4OTczMDg4LDgzMDExOTMxOCwxNDgwNDgz
-MTg2XX0=
+eyJoaXN0b3J5IjpbMTI1NDk3NzAwNywtNDcxODQwMjcwLC00NT
+QyODQ4OTUsNDExNzYzMTczLC0xNTExNDc4NzIzLC0yODgxNzYw
+NTMsLTc4NDgzNjMyLDE1MDg4NDExODQsOTQ2MDI1MjgzLC0xNz
+c1NDk4ODM4LC05ODIyMDQyODYsLTIyNjk4MDUzNSw5MzEwNzcx
+NzcsNTU3MjEwNDM0LDE4MjIwNjczNTUsMTk1MjcxODc5NiwtMT
+EyMzQ0Mzk1NCw1Njg5NzMwODgsODMwMTE5MzE4LDE0ODA0ODMx
+ODZdfQ==
 -->
