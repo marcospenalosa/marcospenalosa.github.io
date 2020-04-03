@@ -61,14 +61,16 @@
     * Informe -> Configuración de informe y página  
        * Modo de pasa doble: Si queremos hacer 1 pág de 50 hay que marcar este check para que vReport cuente cuantas páginas hay.
        * Opciones de sección: Se define las cabeceras y pies.
-       * Origen de datos: Indicamos donde 
+       * Origen de datos: Indicamos donde coge los datos.
+       * Tablas y campos con check privados nos ayuda a quitar opciones a editar por parte del cliente.
+       * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYwNTMyNDczLC00NTQyODQ4OTUsNDExNz
-YzMTczLC0xNTExNDc4NzIzLC0yODgxNzYwNTMsLTc4NDgzNjMy
-LDE1MDg4NDExODQsOTQ2MDI1MjgzLC0xNzc1NDk4ODM4LC05OD
-IyMDQyODYsLTIyNjk4MDUzNSw5MzEwNzcxNzcsNTU3MjEwNDM0
-LDE4MjIwNjczNTUsMTk1MjcxODc5NiwtMTEyMzQ0Mzk1NCw1Nj
-g5NzMwODgsODMwMTE5MzE4LDE0ODA0ODMxODYsNDA1ODQwNzg2
-XX0=
+eyJoaXN0b3J5IjpbLTQ3MTg0MDI3MCwtNDU0Mjg0ODk1LDQxMT
+c2MzE3MywtMTUxMTQ3ODcyMywtMjg4MTc2MDUzLC03ODQ4MzYz
+MiwxNTA4ODQxMTg0LDk0NjAyNTI4MywtMTc3NTQ5ODgzOCwtOT
+gyMjA0Mjg2LC0yMjY5ODA1MzUsOTMxMDc3MTc3LDU1NzIxMDQz
+NCwxODIyMDY3MzU1LDE5NTI3MTg3OTYsLTExMjM0NDM5NTQsNT
+Y4OTczMDg4LDgzMDExOTMxOCwxNDgwNDgzMTg2LDQwNTg0MDc4
+Nl19
 -->
