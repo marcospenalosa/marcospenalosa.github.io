@@ -47,13 +47,16 @@
     * Definir impresora lógica.
       *  usuario/velneo/printers/vrl
         * Extensión del fichero **.vil**
-     *  
+     *  Modos de impresión:
+        * Impresora.
+        * Disco.
+        * Pantalla. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4ODE3NjA1MywtNzg0ODM2MzIsMTUwOD
-g0MTE4NCw5NDYwMjUyODMsLTE3NzU0OTg4MzgsLTk4MjIwNDI4
-NiwtMjI2OTgwNTM1LDkzMTA3NzE3Nyw1NTcyMTA0MzQsMTgyMj
-A2NzM1NSwxOTUyNzE4Nzk2LC0xMTIzNDQzOTU0LDU2ODk3MzA4
-OCw4MzAxMTkzMTgsMTQ4MDQ4MzE4Niw0MDU4NDA3ODYsMTEyNz
-k1NjgzMl19
+eyJoaXN0b3J5IjpbLTE1MTE0Nzg3MjMsLTI4ODE3NjA1MywtNz
+g0ODM2MzIsMTUwODg0MTE4NCw5NDYwMjUyODMsLTE3NzU0OTg4
+MzgsLTk4MjIwNDI4NiwtMjI2OTgwNTM1LDkzMTA3NzE3Nyw1NT
+cyMTA0MzQsMTgyMjA2NzM1NSwxOTUyNzE4Nzk2LC0xMTIzNDQz
+OTU0LDU2ODk3MzA4OCw4MzAxMTkzMTgsMTQ4MDQ4MzE4Niw0MD
+U4NDA3ODYsMTEyNzk1NjgzMl19
 -->
