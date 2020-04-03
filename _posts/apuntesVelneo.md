@@ -43,12 +43,14 @@
       * Pie de agrupamiento: Al final del agrupamiento
       * Pie de informe: Al final del informe
       * Pie de página: Siempre .
-    * En vReport siempre ordenar la lista que le pasemos. 
+    * En vReport siempre tenemos que ordenar la lista que le pasemos. 
     * Definir impresora lógica.
-      *  
+      *  usuario/velneo/printers/vrl
+        * Extensión del fichero **.vil**
+     *  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzAzNDc3MSwtNzg0ODM2MzIsMTUwOD
+eyJoaXN0b3J5IjpbLTI4ODE3NjA1MywtNzg0ODM2MzIsMTUwOD
 g0MTE4NCw5NDYwMjUyODMsLTE3NzU0OTg4MzgsLTk4MjIwNDI4
 NiwtMjI2OTgwNTM1LDkzMTA3NzE3Nyw1NTcyMTA0MzQsMTgyMj
 A2NzM1NSwxOTUyNzE4Nzk2LC0xMTIzNDQzOTU0LDU2ODk3MzA4
