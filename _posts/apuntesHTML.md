@@ -33,8 +33,8 @@ Sintáxis usual de un documento **HTML**
 	</body>
 </html>
 ```
-
+"<script src="scipts.js"></script>" se suele poner al final del body.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NTkxNTc1MSwtMTg1NTEzNTAxNiwtMT
-YwNDUxNjM5N119
+eyJoaXN0b3J5IjpbLTE1OTgyMDIzNzIsLTc5NTkxNTc1MSwtMT
+g1NTEzNTAxNiwtMTYwNDUxNjM5N119
 -->
