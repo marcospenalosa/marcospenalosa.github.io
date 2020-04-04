@@ -46,10 +46,10 @@ Las etiquetas **< script >**  Se suele poner al final del body para evitar probl
 		<h2>Subtítulo</h2>
 	</section>
 </article>
-<aside> Contenido </aside>
-<footer></footer>
+<aside> Contenido no relacionado con el article</aside>
+<footer>Notas al pie</footer>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU4MDAxMzcxLC03OTU5MTU3NTEsLTE4NT
+eyJoaXN0b3J5IjpbOTM5MjEzMTAwLC03OTU5MTU3NTEsLTE4NT
 UxMzUwMTYsLTE2MDQ1MTYzOTddfQ==
 -->
