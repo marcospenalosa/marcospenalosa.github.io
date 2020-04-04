@@ -37,11 +37,19 @@ Las etiquetas **< script >**  Se suele poner al final del body para evitar probl
 
 #### Etiquetas de sección
 ```html
-<!DOCTYPE html>
-<header></header>
-<nav>
+
+<header> Encabezado </header>
+<nav></nav>
+<article>
+	<h1>Título</h1>
+	<section>
+		<h2>Subtítulo</h2>
+	</section>
+</article>
+<aside></aside>
+<footer></footer>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjkxMzA5MSwtNzk1OTE1NzUxLC0xOD
+eyJoaXN0b3J5IjpbLTg3MzYxOTIwNywtNzk1OTE1NzUxLC0xOD
 U1MTM1MDE2LC0xNjA0NTE2Mzk3XX0=
 -->
