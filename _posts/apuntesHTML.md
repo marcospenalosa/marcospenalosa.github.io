@@ -24,14 +24,17 @@ Sintáxis usual de un documento **HTML**
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="Una descripción de mi página">
 		<title>Titulo</title>
-		<link rel="stylesheet" href="sytles
+		<link rel="stylesheet" href="sytles.css">
+		<link rel="shortcut icon" href="favicon.png">
 	</head>
 	<body>
-	
+		<h1>Título de mi página web</h1>
+		<script src="scipts.js"></script>
 	</body>
 </html>
 ```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NDI0NDQwNiwtMTg1NTEzNTAxNiwtMT
+eyJoaXN0b3J5IjpbLTc5NTkxNTc1MSwtMTg1NTEzNTAxNiwtMT
 YwNDUxNjM5N119
 -->
