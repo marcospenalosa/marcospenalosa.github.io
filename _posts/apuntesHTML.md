@@ -39,17 +39,17 @@ Las etiquetas **< script >**  Se suele poner al final del body para evitar probl
 ```html
 
 <header> Encabezado </header>
-<nav></nav>
-<article>
+<nav>Barra de navegación</nav>
+<article > Un post de un blog, por ejemplo
 	<h1>Título</h1>
-	<section>
+	<section> Divisiones 
 		<h2>Subtítulo</h2>
 	</section>
 </article>
-<aside></aside>
+<aside> Contenido </aside>
 <footer></footer>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MzYxOTIwNywtNzk1OTE1NzUxLC0xOD
-U1MTM1MDE2LC0xNjA0NTE2Mzk3XX0=
+eyJoaXN0b3J5IjpbMzU4MDAxMzcxLC03OTU5MTU3NTEsLTE4NT
+UxMzUwMTYsLTE2MDQ1MTYzOTddfQ==
 -->
