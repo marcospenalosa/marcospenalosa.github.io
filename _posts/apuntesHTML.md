@@ -1,7 +1,7 @@
 
 ### Apuntes HTML
 
-Sintáxis básica de un documento **HTML**
+#### Sintáxis básica de un documento **HTML**
 ```html
 <!DOCTYPE html>
 <html lang="es">
@@ -15,7 +15,7 @@ Sintáxis básica de un documento **HTML**
 </html>
 ```
 
-Sintáxis usual de un documento **HTML**
+#### Sintáxis usual de un documento **HTML**
 ```html
 <!DOCTYPE html>
 <html lang="es">
@@ -33,8 +33,15 @@ Sintáxis usual de un documento **HTML**
 	</body>
 </html>
 ```
-Las etiquetas **<script>**  Se suele poner al final del body para evitar problemas al cargar los procesos java
+Las etiquetas **< script >**  Se suele poner al final del body para evitar problemas al cargar los procesos java
+
+#### Etiquetas de sección
+```html
+<!DOCTYPE html>
+<header></header>
+<nav>
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MDY2NTkyMiwtNzk1OTE1NzUxLC0xOD
+eyJoaXN0b3J5IjpbLTYxNjkxMzA5MSwtNzk1OTE1NzUxLC0xOD
 U1MTM1MDE2LC0xNjA0NTE2Mzk3XX0=
 -->
