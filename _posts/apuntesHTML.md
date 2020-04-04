@@ -32,9 +32,10 @@ Sintáxis usual de un documento **HTML**
 		<script src="scipts.js"></script>
 	</body>
 </html>
+/*<script src="scipts.js"></script> se suele poner al final del body.*/
 ```
-"<script src="scipts.js"></script>" se suele poner al final del body.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTgyMDIzNzIsLTc5NTkxNTc1MSwtMT
-g1NTEzNTAxNiwtMTYwNDUxNjM5N119
+eyJoaXN0b3J5IjpbMTI0MjY2ODE3OCwtNzk1OTE1NzUxLC0xOD
+U1MTM1MDE2LC0xNjA0NTE2Mzk3XX0=
 -->
