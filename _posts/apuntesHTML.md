@@ -33,8 +33,8 @@ Sintáxis usual de un documento **HTML**
 	</body>
 </html>
 ```
-" <script src="scipts.js"></script> " Se suele poner al final del body para evitar problemas al cargar los procesos java
+Las etiquetas **<script>**  Se suele poner al final del body para evitar problemas al cargar los procesos java
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODc3NDk1MSwtNzk1OTE1NzUxLC0xOD
+eyJoaXN0b3J5IjpbLTk3MDY2NTkyMiwtNzk1OTE1NzUxLC0xOD
 U1MTM1MDE2LC0xNjA0NTE2Mzk3XX0=
 -->
