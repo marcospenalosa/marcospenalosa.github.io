@@ -92,7 +92,7 @@
 <main>  
 	<p>Esto es un párrafo, es decir un bloque de texto.</p>  
     <hr>  <!-- Cambio de sección -->
-    <pre>  
+    <pre>  <!-- El contenido se muestra tal cual está escrito -->
     	Este texto  
     		se representara igual  
     en el navegador  
@@ -101,9 +101,18 @@
     	Usa blockquote para destacar citas.  
     </blockquote>  
 </main>
+<!-- Divisiones (layout -->
+<div class="user">  
+    <div class="user_name">  
+        <p>Alexys Lozada</p>  
+    </div>  
+    <div class="user_image">  
+        <img src="alexys.jpg" alt="Foto de Alexys Lozada">  
+    </div>  
+</div>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MjE5MjQ0NSw5MjI0MzgwODEsOTM5Mj
+eyJoaXN0b3J5IjpbMTc2MTQxOTkwNSw5MjI0MzgwODEsOTM5Mj
 EzMTAwLC03OTU5MTU3NTEsLTE4NTUxMzUwMTYsLTE2MDQ1MTYz
 OTddfQ==
 -->
