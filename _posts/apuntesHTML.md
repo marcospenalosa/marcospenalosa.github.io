@@ -50,9 +50,22 @@
 <aside> Contenido no relacionado con el article</aside>
 <footer>Notas al pie</footer>
 ```
-
+#### Listas
+```html
+<ul>  
+    <li>Item de lista 1</li>  
+    <li>Item de lista 2  
+    	<ol>  
+            <li>Subitem de lista 1</li>  
+            <li>Subitme de lista 2</li>  
+        </ol>  
+    </li>  
+    <li>Item de lista 3</li>  
+</ul>
+<!-- UL no ordenadas, OL ordenadas -->
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTY0ODcyMSw5MjI0MzgwODEsOTM5Mj
+eyJoaXN0b3J5IjpbMTQ1NjUyMjUwMSw5MjI0MzgwODEsOTM5Mj
 EzMTAwLC03OTU5MTU3NTEsLTE4NTUxMzUwMTYsLTE2MDQ1MTYz
 OTddfQ==
 -->
