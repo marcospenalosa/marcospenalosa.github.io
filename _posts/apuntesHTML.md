@@ -33,7 +33,7 @@
 	</body>
 </html>
 ```
-Las etiquetas **< script >**  Se suele poner al final del body para evitar problemas al cargar los procesos java
+* Las etiquetas **< script >**  Se suele poner al final del body para evitar problemas al cargar los procesos java
 
 #### Etiquetas de sección
 ```html
@@ -50,6 +50,6 @@ Las etiquetas **< script >**  Se suele poner al final del body para evitar probl
 <footer>Notas al pie</footer>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM5MjEzMTAwLC03OTU5MTU3NTEsLTE4NT
-UxMzUwMTYsLTE2MDQ1MTYzOTddfQ==
+eyJoaXN0b3J5IjpbMjA1Njc4ODA4Niw5MzkyMTMxMDAsLTc5NT
+kxNTc1MSwtMTg1NTEzNTAxNiwtMTYwNDUxNjM5N119
 -->
