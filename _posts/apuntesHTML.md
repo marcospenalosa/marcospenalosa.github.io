@@ -87,9 +87,23 @@
     	Declaración de una función JavaScript.  
     </figcaption>  
 </figure>
+
+<!-- Elemeno principal -->
+<main>  
+	<p>Esto es un párrafo, es decir un bloque de texto.</p>  
+    <hr>  <!-- Cambio de sección -->
+    <pre>  
+    	Este texto  
+    		se representara igual  
+    en el navegador  
+    </pre>  
+    <blockquote>  
+    	Usa blockquote para destacar citas.  
+    </blockquote>  
+</main>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxNDM3MzE5LDkyMjQzODA4MSw5MzkyMT
-MxMDAsLTc5NTkxNTc1MSwtMTg1NTEzNTAxNiwtMTYwNDUxNjM5
-N119
+eyJoaXN0b3J5IjpbMTE1MjE5MjQ0NSw5MjI0MzgwODEsOTM5Mj
+EzMTAwLC03OTU5MTU3NTEsLTE4NTUxMzUwMTYsLTE2MDQ1MTYz
+OTddfQ==
 -->
