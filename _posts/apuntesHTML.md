@@ -52,6 +52,7 @@
 ```
 #### Listas
 ```html
+<!-- UL no ordenadas, OL ordenadas -->
 <ul>  
     <li>Item de lista 1</li>  
     <li>Item de lista 2  
@@ -62,10 +63,20 @@
     </li>  
     <li>Item de lista 3</li>  
 </ul>
-<!-- UL no ordenadas, OL ordenadas -->
+
+<!-- Listas de definición -->
+<!-- DL define la lista, DT un término, DD -->
+<dl>  
+    <dt>Perú</dt>  
+    <dd>Lima</dd>  
+    <dt>Colombia</dt>  
+    <dd>Bogotá</dd>  
+    <dt>Bolivia</dt>  
+    <dd>Sucre</dd>  
+</dl>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NjUyMjUwMSw5MjI0MzgwODEsOTM5Mj
-EzMTAwLC03OTU5MTU3NTEsLTE4NTUxMzUwMTYsLTE2MDQ1MTYz
-OTddfQ==
+eyJoaXN0b3J5IjpbLTE5MDUyMTYyNDksOTIyNDM4MDgxLDkzOT
+IxMzEwMCwtNzk1OTE1NzUxLC0xODU1MTM1MDE2LC0xNjA0NTE2
+Mzk3XX0=
 -->
