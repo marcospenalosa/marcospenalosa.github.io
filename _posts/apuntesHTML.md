@@ -65,7 +65,7 @@
 </ul>
 
 <!-- Listas de definición -->
-<!-- DL define la lista, DT un término, DD -->
+<!-- DL define la lista, DT un término, DD una descripción -->
 <dl>  
     <dt>Perú</dt>  
     <dd>Lima</dd>  
@@ -74,9 +74,22 @@
     <dt>Bolivia</dt>  
     <dd>Sucre</dd>  
 </dl>
+<!-- Rompe el flujo del article, pero está relacionado, por ejemplo un artículo que en medio tiene una imagen -->
+<figure>  
+	<pre>  
+		<code>  
+			function hola() {  
+				return "hola"  
+			}  
+		</code>  
+	</pre>  
+    <figcaption>  
+    	Declaración de una función JavaScript.  
+    </figcaption>  
+</figure>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDUyMTYyNDksOTIyNDM4MDgxLDkzOT
+eyJoaXN0b3J5IjpbLTE0OTQyMjQxMDMsOTIyNDM4MDgxLDkzOT
 IxMzEwMCwtNzk1OTE1NzUxLC0xODU1MTM1MDE2LC0xNjA0NTE2
 Mzk3XX0=
 -->
