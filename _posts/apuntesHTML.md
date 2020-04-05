@@ -76,20 +76,20 @@
 </dl>
 <!-- Rompe el flujo del article, pero está relacionado, por ejemplo un artículo que en medio tiene una imagen -->
 <figure>  
-	<pre>  
+	<pre>
 		<code>  
 			function hola() {  
 				return "hola"  
 			}  
 		</code>  
 	</pre>  
-    <figcaption>  
+    <figcaption> <!-- Es optional, es la descripción del figure --> 
     	Declaración de una función JavaScript.  
     </figcaption>  
 </figure>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTQyMjQxMDMsOTIyNDM4MDgxLDkzOT
-IxMzEwMCwtNzk1OTE1NzUxLC0xODU1MTM1MDE2LC0xNjA0NTE2
-Mzk3XX0=
+eyJoaXN0b3J5IjpbNDIxNDM3MzE5LDkyMjQzODA4MSw5MzkyMT
+MxMDAsLTc5NTkxNTc1MSwtMTg1NTEzNTAxNiwtMTYwNDUxNjM5
+N119
 -->
