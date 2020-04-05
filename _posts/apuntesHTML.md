@@ -34,6 +34,7 @@
 </html>
 ```
 * Las etiquetas **< script >**  Se suele poner al final del body para evitar problemas al cargar los procesos java
+* Favicon: Tambíen se puede poner < link **rel="icon"** href="img/favicon.png">
 
 #### Etiquetas de sección
 ```html
@@ -50,6 +51,6 @@
 <footer>Notas al pie</footer>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1Njc4ODA4Niw5MzkyMTMxMDAsLTc5NT
-kxNTc1MSwtMTg1NTEzNTAxNiwtMTYwNDUxNjM5N119
+eyJoaXN0b3J5IjpbOTIyNDM4MDgxLDkzOTIxMzEwMCwtNzk1OT
+E1NzUxLC0xODU1MTM1MDE2LC0xNjA0NTE2Mzk3XX0=
 -->
