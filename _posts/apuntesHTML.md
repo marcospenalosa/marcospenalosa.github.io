@@ -101,7 +101,7 @@
     	Usa blockquote para destacar citas.  
     </blockquote>  
 </main>
-<!-- Divisiones (layout -->
+<!-- Divisiones (layout) -->
 <div class="user">  
     <div class="user_name">  
         <p>Alexys Lozada</p>  
@@ -112,7 +112,7 @@
 </div>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MTQxOTkwNSw5MjI0MzgwODEsOTM5Mj
-EzMTAwLC03OTU5MTU3NTEsLTE4NTUxMzUwMTYsLTE2MDQ1MTYz
-OTddfQ==
+eyJoaXN0b3J5IjpbNjk0Mjg0MTc0LDkyMjQzODA4MSw5MzkyMT
+MxMDAsLTc5NTkxNTc1MSwtMTg1NTEzNTAxNiwtMTYwNDUxNjM5
+N119
 -->
