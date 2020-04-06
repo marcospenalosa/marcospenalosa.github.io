@@ -63,17 +63,18 @@
        * Opciones de sección: Se define las cabeceras y pies.
        * Origen de datos: Indicamos donde coge los datos.
           * Tablas y campos con check privados nos ayuda a quitar opciones a editar por parte del cliente.
+        * Configuración de detalle: 
  * Fórmulas script:
     * "$D{#NAME}" == "name" 
     * "Página " + $V{pageno} + " de " + $V{pagecount}
     * Con $P es para parámetros.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzY0NDk3NDksMzg1NzQ0MTYzLC0xMD
-MyNTEyODM3LC0yMDE2MDQwMTQ4LC00NzE4NDAyNzAsLTQ1NDI4
-NDg5NSw0MTE3NjMxNzMsLTE1MTE0Nzg3MjMsLTI4ODE3NjA1My
-wtNzg0ODM2MzIsMTUwODg0MTE4NCw5NDYwMjUyODMsLTE3NzU0
-OTg4MzgsLTk4MjIwNDI4NiwtMjI2OTgwNTM1LDkzMTA3NzE3Ny
-w1NTcyMTA0MzQsMTgyMjA2NzM1NSwxOTUyNzE4Nzk2LC0xMTIz
-NDQzOTU0XX0=
+eyJoaXN0b3J5IjpbLTI2NDA3ODg0MCwzODU3NDQxNjMsLTEwMz
+I1MTI4MzcsLTIwMTYwNDAxNDgsLTQ3MTg0MDI3MCwtNDU0Mjg0
+ODk1LDQxMTc2MzE3MywtMTUxMTQ3ODcyMywtMjg4MTc2MDUzLC
+03ODQ4MzYzMiwxNTA4ODQxMTg0LDk0NjAyNTI4MywtMTc3NTQ5
+ODgzOCwtOTgyMjA0Mjg2LC0yMjY5ODA1MzUsOTMxMDc3MTc3LD
+U1NzIxMDQzNCwxODIyMDY3MzU1LDE5NTI3MTg3OTYsLTExMjM0
+NDM5NTRdfQ==
 -->
