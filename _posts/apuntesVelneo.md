@@ -72,15 +72,15 @@
            * Si hay más de un detalle, se imprimen todos los registros del primer detalle, luego del siguiente... 
            * Agrupamientos: Sirven para juntar datos, los artículos de un cliente por ejemplo.
          * Secciones: Importante marcar el check de **Alto autómatico** 
-         * Zonas: Separaciones horizontales dentro de la misma sección.
-            * *Zonas* verticales: Poner una etiqueta y en condición de impresion **@SKIPNEXT** para que pase al siguiente registro **sin** saltar de línea.
+         * Zonas: Separaciones **horizontales** dentro de la misma sección.
+            * *Zonas* ***verticales***: Poner una etiqueta y en condición de impresion **@SKIPNEXT** para que pase al siguiente registro **sin** saltar de línea.
             * Importante: Manterner el orden de tabulación, según se crea.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIzMTA4ODEsLTEwMzI5OTcwODgsMTkwMz
-YzNjAzMywxMTk4MzkwMDEzLDE0ODQzNTE5MTUsLTE4OTU0MTI3
-NDAsNjMxODEyMjgyLDM4NTc0NDE2MywtMTAzMjUxMjgzNywtMj
-AxNjA0MDE0OCwtNDcxODQwMjcwLC00NTQyODQ4OTUsNDExNzYz
-MTczLC0xNTExNDc4NzIzLC0yODgxNzYwNTMsLTc4NDgzNjMyLD
-E1MDg4NDExODQsOTQ2MDI1MjgzLC0xNzc1NDk4ODM4LC05ODIy
-MDQyODZdfQ==
+eyJoaXN0b3J5IjpbLTExNDExNjQ3NzUsLTEwMzI5OTcwODgsMT
+kwMzYzNjAzMywxMTk4MzkwMDEzLDE0ODQzNTE5MTUsLTE4OTU0
+MTI3NDAsNjMxODEyMjgyLDM4NTc0NDE2MywtMTAzMjUxMjgzNy
+wtMjAxNjA0MDE0OCwtNDcxODQwMjcwLC00NTQyODQ4OTUsNDEx
+NzYzMTczLC0xNTExNDc4NzIzLC0yODgxNzYwNTMsLTc4NDgzNj
+MyLDE1MDg4NDExODQsOTQ2MDI1MjgzLC0xNzc1NDk4ODM4LC05
+ODIyMDQyODZdfQ==
 -->
