@@ -76,6 +76,7 @@
 </dl>
 
 ```
+#### Otros elementos de la estructura
 ```html
 <!-- Rompe el flujo del article, pero está relacionado, por ejemplo un artículo que en medio tiene una imagen -->
 <figure>  
@@ -104,6 +105,7 @@
     	Usa blockquote para destacar citas.  
     </blockquote>  
 </main>
+
 <!-- Divisiones (layout) -->
 <div class="user">  
     <div class="user_name">  
@@ -115,7 +117,7 @@
 </div>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTY5ODQ1NjUsNjk0Mjg0MTc0LDkyMj
-QzODA4MSw5MzkyMTMxMDAsLTc5NTkxNTc1MSwtMTg1NTEzNTAx
-NiwtMTYwNDUxNjM5N119
+eyJoaXN0b3J5IjpbLTc1NDYwNTcxOCw2OTQyODQxNzQsOTIyND
+M4MDgxLDkzOTIxMzEwMCwtNzk1OTE1NzUxLC0xODU1MTM1MDE2
+LC0xNjA0NTE2Mzk3XX0=
 -->
