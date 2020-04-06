@@ -67,17 +67,18 @@
            * Si hay más de un detalle, se imprimen todos los registros del primer detalle, luego del siguiente... 
            * Los agrupamientos sirven para juntar datos, los artículos de un cliente por ejemplo.
          * Secciones: Importante marcar el check de **Alto autómatico** 
+         * 
  * Fórmulas script:
     * "$D{#NAME}" == "name" 
     * "Página " + $V{pageno} + " de " + $V{pagecount}
     * Con $P es para parámetros.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTU0MTI3NDAsNjMxODEyMjgyLDM4NT
-c0NDE2MywtMTAzMjUxMjgzNywtMjAxNjA0MDE0OCwtNDcxODQw
-MjcwLC00NTQyODQ4OTUsNDExNzYzMTczLC0xNTExNDc4NzIzLC
-0yODgxNzYwNTMsLTc4NDgzNjMyLDE1MDg4NDExODQsOTQ2MDI1
-MjgzLC0xNzc1NDk4ODM4LC05ODIyMDQyODYsLTIyNjk4MDUzNS
-w5MzEwNzcxNzcsNTU3MjEwNDM0LDE4MjIwNjczNTUsMTk1Mjcx
-ODc5Nl19
+eyJoaXN0b3J5IjpbLTE5NDk1MTg5NDIsLTE4OTU0MTI3NDAsNj
+MxODEyMjgyLDM4NTc0NDE2MywtMTAzMjUxMjgzNywtMjAxNjA0
+MDE0OCwtNDcxODQwMjcwLC00NTQyODQ4OTUsNDExNzYzMTczLC
+0xNTExNDc4NzIzLC0yODgxNzYwNTMsLTc4NDgzNjMyLDE1MDg4
+NDExODQsOTQ2MDI1MjgzLC0xNzc1NDk4ODM4LC05ODIyMDQyOD
+YsLTIyNjk4MDUzNSw5MzEwNzcxNzcsNTU3MjEwNDM0LDE4MjIw
+NjczNTVdfQ==
 -->
