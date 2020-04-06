@@ -56,7 +56,12 @@
      * Impresora.
      * Disco.
      * Pantalla. 
-  * En el editor de informes:
+ * Fórmulas script:
+    * "$D{#NAME}" == "name" 
+    * "Página " + $V{pageno} + " de " + $V{pagecount}
+    * Con $P es para parámetros.
+#### Informes
+* En el editor de informes:
     * Marcar el check de Fichero -> Preferencia -> Miscelánea -> Abrir ventana maximizada
     * Informe -> Configuración de informe y página  
        * Modo de pasa doble: Si queremos hacer 1 pág de 50 hay que marcar este check para que vReport cuente cuantas páginas hay.
@@ -69,18 +74,13 @@
          * Secciones: Importante marcar el check de **Alto autómatico** 
          * Zonas: Separaciones horizontales dentro de la misma sección.
             * *Zonas* verticales: Poner una etiqueta y en condición de impresion **@SKIPNEXT** para que pase al siguiente registro **sin** saltar de línea.
-            * Importante: Manterner el orden de tabulación, según se crea. 
- * Fórmulas script:
-    * "$D{#NAME}" == "name" 
-    * "Página " + $V{pageno} + " de " + $V{pagecount}
-    * Con $P es para parámetros.
-
+            * Importante: Manterner el orden de tabulación, según se crea.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzI5OTcwODgsMTkwMzYzNjAzMywxMT
-k4MzkwMDEzLDE0ODQzNTE5MTUsLTE4OTU0MTI3NDAsNjMxODEy
-MjgyLDM4NTc0NDE2MywtMTAzMjUxMjgzNywtMjAxNjA0MDE0OC
-wtNDcxODQwMjcwLC00NTQyODQ4OTUsNDExNzYzMTczLC0xNTEx
-NDc4NzIzLC0yODgxNzYwNTMsLTc4NDgzNjMyLDE1MDg4NDExOD
-QsOTQ2MDI1MjgzLC0xNzc1NDk4ODM4LC05ODIyMDQyODYsLTIy
-Njk4MDUzNV19
+eyJoaXN0b3J5IjpbNDIzMTA4ODEsLTEwMzI5OTcwODgsMTkwMz
+YzNjAzMywxMTk4MzkwMDEzLDE0ODQzNTE5MTUsLTE4OTU0MTI3
+NDAsNjMxODEyMjgyLDM4NTc0NDE2MywtMTAzMjUxMjgzNywtMj
+AxNjA0MDE0OCwtNDcxODQwMjcwLC00NTQyODQ4OTUsNDExNzYz
+MTczLC0xNTExNDc4NzIzLC0yODgxNzYwNTMsLTc4NDgzNjMyLD
+E1MDg4NDExODQsOTQ2MDI1MjgzLC0xNzc1NDk4ODM4LC05ODIy
+MDQyODZdfQ==
 -->
