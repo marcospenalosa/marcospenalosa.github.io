@@ -60,7 +60,7 @@
     * "$D{#NAME}" == "name" 
     * "Página " + $V{pageno} + " de " + $V{pagecount}
     * Con $P es para parámetros.
-  * Para que vReport me salga el informe del solo del *grupo*  que quiero (albaranes, clientes...) hay que modificar 
+  * Para que vReport me salga el informe del solo del *grupo*  que quiero (albaranes, clientes...) hay que modificar el proceso *CLIENTES_INF* el prefijo a seleccionar
 #### Informes
 * En el editor de informes:
     * Marcar el check de Fichero -> Preferencia -> Miscelánea -> Abrir ventana maximizada
@@ -77,11 +77,11 @@
             * *Zonas* ***verticales***: Poner una etiqueta y en condición de impresion **@SKIPNEXT** para que pase al siguiente registro **sin** saltar de línea.
             * Importante: Manterner el orden de tabulación, según se crea.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTEwNzgyNywtMTE0MTE2NDc3NSwtMT
-AzMjk5NzA4OCwxOTAzNjM2MDMzLDExOTgzOTAwMTMsMTQ4NDM1
-MTkxNSwtMTg5NTQxMjc0MCw2MzE4MTIyODIsMzg1NzQ0MTYzLC
-0xMDMyNTEyODM3LC0yMDE2MDQwMTQ4LC00NzE4NDAyNzAsLTQ1
-NDI4NDg5NSw0MTE3NjMxNzMsLTE1MTE0Nzg3MjMsLTI4ODE3Nj
-A1MywtNzg0ODM2MzIsMTUwODg0MTE4NCw5NDYwMjUyODMsLTE3
-NzU0OTg4MzhdfQ==
+eyJoaXN0b3J5IjpbLTE2NzM1MDIxNzcsLTExNDExNjQ3NzUsLT
+EwMzI5OTcwODgsMTkwMzYzNjAzMywxMTk4MzkwMDEzLDE0ODQz
+NTE5MTUsLTE4OTU0MTI3NDAsNjMxODEyMjgyLDM4NTc0NDE2My
+wtMTAzMjUxMjgzNywtMjAxNjA0MDE0OCwtNDcxODQwMjcwLC00
+NTQyODQ4OTUsNDExNzYzMTczLC0xNTExNDc4NzIzLC0yODgxNz
+YwNTMsLTc4NDgzNjMyLDE1MDg4NDExODQsOTQ2MDI1MjgzLC0x
+Nzc1NDk4ODM4XX0=
 -->
