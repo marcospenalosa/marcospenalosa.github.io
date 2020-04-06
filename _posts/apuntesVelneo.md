@@ -65,20 +65,20 @@
           * Tablas y campos con check privados nos ayuda a quitar opciones a editar por parte del cliente.
         * Configuración de detalle: 
            * Si hay más de un detalle, se imprimen todos los registros del primer detalle, luego del siguiente... 
-           * Los agrupamientos sirven para juntar datos, los artículos de un cliente por ejemplo.
+           * Agrupamientos: Sirven para juntar datos, los artículos de un cliente por ejemplo.
          * Secciones: Importante marcar el check de **Alto autómatico** 
-         * 
+         * Zonas: Separaciones verticales dentro de la misma sección.
  * Fórmulas script:
     * "$D{#NAME}" == "name" 
     * "Página " + $V{pageno} + " de " + $V{pagecount}
     * Con $P es para parámetros.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDk1MTg5NDIsLTE4OTU0MTI3NDAsNj
-MxODEyMjgyLDM4NTc0NDE2MywtMTAzMjUxMjgzNywtMjAxNjA0
-MDE0OCwtNDcxODQwMjcwLC00NTQyODQ4OTUsNDExNzYzMTczLC
-0xNTExNDc4NzIzLC0yODgxNzYwNTMsLTc4NDgzNjMyLDE1MDg4
-NDExODQsOTQ2MDI1MjgzLC0xNzc1NDk4ODM4LC05ODIyMDQyOD
-YsLTIyNjk4MDUzNSw5MzEwNzcxNzcsNTU3MjEwNDM0LDE4MjIw
-NjczNTVdfQ==
+eyJoaXN0b3J5IjpbMTQ4NDM1MTkxNSwtMTg5NTQxMjc0MCw2Mz
+E4MTIyODIsMzg1NzQ0MTYzLC0xMDMyNTEyODM3LC0yMDE2MDQw
+MTQ4LC00NzE4NDAyNzAsLTQ1NDI4NDg5NSw0MTE3NjMxNzMsLT
+E1MTE0Nzg3MjMsLTI4ODE3NjA1MywtNzg0ODM2MzIsMTUwODg0
+MTE4NCw5NDYwMjUyODMsLTE3NzU0OTg4MzgsLTk4MjIwNDI4Ni
+wtMjI2OTgwNTM1LDkzMTA3NzE3Nyw1NTcyMTA0MzQsMTgyMjA2
+NzM1NV19
 -->
