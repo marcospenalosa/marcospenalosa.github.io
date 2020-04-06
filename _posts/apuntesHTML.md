@@ -119,10 +119,36 @@
 #### Tipos de elementos
 ```html
 <p>Este es un elemento de bloque</p>   <!-- El siguiente elemento sale debajo -->
-<span>Este es un elemento de línea</span> <!-- El siguiente elemento está a continuación */
+<span>Este es un elemento de línea</span> <!-- El siguiente elemento está a continuación -->
+```
+##### Elementos de línea
+````html
+<small>Texto legal</small>  
+<strong>Texto importante</strong>  
+<em>Énfasis</em>  
+<cite>Citas</cite>  
+<dfn>Definición</dfn>  
+<code>Código</code>  
+<data>Datos</data>  
+
+<br>Saltos de línea  
+<q>Citas</q>  
+<abbr>Texto abrebiado</abbr>  
+<del>Texto eliminado</del>  
+<wbr>Ruptura de palabras  
+<span>Contenedor de texto</span>  
+<i>Itálica</i>  
+<b>Negrita</b>  
+<u>Subrayado</u>  
+
+<sup>Superíndice</sup>  
+<sub>Subíndice</sub>  
+<time>Horas o Fechas</time>  
+<mark>Texto resaltado</mark>  
+<a href="">Enlaces</a>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjc2NjUwMSwtNzU0NjA1NzE4LDY5ND
-I4NDE3NCw5MjI0MzgwODEsOTM5MjEzMTAwLC03OTU5MTU3NTEs
-LTE4NTUxMzUwMTYsLTE2MDQ1MTYzOTddfQ==
+eyJoaXN0b3J5IjpbMTA4MDI3OTQsLTc1NDYwNTcxOCw2OTQyOD
+QxNzQsOTIyNDM4MDgxLDkzOTIxMzEwMCwtNzk1OTE1NzUxLC0x
+ODU1MTM1MDE2LC0xNjA0NTE2Mzk3XX0=
 -->
