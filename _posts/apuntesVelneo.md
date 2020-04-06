@@ -64,13 +64,14 @@
        * Origen de datos: Indicamos donde coge los datos.
           * Tablas y campos con check privados nos ayuda a quitar opciones a editar por parte del cliente.
         * Configuración de detalle: 
+           * Si hay más de un detalle, se imprimen todos los registros del primer detalle, luego del siguiente... 
  * Fórmulas script:
     * "$D{#NAME}" == "name" 
     * "Página " + $V{pageno} + " de " + $V{pagecount}
     * Con $P es para parámetros.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NDA3ODg0MCwzODU3NDQxNjMsLTEwMz
+eyJoaXN0b3J5IjpbLTkxMDcwMDgzOSwzODU3NDQxNjMsLTEwMz
 I1MTI4MzcsLTIwMTYwNDAxNDgsLTQ3MTg0MDI3MCwtNDU0Mjg0
 ODk1LDQxMTc2MzE3MywtMTUxMTQ3ODcyMywtMjg4MTc2MDUzLC
 03ODQ4MzYzMiwxNTA4ODQxMTg0LDk0NjAyNTI4MywtMTc3NTQ5
