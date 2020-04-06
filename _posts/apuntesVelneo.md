@@ -65,17 +65,18 @@
           * Tablas y campos con check privados nos ayuda a quitar opciones a editar por parte del cliente.
         * Configuración de detalle: 
            * Si hay más de un detalle, se imprimen todos los registros del primer detalle, luego del siguiente... 
+         * Secciones: Importante marcar el check de **Alto autómatico** 
  * Fórmulas script:
     * "$D{#NAME}" == "name" 
     * "Página " + $V{pageno} + " de " + $V{pagecount}
     * Con $P es para parámetros.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDcwMDgzOSwzODU3NDQxNjMsLTEwMz
-I1MTI4MzcsLTIwMTYwNDAxNDgsLTQ3MTg0MDI3MCwtNDU0Mjg0
-ODk1LDQxMTc2MzE3MywtMTUxMTQ3ODcyMywtMjg4MTc2MDUzLC
-03ODQ4MzYzMiwxNTA4ODQxMTg0LDk0NjAyNTI4MywtMTc3NTQ5
-ODgzOCwtOTgyMjA0Mjg2LC0yMjY5ODA1MzUsOTMxMDc3MTc3LD
-U1NzIxMDQzNCwxODIyMDY3MzU1LDE5NTI3MTg3OTYsLTExMjM0
-NDM5NTRdfQ==
+eyJoaXN0b3J5IjpbNjMxODEyMjgyLDM4NTc0NDE2MywtMTAzMj
+UxMjgzNywtMjAxNjA0MDE0OCwtNDcxODQwMjcwLC00NTQyODQ4
+OTUsNDExNzYzMTczLC0xNTExNDc4NzIzLC0yODgxNzYwNTMsLT
+c4NDgzNjMyLDE1MDg4NDExODQsOTQ2MDI1MjgzLC0xNzc1NDk4
+ODM4LC05ODIyMDQyODYsLTIyNjk4MDUzNSw5MzEwNzcxNzcsNT
+U3MjEwNDM0LDE4MjIwNjczNTUsMTk1MjcxODc5NiwtMTEyMzQ0
+Mzk1NF19
 -->
