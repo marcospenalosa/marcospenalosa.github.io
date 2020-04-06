@@ -62,18 +62,18 @@
        * Modo de pasa doble: Si queremos hacer 1 pág de 50 hay que marcar este check para que vReport cuente cuantas páginas hay.
        * Opciones de sección: Se define las cabeceras y pies.
        * Origen de datos: Indicamos donde coge los datos.
-       * Tablas y campos con check privados nos ayuda a quitar opciones a editar por parte del cliente.
+          * Tablas y campos con check privados nos ayuda a quitar opciones a editar por parte del cliente.
  * Fórmulas script:
     * "$D{#NAME}" == "name" 
     * "Página " + $V{pageno} + " de " + $V{pagecount}
     * Con $P es para parámetros.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg1NzQ0MTYzLC0xMDMyNTEyODM3LC0yMD
-E2MDQwMTQ4LC00NzE4NDAyNzAsLTQ1NDI4NDg5NSw0MTE3NjMx
-NzMsLTE1MTE0Nzg3MjMsLTI4ODE3NjA1MywtNzg0ODM2MzIsMT
-UwODg0MTE4NCw5NDYwMjUyODMsLTE3NzU0OTg4MzgsLTk4MjIw
-NDI4NiwtMjI2OTgwNTM1LDkzMTA3NzE3Nyw1NTcyMTA0MzQsMT
-gyMjA2NzM1NSwxOTUyNzE4Nzk2LC0xMTIzNDQzOTU0LDU2ODk3
-MzA4OF19
+eyJoaXN0b3J5IjpbLTIwMzY0NDk3NDksMzg1NzQ0MTYzLC0xMD
+MyNTEyODM3LC0yMDE2MDQwMTQ4LC00NzE4NDAyNzAsLTQ1NDI4
+NDg5NSw0MTE3NjMxNzMsLTE1MTE0Nzg3MjMsLTI4ODE3NjA1My
+wtNzg0ODM2MzIsMTUwODg0MTE4NCw5NDYwMjUyODMsLTE3NzU0
+OTg4MzgsLTk4MjIwNDI4NiwtMjI2OTgwNTM1LDkzMTA3NzE3Ny
+w1NTcyMTA0MzQsMTgyMjA2NzM1NSwxOTUyNzE4Nzk2LC0xMTIz
+NDQzOTU0XX0=
 -->
