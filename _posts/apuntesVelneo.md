@@ -66,10 +66,10 @@
  * Fórmulas script:
     * "$D{#NAME}" == "name" 
     * "Página " + $V{pageno} + " de " + $V{pagecount}
-    * con $P es para parámetros.
+    * Con $P es para parámetros.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NDQ0Njc1LC0xMDMyNTEyODM3LC0yMD
+eyJoaXN0b3J5IjpbMzg1NzQ0MTYzLC0xMDMyNTEyODM3LC0yMD
 E2MDQwMTQ4LC00NzE4NDAyNzAsLTQ1NDI4NDg5NSw0MTE3NjMx
 NzMsLTE1MTE0Nzg3MjMsLTI4ODE3NjA1MywtNzg0ODM2MzIsMT
 UwODg0MTE4NCw5NDYwMjUyODMsLTE3NzU0OTg4MzgsLTk4MjIw
