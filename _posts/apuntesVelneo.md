@@ -68,18 +68,18 @@
            * Agrupamientos: Sirven para juntar datos, los artículos de un cliente por ejemplo.
          * Secciones: Importante marcar el check de **Alto autómatico** 
          * Zonas: Separaciones horizontales dentro de la misma sección.
-         * 
+         * *Zonas* verticales: Poner una etiqueta y en condición de impresion **@SKIPNEXT** para que pase al siguiente registro **sin** saltar de línea.
  * Fórmulas script:
     * "$D{#NAME}" == "name" 
     * "Página " + $V{pageno} + " de " + $V{pagecount}
     * Con $P es para parámetros.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzYzNjAzMywxMTk4MzkwMDEzLDE0OD
-QzNTE5MTUsLTE4OTU0MTI3NDAsNjMxODEyMjgyLDM4NTc0NDE2
-MywtMTAzMjUxMjgzNywtMjAxNjA0MDE0OCwtNDcxODQwMjcwLC
-00NTQyODQ4OTUsNDExNzYzMTczLC0xNTExNDc4NzIzLC0yODgx
-NzYwNTMsLTc4NDgzNjMyLDE1MDg4NDExODQsOTQ2MDI1MjgzLC
-0xNzc1NDk4ODM4LC05ODIyMDQyODYsLTIyNjk4MDUzNSw5MzEw
-NzcxNzddfQ==
+eyJoaXN0b3J5IjpbNjg4OTQ3ODY1LDE5MDM2MzYwMzMsMTE5OD
+M5MDAxMywxNDg0MzUxOTE1LC0xODk1NDEyNzQwLDYzMTgxMjI4
+MiwzODU3NDQxNjMsLTEwMzI1MTI4MzcsLTIwMTYwNDAxNDgsLT
+Q3MTg0MDI3MCwtNDU0Mjg0ODk1LDQxMTc2MzE3MywtMTUxMTQ3
+ODcyMywtMjg4MTc2MDUzLC03ODQ4MzYzMiwxNTA4ODQxMTg0LD
+k0NjAyNTI4MywtMTc3NTQ5ODgzOCwtOTgyMjA0Mjg2LC0yMjY5
+ODA1MzVdfQ==
 -->
