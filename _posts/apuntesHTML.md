@@ -116,8 +116,13 @@
     </div>  
 </div>
 ```
+#### Tipos de elementos
+```html
+<p>Este es un elemento de bloque</p>   <!-- El siguiente elemento sale debajo -->
+<span>Este es un elemento de línea</span> <!-- El siguiente elemento está a continuación */
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NDYwNTcxOCw2OTQyODQxNzQsOTIyND
-M4MDgxLDkzOTIxMzEwMCwtNzk1OTE1NzUxLC0xODU1MTM1MDE2
-LC0xNjA0NTE2Mzk3XX0=
+eyJoaXN0b3J5IjpbMTgzNjc2NjUwMSwtNzU0NjA1NzE4LDY5ND
+I4NDE3NCw5MjI0MzgwODEsOTM5MjEzMTAwLC03OTU5MTU3NTEs
+LTE4NTUxMzUwMTYsLTE2MDQ1MTYzOTddfQ==
 -->
