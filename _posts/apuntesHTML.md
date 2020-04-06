@@ -74,6 +74,9 @@
     <dt>Bolivia</dt>  
     <dd>Sucre</dd>  
 </dl>
+
+```
+```html
 <!-- Rompe el flujo del article, pero está relacionado, por ejemplo un artículo que en medio tiene una imagen -->
 <figure>  
 	<pre>
@@ -112,7 +115,7 @@
 </div>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk0Mjg0MTc0LDkyMjQzODA4MSw5MzkyMT
-MxMDAsLTc5NTkxNTc1MSwtMTg1NTEzNTAxNiwtMTYwNDUxNjM5
-N119
+eyJoaXN0b3J5IjpbLTEzNTY5ODQ1NjUsNjk0Mjg0MTc0LDkyMj
+QzODA4MSw5MzkyMTMxMDAsLTc5NTkxNTc1MSwtMTg1NTEzNTAx
+NiwtMTYwNDUxNjM5N119
 -->
