@@ -170,9 +170,9 @@
 ```
 Fotos Gratis Libres de Derechos de Autor: [Pexels](https://www.pexels.com/es-es/)  
 Mundo de los Gifs: [Giphy](https://giphy.com/)
-
+**viewport** Cantidad de píxeles que reales que tiene el dispositivo (el tamaño) -> devicePixelRatio nos dice el número de p
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNjIzNzE1NSwtNzQ1ODgyNDEsLTE5Mz
+eyJoaXN0b3J5IjpbLTI5NjkwMjUzMCwtNzQ1ODgyNDEsLTE5Mz
 gzOTM3NzcsMTA4MDI3OTQsLTc1NDYwNTcxOCw2OTQyODQxNzQs
 OTIyNDM4MDgxLDkzOTIxMzEwMCwtNzk1OTE1NzUxLC0xODU1MT
 M1MDE2LC0xNjA0NTE2Mzk3XX0=
