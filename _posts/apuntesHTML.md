@@ -160,9 +160,17 @@
 <h2 id="juventud">Juventud</h2>  
 <h2 id="exito">Éxito</h2>
 ```
-
+#### Imágenes
+```html
+Imagen extraida desde una ruta absoluta  
+<img src="https://images.pexels.com/photos/341372/pexels-photo  
+341372.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="foto de una novia">  
+Imagen extraida desde una ruta relativa  
+<img src="imagenes/foto_novia.jpeg" alt="f>
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzgzOTM3NzcsMTA4MDI3OTQsLTc1ND
-YwNTcxOCw2OTQyODQxNzQsOTIyNDM4MDgxLDkzOTIxMzEwMCwt
-Nzk1OTE1NzUxLC0xODU1MTM1MDE2LC0xNjA0NTE2Mzk3XX0=
+eyJoaXN0b3J5IjpbLTE0NjQwNzI5NTYsLTE5MzgzOTM3NzcsMT
+A4MDI3OTQsLTc1NDYwNTcxOCw2OTQyODQxNzQsOTIyNDM4MDgx
+LDkzOTIxMzEwMCwtNzk1OTE1NzUxLC0xODU1MTM1MDE2LC0xNj
+A0NTE2Mzk3XX0=
 -->
