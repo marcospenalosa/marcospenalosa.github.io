@@ -170,9 +170,10 @@
 ```
 Fotos Gratis Libres de Derechos de Autor: [Pexels](https://www.pexels.com/es-es/)  
 Mundo de los Gifs: [Giphy](https://giphy.com/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NTg4MjQxLC0xOTM4MzkzNzc3LDEwOD
-AyNzk0LC03NTQ2MDU3MTgsNjk0Mjg0MTc0LDkyMjQzODA4MSw5
-MzkyMTMxMDAsLTc5NTkxNTc1MSwtMTg1NTEzNTAxNiwtMTYwND
-UxNjM5N119
+eyJoaXN0b3J5IjpbLTkyNjIzNzE1NSwtNzQ1ODgyNDEsLTE5Mz
+gzOTM3NzcsMTA4MDI3OTQsLTc1NDYwNTcxOCw2OTQyODQxNzQs
+OTIyNDM4MDgxLDkzOTIxMzEwMCwtNzk1OTE1NzUxLC0xODU1MT
+M1MDE2LC0xNjA0NTE2Mzk3XX0=
 -->
