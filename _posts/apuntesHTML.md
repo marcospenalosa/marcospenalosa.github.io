@@ -146,9 +146,23 @@
 <time>Horas o Fechas</time>  
 <mark>Texto resaltado</mark>  
 <a href="">Enlaces</a>
+<a target="_blank">Abrir una nueva página.</a>
 ```
+##### Marcadores
+```html
+<ul>  
+    <li><a href="#infancia">Ir a Infancia</a></li>  
+    <li><a href="#juventud">Ir a Juventud</a></li>  
+    <li><a href="#exito">Ir a Éxito</a></li>  
+</ul>  
+  
+<h2 id="infancia">Infancia</h2>  
+<h2 id="juventud">Juventud</h2>  
+<h2 id="exito">Éxito</h2>
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MDI3OTQsLTc1NDYwNTcxOCw2OTQyOD
-QxNzQsOTIyNDM4MDgxLDkzOTIxMzEwMCwtNzk1OTE1NzUxLC0x
-ODU1MTM1MDE2LC0xNjA0NTE2Mzk3XX0=
+eyJoaXN0b3J5IjpbLTE5MzgzOTM3NzcsMTA4MDI3OTQsLTc1ND
+YwNTcxOCw2OTQyODQxNzQsOTIyNDM4MDgxLDkzOTIxMzEwMCwt
+Nzk1OTE1NzUxLC0xODU1MTM1MDE2LC0xNjA0NTE2Mzk3XX0=
 -->
