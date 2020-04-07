@@ -162,15 +162,17 @@
 ```
 #### Imágenes
 ```html
-Imagen extraida desde una ruta absoluta  
+  
 <img src="https://images.pexels.com/photos/341372/pexels-photo  
 341372.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="foto de una novia">  
-Imagen extraida desde una ruta relativa  
-<img src="imagenes/foto_novia.jpeg" alt="f>
+
+<img src="imagenes/foto_novia.jpeg" alt="foto de una novia">
 ```
+Fotos Gratis Libres de Derechos de Autor: [Pexels](https://www.pexels.com/es-es/)  
+Mundo de los Gifs: [Giphy](https://giphy.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjQwNzI5NTYsLTE5MzgzOTM3NzcsMT
-A4MDI3OTQsLTc1NDYwNTcxOCw2OTQyODQxNzQsOTIyNDM4MDgx
-LDkzOTIxMzEwMCwtNzk1OTE1NzUxLC0xODU1MTM1MDE2LC0xNj
-A0NTE2Mzk3XX0=
+eyJoaXN0b3J5IjpbLTc0NTg4MjQxLC0xOTM4MzkzNzc3LDEwOD
+AyNzk0LC03NTQ2MDU3MTgsNjk0Mjg0MTc0LDkyMjQzODA4MSw5
+MzkyMTMxMDAsLTc5NTkxNTc1MSwtMTg1NTEzNTAxNiwtMTYwND
+UxNjM5N119
 -->
