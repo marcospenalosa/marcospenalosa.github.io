@@ -13,7 +13,7 @@ tags: [diseño, UI, interfaces]
 ### _Diseño de Interfaces básico_
 ####  [Curso de introducción al diseño de interfaces básico (en inglés)](https://scrimba.com/g/gdesign)
 
-Estoy realizando este curso básico de diseño de interfaces donde se explica de modo ameno y en una plataforma muy interactiva unos consejos básicos a la hora de realizar cualquier tipo de diseño de interfaces.
+He visto este curso básico de diseño de interfaces donde se explica de modo ameno y en una plataforma muy interactiva unos consejos básicos a la hora de realizar cualquier tipo de diseño de interfaces.
 
 #### Consideraciones básicas:
 ##### Espacios en blanco
@@ -41,9 +41,16 @@ Es recomendable no utilizar más de dos tipografías y hay que mantener correcta
 ##### Colores
 Lo primero y más importante, no usar **muchos** colores y que no combinen correctamente.
 ![Correcta combinación de colores](https://raw.githubusercontent.com/marcospenalosa/marcospenalosa.github.io/master/_posts/img/apuntesDiseno/01colores.png)
-
+### Resumen
+* Espacios en blanco
+* Color
+* Contraste
+* Escala
+* Alineación
+* Tipografía
+* Jerarquía visual.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ2NjE0MjM4LC0yMTM3NDY0MzI4LC0yMD
-U1ODkyNzEyLDg3NTY1OTY2MV19
+eyJoaXN0b3J5IjpbLTExNTcwNDQwOTIsOTQ2NjE0MjM4LC0yMT
+M3NDY0MzI4LC0yMDU1ODkyNzEyLDg3NTY1OTY2MV19
 -->
