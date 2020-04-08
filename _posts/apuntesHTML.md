@@ -170,10 +170,11 @@
 ```
 Fotos Gratis Libres de Derechos de Autor: [Pexels](https://www.pexels.com/es-es/)  
 Mundo de los Gifs: [Giphy](https://giphy.com/)
+
 **viewport** Cantidad de píxeles que *reales* que tiene el dispositivo (el tamaño, un móvil FHD no tiene 1920x1080 píxeles reales) -> **devicePixelRatio** nos dice el número de píxeles que hay por cada pixel real.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTY0MjY5MiwtNzQ1ODgyNDEsLTE5Mz
-gzOTM3NzcsMTA4MDI3OTQsLTc1NDYwNTcxOCw2OTQyODQxNzQs
-OTIyNDM4MDgxLDkzOTIxMzEwMCwtNzk1OTE1NzUxLC0xODU1MT
-M1MDE2LC0xNjA0NTE2Mzk3XX0=
+eyJoaXN0b3J5IjpbNjI0NTQ5MjcwLDE3ODk2NDI2OTIsLTc0NT
+g4MjQxLC0xOTM4MzkzNzc3LDEwODAyNzk0LC03NTQ2MDU3MTgs
+Njk0Mjg0MTc0LDkyMjQzODA4MSw5MzkyMTMxMDAsLTc5NTkxNT
+c1MSwtMTg1NTEzNTAxNiwtMTYwNDUxNjM5N119
 -->
