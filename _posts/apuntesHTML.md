@@ -221,11 +221,15 @@ alt="Foto de una novia">
 </html>
 ```
 También lo hay para twitter --> < meta property="twitter:image" >"
+
+Se pueden buscar hta. para comprobar el funcionamiento.
+
+#### Tablas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODMwMjgzNSwtMTQwMDI1MzQ3MCwtMz
-MxODg2OTMsLTEyNTc5MDA5ODcsMTUxMTMzMDYxLC0zMDc0NDk5
-NTgsMTc4OTY0MjY5MiwtNzQ1ODgyNDEsLTE5MzgzOTM3NzcsMT
-A4MDI3OTQsLTc1NDYwNTcxOCw2OTQyODQxNzQsOTIyNDM4MDgx
-LDkzOTIxMzEwMCwtNzk1OTE1NzUxLC0xODU1MTM1MDE2LC0xNj
-A0NTE2Mzk3XX0=
+eyJoaXN0b3J5IjpbLTE1NzQ5MDUzNTUsLTc4ODMwMjgzNSwtMT
+QwMDI1MzQ3MCwtMzMxODg2OTMsLTEyNTc5MDA5ODcsMTUxMTMz
+MDYxLC0zMDc0NDk5NTgsMTc4OTY0MjY5MiwtNzQ1ODgyNDEsLT
+E5MzgzOTM3NzcsMTA4MDI3OTQsLTc1NDYwNTcxOCw2OTQyODQx
+NzQsOTIyNDM4MDgxLDkzOTIxMzEwMCwtNzk1OTE1NzUxLC0xOD
+U1MTM1MDE2LC0xNjA0NTE2Mzk3XX0=
 -->
