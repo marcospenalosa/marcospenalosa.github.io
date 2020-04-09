@@ -228,6 +228,7 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 
 ```html
 <table>
+<caption> Horario de clases</caption> <!--
   <thead> <!-- Si se usa encabezado-->
   <tr> <!-- Table row-->
    <th>Lunes</th> <!-- Table heading-->
@@ -258,11 +259,11 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3NzczNzYzLC03NDYxNjgyOTksNjUxOT
-U5MTAxLC03ODgzMDI4MzUsLTE0MDAyNTM0NzAsLTMzMTg4Njkz
-LC0xMjU3OTAwOTg3LDE1MTEzMzA2MSwtMzA3NDQ5OTU4LDE3OD
-k2NDI2OTIsLTc0NTg4MjQxLC0xOTM4MzkzNzc3LDEwODAyNzk0
-LC03NTQ2MDU3MTgsNjk0Mjg0MTc0LDkyMjQzODA4MSw5MzkyMT
-MxMDAsLTc5NTkxNTc1MSwtMTg1NTEzNTAxNiwtMTYwNDUxNjM5
-N119
+eyJoaXN0b3J5IjpbLTE1Mzg4NDgyMzUsNjY3NzczNzYzLC03ND
+YxNjgyOTksNjUxOTU5MTAxLC03ODgzMDI4MzUsLTE0MDAyNTM0
+NzAsLTMzMTg4NjkzLC0xMjU3OTAwOTg3LDE1MTEzMzA2MSwtMz
+A3NDQ5OTU4LDE3ODk2NDI2OTIsLTc0NTg4MjQxLC0xOTM4Mzkz
+Nzc3LDEwODAyNzk0LC03NTQ2MDU3MTgsNjk0Mjg0MTc0LDkyMj
+QzODA4MSw5MzkyMTMxMDAsLTc5NTkxNTc1MSwtMTg1NTEzNTAx
+Nl19
 -->
