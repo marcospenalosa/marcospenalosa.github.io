@@ -185,16 +185,16 @@ srcset="img/man.jpg 500w,
 
 ```html
 <picture>
-	<source srcset="img/man.jpg" media="(min-width: 500px)">
 	<source srcset="img/dogs.jpg" media="(min-width: 800px)">
+	<source srcset="img/man.jpg" media="(min-width: 500px)">	
 	<img src="img/bride.jpg"
 alt="Foto de una novia">
-<
+</picture>
 ```
-**srcset** nos permite cambiar la foto según el devicePixelRatio, width (tamaño de la pantalla)
+**picture** obtenemos el mismo resultado, hay tener cuidado con los source, en cuanto se cumpla uno no evalúa el resto.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyOTUxNTcxMywxNzg5NjQyNjkyLC03ND
+eyJoaXN0b3J5IjpbLTMwNzQ0OTk1OCwxNzg5NjQyNjkyLC03ND
 U4ODI0MSwtMTkzODM5Mzc3NywxMDgwMjc5NCwtNzU0NjA1NzE4
 LDY5NDI4NDE3NCw5MjI0MzgwODEsOTM5MjEzMTAwLC03OTU5MT
 U3NTEsLTE4NTUxMzUwMTYsLTE2MDQ1MTYzOTddfQ==
