@@ -204,11 +204,11 @@ alt="Foto de una novia">
 </div>
 ```
 **itemscope itemtype**="http://schema.org/Movie" se ponen en el padre del elemento, puede ser un *div*, *article*, etc.
-[schema.org; define los estándares de microdatos](schema.org)
+[Hta de pruebas de datos estructurados](https://search.google.com/structured-data/testing-tool/u/0/?hl=es)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc0NDk5Njk2LC0zMzE4ODY5MywtMTI1Nz
-kwMDk4NywxNTExMzMwNjEsLTMwNzQ0OTk1OCwxNzg5NjQyNjky
-LC03NDU4ODI0MSwtMTkzODM5Mzc3NywxMDgwMjc5NCwtNzU0Nj
-A1NzE4LDY5NDI4NDE3NCw5MjI0MzgwODEsOTM5MjEzMTAwLC03
-OTU5MTU3NTEsLTE4NTUxMzUwMTYsLTE2MDQ1MTYzOTddfQ==
+eyJoaXN0b3J5IjpbLTE0MDAyNTM0NzAsLTMzMTg4NjkzLC0xMj
+U3OTAwOTg3LDE1MTEzMzA2MSwtMzA3NDQ5OTU4LDE3ODk2NDI2
+OTIsLTc0NTg4MjQxLC0xOTM4MzkzNzc3LDEwODAyNzk0LC03NT
+Q2MDU3MTgsNjk0Mjg0MTc0LDkyMjQzODA4MSw5MzkyMTMxMDAs
+LTc5NTkxNTc1MSwtMTg1NTEzNTAxNiwtMTYwNDUxNjM5N119
 -->
