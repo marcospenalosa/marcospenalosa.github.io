@@ -193,9 +193,19 @@ alt="Foto de una novia">
 ```
 **picture** obtenemos el mismo resultado, hay tener cuidado con los source, en cuanto se cumpla uno no evalúa el resto.
 
+#### Microdatos y Open Graph
+
+```html
+<img src="https://images.pexels.com/photos/341372/pexels-photo  
+341372.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="foto de una novia">  
+
+<img src="imagenes/foto_novia.jpeg" alt="foto de una novia">
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzQ0OTk1OCwxNzg5NjQyNjkyLC03ND
-U4ODI0MSwtMTkzODM5Mzc3NywxMDgwMjc5NCwtNzU0NjA1NzE4
-LDY5NDI4NDE3NCw5MjI0MzgwODEsOTM5MjEzMTAwLC03OTU5MT
-U3NTEsLTE4NTUxMzUwMTYsLTE2MDQ1MTYzOTddfQ==
+eyJoaXN0b3J5IjpbMTUxMTMzMDYxLC0zMDc0NDk5NTgsMTc4OT
+Y0MjY5MiwtNzQ1ODgyNDEsLTE5MzgzOTM3NzcsMTA4MDI3OTQs
+LTc1NDYwNTcxOCw2OTQyODQxNzQsOTIyNDM4MDgxLDkzOTIxMz
+EwMCwtNzk1OTE1NzUxLC0xODU1MTM1MDE2LC0xNjA0NTE2Mzk3
+XX0=
 -->
