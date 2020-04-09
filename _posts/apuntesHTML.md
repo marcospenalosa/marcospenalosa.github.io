@@ -241,11 +241,6 @@ Se pueden buscar hta. para comprobar el funcionamiento.
    <td>CSS</td>
    <td>JavaScript</td>
   </tr>
-  <tr>
-   <td >HTML</td> <!-- Table data-->
-   <td>CSS</td>
-   <td>JavaScript</td>
-  </tr>
  </tbody>
  <tfoot>
   <tr>
@@ -254,13 +249,17 @@ Se pueden buscar hta. para comprobar el funcionamiento.
    <td>2 créditos</td>
  </tfoot>
 </table>
+
+<!-- <td rowspan="2"></td> -->
+<!-- La celda ocupa dos filas-->
+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODgwMDI4NzMsLTc0NjE2ODI5OSw2NT
-E5NTkxMDEsLTc4ODMwMjgzNSwtMTQwMDI1MzQ3MCwtMzMxODg2
-OTMsLTEyNTc5MDA5ODcsMTUxMTMzMDYxLC0zMDc0NDk5NTgsMT
-c4OTY0MjY5MiwtNzQ1ODgyNDEsLTE5MzgzOTM3NzcsMTA4MDI3
-OTQsLTc1NDYwNTcxOCw2OTQyODQxNzQsOTIyNDM4MDgxLDkzOT
-IxMzEwMCwtNzk1OTE1NzUxLC0xODU1MTM1MDE2LC0xNjA0NTE2
-Mzk3XX0=
+eyJoaXN0b3J5IjpbLTMzNzIyNjE2LC03NDYxNjgyOTksNjUxOT
+U5MTAxLC03ODgzMDI4MzUsLTE0MDAyNTM0NzAsLTMzMTg4Njkz
+LC0xMjU3OTAwOTg3LDE1MTEzMzA2MSwtMzA3NDQ5OTU4LDE3OD
+k2NDI2OTIsLTc0NTg4MjQxLC0xOTM4MzkzNzc3LDEwODAyNzk0
+LC03NTQ2MDU3MTgsNjk0Mjg0MTc0LDkyMjQzODA4MSw5MzkyMT
+MxMDAsLTc5NTkxNTc1MSwtMTg1NTEzNTAxNiwtMTYwNDUxNjM5
+N119
 -->
