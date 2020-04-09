@@ -177,12 +177,15 @@ Mundo de los Gifs: [Giphy](https://giphy.com/)
 <img src="img/bride.jpg"
 srcset="img/man.jpg 1.2x,
 	img/dogs.jpg 2x">
+<img src="img/bride.jpg"
+srcset="img/man.jpg 500w,
+	img/dogs.jpg 800w">
 ```
-**srcset** nos permite cambiar la foto según el devicePixelRatio, width
+**srcset** nos permite cambiar la foto según el devicePixelRatio, width (tamaño de la pantalla)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTk0MDE4OTYsMTc4OTY0MjY5MiwtNz
-Q1ODgyNDEsLTE5MzgzOTM3NzcsMTA4MDI3OTQsLTc1NDYwNTcx
-OCw2OTQyODQxNzQsOTIyNDM4MDgxLDkzOTIxMzEwMCwtNzk1OT
-E1NzUxLC0xODU1MTM1MDE2LC0xNjA0NTE2Mzk3XX0=
+eyJoaXN0b3J5IjpbLTE5ODQ2OTcwMywxNzg5NjQyNjkyLC03ND
+U4ODI0MSwtMTkzODM5Mzc3NywxMDgwMjc5NCwtNzU0NjA1NzE4
+LDY5NDI4NDE3NCw5MjI0MzgwODEsOTM5MjEzMTAwLC03OTU5MT
+U3NTEsLTE4NTUxMzUwMTYsLTE2MDQ1MTYzOTddfQ==
 -->
