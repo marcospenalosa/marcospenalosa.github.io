@@ -228,18 +228,24 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 
 ```html
 <table>
- <tr> <!-- Table row-->
-  <td>Lunes</td> <!-- Table data-->
-  <td>Martes</td>
-  <td>Miercoles</td>
+  <t
+  <tr> <!-- Table row-->
+   <th>Lunes</th> <!-- Table heading-->
+   <th>Martes</th>
+   <th>Miercoles</th>
+  </tr>
+ <tr>
+  <td>HTML</td> <!-- Table data-->
+  <td>CSS</td>
+  <td>JavaScript</td>
  </tr>
 </table>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxOTU5MTAxLC03ODgzMDI4MzUsLTE0MD
-AyNTM0NzAsLTMzMTg4NjkzLC0xMjU3OTAwOTg3LDE1MTEzMzA2
-MSwtMzA3NDQ5OTU4LDE3ODk2NDI2OTIsLTc0NTg4MjQxLC0xOT
-M4MzkzNzc3LDEwODAyNzk0LC03NTQ2MDU3MTgsNjk0Mjg0MTc0
-LDkyMjQzODA4MSw5MzkyMTMxMDAsLTc5NTkxNTc1MSwtMTg1NT
-EzNTAxNiwtMTYwNDUxNjM5N119
+eyJoaXN0b3J5IjpbLTQxMzIzMTk1LDY1MTk1OTEwMSwtNzg4Mz
+AyODM1LC0xNDAwMjUzNDcwLC0zMzE4ODY5MywtMTI1NzkwMDk4
+NywxNTExMzMwNjEsLTMwNzQ0OTk1OCwxNzg5NjQyNjkyLC03ND
+U4ODI0MSwtMTkzODM5Mzc3NywxMDgwMjc5NCwtNzU0NjA1NzE4
+LDY5NDI4NDE3NCw5MjI0MzgwODEsOTM5MjEzMTAwLC03OTU5MT
+U3NTEsLTE4NTUxMzUwMTYsLTE2MDQ1MTYzOTddfQ==
 -->
