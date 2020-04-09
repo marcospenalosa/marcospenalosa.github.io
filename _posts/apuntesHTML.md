@@ -227,13 +227,19 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 #### Tablas
 
 ```html
-
+<table>
+ <tr>
+  <td>Lunes</td>
+  <td>Martes</td>
+  <td>Miercoes</td>
+ </tr>
+</table>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc0MTgzOTA0LC03ODgzMDI4MzUsLTE0MD
-AyNTM0NzAsLTMzMTg4NjkzLC0xMjU3OTAwOTg3LDE1MTEzMzA2
-MSwtMzA3NDQ5OTU4LDE3ODk2NDI2OTIsLTc0NTg4MjQxLC0xOT
-M4MzkzNzc3LDEwODAyNzk0LC03NTQ2MDU3MTgsNjk0Mjg0MTc0
-LDkyMjQzODA4MSw5MzkyMTMxMDAsLTc5NTkxNTc1MSwtMTg1NT
-EzNTAxNiwtMTYwNDUxNjM5N119
+eyJoaXN0b3J5IjpbLTE1NjQxODQ1NywtNzg4MzAyODM1LC0xND
+AwMjUzNDcwLC0zMzE4ODY5MywtMTI1NzkwMDk4NywxNTExMzMw
+NjEsLTMwNzQ0OTk1OCwxNzg5NjQyNjkyLC03NDU4ODI0MSwtMT
+kzODM5Mzc3NywxMDgwMjc5NCwtNzU0NjA1NzE4LDY5NDI4NDE3
+NCw5MjI0MzgwODEsOTM5MjEzMTAwLC03OTU5MTU3NTEsLTE4NT
+UxMzUwMTYsLTE2MDQ1MTYzOTddfQ==
 -->
