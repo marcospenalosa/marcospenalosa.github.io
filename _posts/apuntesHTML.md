@@ -183,8 +183,20 @@ srcset="img/man.jpg 500w,
 ```
 **srcset** nos permite cambiar la foto según el devicePixelRatio, width (tamaño de la pantalla)
 
+```html
+<picture>
+	<source srcset="img/man.jpg" media="
+<img src="img/bride.jpg"
+srcset="img/man.jpg 1.2x,
+	img/dogs.jpg 2x">
+<img src="img/bride.jpg"
+srcset="img/man.jpg 500w,
+	img/dogs.jpg 800w">
+```
+**srcset** nos permite cambiar la foto según el devicePixelRatio, width (tamaño de la pantalla)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQ2OTcwMywxNzg5NjQyNjkyLC03ND
+eyJoaXN0b3J5IjpbMTI1NzgzODU2MiwxNzg5NjQyNjkyLC03ND
 U4ODI0MSwtMTkzODM5Mzc3NywxMDgwMjc5NCwtNzU0NjA1NzE4
 LDY5NDI4NDE3NCw5MjI0MzgwODEsOTM5MjEzMTAwLC03OTU5MT
 U3NTEsLTE4NTUxMzUwMTYsLTE2MDQ1MTYzOTddfQ==
