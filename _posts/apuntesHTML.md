@@ -205,10 +205,21 @@ alt="Foto de una novia">
 ```
 **itemscope itemtype**="http://schema.org/Movie" se ponen en el padre del elemento, puede ser un *div*, *article*, etc.
 [Hta de pruebas de datos estructurados](https://search.google.com/structured-data/testing-tool/u/0/?hl=es)
+
+[Open graph (protocolo de Facebook)](ogp.me)
+```html
+<div itemscope itemtype="http://schema.org/Movie">
+  <h1 itemprop="name">Avatar</h1>
+  <span>Director: <span itemprop="director">James Cameron</span> (born August 16, 1954)</span>
+  <span itemprop="genre">Science fiction</span>
+  <a href="../movies/avatar-theatrical-trailer.html" itemprop="trailer">Trailer</a>
+</div>
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDAyNTM0NzAsLTMzMTg4NjkzLC0xMj
-U3OTAwOTg3LDE1MTEzMzA2MSwtMzA3NDQ5OTU4LDE3ODk2NDI2
-OTIsLTc0NTg4MjQxLC0xOTM4MzkzNzc3LDEwODAyNzk0LC03NT
-Q2MDU3MTgsNjk0Mjg0MTc0LDkyMjQzODA4MSw5MzkyMTMxMDAs
-LTc5NTkxNTc1MSwtMTg1NTEzNTAxNiwtMTYwNDUxNjM5N119
+eyJoaXN0b3J5IjpbLTc2MjY3MTAsLTE0MDAyNTM0NzAsLTMzMT
+g4NjkzLC0xMjU3OTAwOTg3LDE1MTEzMzA2MSwtMzA3NDQ5OTU4
+LDE3ODk2NDI2OTIsLTc0NTg4MjQxLC0xOTM4MzkzNzc3LDEwOD
+AyNzk0LC03NTQ2MDU3MTgsNjk0Mjg0MTc0LDkyMjQzODA4MSw5
+MzkyMTMxMDAsLTc5NTkxNTc1MSwtMTg1NTEzNTAxNiwtMTYwND
+UxNjM5N119
 -->
