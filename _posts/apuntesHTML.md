@@ -196,7 +196,7 @@ alt="Foto de una novia">
 #### Microdatos y Open Graph
 [schema.org; define los estándares de microdatos](schema.org)
 ```html
-<div itemscope itemtype ="http://schema.org/Movie">
+<div itemscope itemtype="http://schema.org/Movie">
   <h1 itemprop="name">Avatar</h1>
   <span>Director: <span itemprop="director">James Cameron</span> (born August 16, 1954)</span>
   <span itemprop="genre">Science fiction</span>
@@ -205,9 +205,9 @@ alt="Foto de una novia">
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTc5MDA5ODcsMTUxMTMzMDYxLC0zMD
-c0NDk5NTgsMTc4OTY0MjY5MiwtNzQ1ODgyNDEsLTE5MzgzOTM3
-NzcsMTA4MDI3OTQsLTc1NDYwNTcxOCw2OTQyODQxNzQsOTIyND
-M4MDgxLDkzOTIxMzEwMCwtNzk1OTE1NzUxLC0xODU1MTM1MDE2
-LC0xNjA0NTE2Mzk3XX0=
+eyJoaXN0b3J5IjpbLTMzMTg4NjkzLC0xMjU3OTAwOTg3LDE1MT
+EzMzA2MSwtMzA3NDQ5OTU4LDE3ODk2NDI2OTIsLTc0NTg4MjQx
+LC0xOTM4MzkzNzc3LDEwODAyNzk0LC03NTQ2MDU3MTgsNjk0Mj
+g0MTc0LDkyMjQzODA4MSw5MzkyMTMxMDAsLTc5NTkxNTc1MSwt
+MTg1NTEzNTAxNiwtMTYwNDUxNjM5N119
 -->
