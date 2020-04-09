@@ -235,9 +235,14 @@ Se pueden buscar hta. para comprobar el funcionamiento.
    <th>Miercoles</th>
   </tr>
   </thead>
- <tr>
-  <tbody>
+ <tbody>
+  <tr>
    <td>HTML</td> <!-- Table data-->
+   <td>CSS</td>
+   <td>JavaScript</td>
+  </tr>
+  <tr>
+   <td >HTML</td> <!-- Table data-->
    <td>CSS</td>
    <td>JavaScript</td>
   </tr>
@@ -251,10 +256,11 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 </table>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NjE2ODI5OSw2NTE5NTkxMDEsLTc4OD
-MwMjgzNSwtMTQwMDI1MzQ3MCwtMzMxODg2OTMsLTEyNTc5MDA5
-ODcsMTUxMTMzMDYxLC0zMDc0NDk5NTgsMTc4OTY0MjY5MiwtNz
-Q1ODgyNDEsLTE5MzgzOTM3NzcsMTA4MDI3OTQsLTc1NDYwNTcx
-OCw2OTQyODQxNzQsOTIyNDM4MDgxLDkzOTIxMzEwMCwtNzk1OT
-E1NzUxLC0xODU1MTM1MDE2LC0xNjA0NTE2Mzk3XX0=
+eyJoaXN0b3J5IjpbLTE4ODgwMDI4NzMsLTc0NjE2ODI5OSw2NT
+E5NTkxMDEsLTc4ODMwMjgzNSwtMTQwMDI1MzQ3MCwtMzMxODg2
+OTMsLTEyNTc5MDA5ODcsMTUxMTMzMDYxLC0zMDc0NDk5NTgsMT
+c4OTY0MjY5MiwtNzQ1ODgyNDEsLTE5MzgzOTM3NzcsMTA4MDI3
+OTQsLTc1NDYwNTcxOCw2OTQyODQxNzQsOTIyNDM4MDgxLDkzOT
+IxMzEwMCwtNzk1OTE1NzUxLC0xODU1MTM1MDE2LC0xNjA0NTE2
+Mzk3XX0=
 -->
