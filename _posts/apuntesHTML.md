@@ -203,11 +203,12 @@ alt="Foto de una novia">
   <a href="../movies/avatar-theatrical-trailer.html" itemprop="trailer">Trailer</a>
 </div>
 ```
-
+**itemscope itemtype**="http://schema.org/Movie" se ponen en el padre del elemento, puede ser un *div*, *article*, etc.
+[schema.org; define los estándares de microdatos](schema.org)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTg4NjkzLC0xMjU3OTAwOTg3LDE1MT
-EzMzA2MSwtMzA3NDQ5OTU4LDE3ODk2NDI2OTIsLTc0NTg4MjQx
-LC0xOTM4MzkzNzc3LDEwODAyNzk0LC03NTQ2MDU3MTgsNjk0Mj
-g0MTc0LDkyMjQzODA4MSw5MzkyMTMxMDAsLTc5NTkxNTc1MSwt
-MTg1NTEzNTAxNiwtMTYwNDUxNjM5N119
+eyJoaXN0b3J5IjpbODc0NDk5Njk2LC0zMzE4ODY5MywtMTI1Nz
+kwMDk4NywxNTExMzMwNjEsLTMwNzQ0OTk1OCwxNzg5NjQyNjky
+LC03NDU4ODI0MSwtMTkzODM5Mzc3NywxMDgwMjc5NCwtNzU0Nj
+A1NzE4LDY5NDI4NDE3NCw5MjI0MzgwODEsOTM5MjEzMTAwLC03
+OTU5MTU3NTEsLTE4NTUxMzUwMTYsLTE2MDQ1MTYzOTddfQ==
 -->
