@@ -253,9 +253,12 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 <!-- <td rowspan="2"></td> -->
 <!-- La celda ocupa dos filas-->
 
+<!-- <td colspan="5"></td> -->
+<!-- La celda ocupa cinco columnas-->
+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNzIyNjE2LC03NDYxNjgyOTksNjUxOT
+eyJoaXN0b3J5IjpbNjY3NzczNzYzLC03NDYxNjgyOTksNjUxOT
 U5MTAxLC03ODgzMDI4MzUsLTE0MDAyNTM0NzAsLTMzMTg4Njkz
 LC0xMjU3OTAwOTg3LDE1MTEzMzA2MSwtMzA3NDQ5OTU4LDE3OD
 k2NDI2OTIsLTc0NTg4MjQxLC0xOTM4MzkzNzc3LDEwODAyNzk0
