@@ -172,15 +172,16 @@ Fotos Gratis Libres de Derechos de Autor: [Pexels](https://www.pexels.com/es-es/
 Mundo de los Gifs: [Giphy](https://giphy.com/)
 
 **viewport** Cantidad de píxeles que *reales* que tiene el dispositivo (el tamaño, un móvil FHD no tiene 1920x1080 píxeles reales) -> **devicePixelRatio** nos dice el número de píxeles que hay por cada pixel real.
+
 ```html
 <img src="img/bride.jpg"
 srcset="img/man.jpg 1.2x,
-	img/dogs.jpg 2x"
+	img/dogs.jpg 2x">
 ```
-
+**srcset** nos permite cambiar la foto según el devicePixelRatio, width
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTQ0Nzk2MDcsMTc4OTY0MjY5MiwtNz
+eyJoaXN0b3J5IjpbLTE3NTk0MDE4OTYsMTc4OTY0MjY5MiwtNz
 Q1ODgyNDEsLTE5MzgzOTM3NzcsMTA4MDI3OTQsLTc1NDYwNTcx
 OCw2OTQyODQxNzQsOTIyNDM4MDgxLDkzOTIxMzEwMCwtNzk1OT
 E1NzUxLC0xODU1MTM1MDE2LC0xNjA0NTE2Mzk3XX0=
