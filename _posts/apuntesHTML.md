@@ -208,18 +208,24 @@ alt="Foto de una novia">
 
 [Open graph (protocolo de Facebook)](ogp.me)
 ```html
-<div itemscope itemtype="http://schema.org/Movie">
-  <h1 itemprop="name">Avatar</h1>
-  <span>Director: <span itemprop="director">James Cameron</span> (born August 16, 1954)</span>
-  <span itemprop="genre">Science fiction</span>
-  <a href="../movies/avatar-theatrical-trailer.html" itemprop="trailer">Trailer</a>
-</div>
+<html prefix="og: http://ogp.me/ns#">
+<head>
+<title>The Rock (1996)</title>
+<meta property="og:title" content="The Rock" />
+<meta property="og:type" content="video.movie" />
+<meta property="og:url" content="http://www.imdb.com/title/tt0117500/" />
+<meta property="og:image" content="http://ia.media-imdb.com/images/rock.jpg" />
+...
+</head>
+...
+</html>
 ```
+También lo hay para twitter --> < meta property="twitter:image" >"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjY3MTAsLTE0MDAyNTM0NzAsLTMzMT
-g4NjkzLC0xMjU3OTAwOTg3LDE1MTEzMzA2MSwtMzA3NDQ5OTU4
-LDE3ODk2NDI2OTIsLTc0NTg4MjQxLC0xOTM4MzkzNzc3LDEwOD
-AyNzk0LC03NTQ2MDU3MTgsNjk0Mjg0MTc0LDkyMjQzODA4MSw5
-MzkyMTMxMDAsLTc5NTkxNTc1MSwtMTg1NTEzNTAxNiwtMTYwND
-UxNjM5N119
+eyJoaXN0b3J5IjpbLTc4ODMwMjgzNSwtMTQwMDI1MzQ3MCwtMz
+MxODg2OTMsLTEyNTc5MDA5ODcsMTUxMTMzMDYxLC0zMDc0NDk5
+NTgsMTc4OTY0MjY5MiwtNzQ1ODgyNDEsLTE5MzgzOTM3NzcsMT
+A4MDI3OTQsLTc1NDYwNTcxOCw2OTQyODQxNzQsOTIyNDM4MDgx
+LDkzOTIxMzEwMCwtNzk1OTE1NzUxLC0xODU1MTM1MDE2LC0xNj
+A0NTE2Mzk3XX0=
 -->
