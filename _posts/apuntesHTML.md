@@ -194,8 +194,7 @@ alt="Foto de una novia">
 **picture** obtenemos el mismo resultado, hay tener cuidado con los source, en cuanto se cumpla uno no evalúa el resto.
 
 #### Microdatos y Open Graph
-!(schema.org )[schema.org]
-[Schema.org](schema.org)
+[schema.org; define los estándares de microdatos](schema.org)
 ```html
 <img src="https://images.pexels.com/photos/341372/pexels-photo  
 341372.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="foto de una novia">  
@@ -204,9 +203,9 @@ alt="Foto de una novia">
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MDE1NDI3NCwxNTExMzMwNjEsLTMwNz
-Q0OTk1OCwxNzg5NjQyNjkyLC03NDU4ODI0MSwtMTkzODM5Mzc3
-NywxMDgwMjc5NCwtNzU0NjA1NzE4LDY5NDI4NDE3NCw5MjI0Mz
-gwODEsOTM5MjEzMTAwLC03OTU5MTU3NTEsLTE4NTUxMzUwMTYs
-LTE2MDQ1MTYzOTddfQ==
+eyJoaXN0b3J5IjpbMTY5MDMwMjU2LDE1MTEzMzA2MSwtMzA3ND
+Q5OTU4LDE3ODk2NDI2OTIsLTc0NTg4MjQxLC0xOTM4MzkzNzc3
+LDEwODAyNzk0LC03NTQ2MDU3MTgsNjk0Mjg0MTc0LDkyMjQzOD
+A4MSw5MzkyMTMxMDAsLTc5NTkxNTc1MSwtMTg1NTEzNTAxNiwt
+MTYwNDUxNjM5N119
 -->
