@@ -380,12 +380,13 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 [www.w3.org](www.w3.org)
 [https://whatwg.org/](https://whatwg.org/)
 [mozilla](https://developer.mozilla.org/es/docs/Web)
+[web para saber si navegadores soportan HTML](https://caniuse.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDc4OTEyNSwxODEwODYxMzgyLDEwND
-YwNDc5MjEsLTIxMTE4NjE4OTUsLTgwNjQ1NjU1OSw1ODU1NzQ5
-MzAsLTE1NjgyOTI1NjAsMTI3MzIyMzA3NCwtOTc4MjI1ODI0LD
-EzNzM5Mjc3NTAsMjA3NzI4MDcwOSwyNzgyMTE0MTYsMjAzOTIx
-MzczNSwtMTE5NzExNTE2MywyMTUzNDI2ODQsNjY3NzczNzYzLC
-03NDYxNjgyOTksNjUxOTU5MTAxLC03ODgzMDI4MzUsLTE0MDAy
-NTM0NzBdfQ==
+eyJoaXN0b3J5IjpbLTEyNzU5ODIwMzAsLTEzNDc4OTEyNSwxOD
+EwODYxMzgyLDEwNDYwNDc5MjEsLTIxMTE4NjE4OTUsLTgwNjQ1
+NjU1OSw1ODU1NzQ5MzAsLTE1NjgyOTI1NjAsMTI3MzIyMzA3NC
+wtOTc4MjI1ODI0LDEzNzM5Mjc3NTAsMjA3NzI4MDcwOSwyNzgy
+MTE0MTYsMjAzOTIxMzczNSwtMTE5NzExNTE2MywyMTUzNDI2OD
+QsNjY3NzczNzYzLC03NDYxNjgyOTksNjUxOTU5MTAxLC03ODgz
+MDI4MzVdfQ==
 -->
