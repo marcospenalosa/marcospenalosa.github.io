@@ -315,14 +315,18 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 
 <!-- Lista de opciones -->
 <select name="country" id="conuntry">
-<optgroup label="Eu">
+<optgroup label="Europa">
  <option value="Spain">España</option>
  <option value="France">Francia</option>
+</optgroup>
+<optgroup label="América">
+ <option value="Colom">Colombia</option>
+ <option value="Per">Perú</option>
 </optgroup>
 </select> 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM2MDM2MDc3LDIwNzcyODA3MDksMjc4Mj
+eyJoaXN0b3J5IjpbOTk1MjU2NjI1LDIwNzcyODA3MDksMjc4Mj
 ExNDE2LDIwMzkyMTM3MzUsLTExOTcxMTUxNjMsMjE1MzQyNjg0
 LDY2Nzc3Mzc2MywtNzQ2MTY4Mjk5LDY1MTk1OTEwMSwtNzg4Mz
 AyODM1LC0xNDAwMjUzNDcwLC0zMzE4ODY5MywtMTI1NzkwMDk4
