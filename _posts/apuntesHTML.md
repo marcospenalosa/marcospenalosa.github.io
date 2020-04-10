@@ -375,8 +375,13 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 <!-- disqus (comentarios) wuffo (formularios)  para insertar-->
 </iframe>
 ```
+#### Actualizarse
+
+```html
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzU5MjUxMDEsMTA0NjA0NzkyMSwtMj
+eyJoaXN0b3J5IjpbLTExNzYzMzI3NzIsMTA0NjA0NzkyMSwtMj
 ExMTg2MTg5NSwtODA2NDU2NTU5LDU4NTU3NDkzMCwtMTU2ODI5
 MjU2MCwxMjczMjIzMDc0LC05NzgyMjU4MjQsMTM3MzkyNzc1MC
 wyMDc3MjgwNzA5LDI3ODIxMTQxNiwyMDM5MjEzNzM1LC0xMTk3
