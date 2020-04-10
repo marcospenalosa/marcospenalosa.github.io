@@ -278,11 +278,21 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 <!-- action -> archivo donde va actuar -->
 <!-- <form action=""> -->
 <form>
+ <!-- Hay dos formas de poner los label -->
  <label for="nombre">Ingrese su nombre</label>
  <input id="nombre">
+ 
  <label>
   Ingrese su nombre
   <input>
+ </label>
+ <button>Enviar</button>
+</form>
+
+<form>
+ <label>
+  Ingrese su contraseña
+  <input type="password name="passwor=>
  </label>
  <button>Enviar</button>
 </form>
@@ -291,7 +301,7 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 <!-- Hay muchos tipos de inputs. -->
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMjY4MTc0MywtMTE5NzExNTE2MywyMT
+eyJoaXN0b3J5IjpbLTgxMjI3OTcyNywtMTE5NzExNTE2MywyMT
 UzNDI2ODQsNjY3NzczNzYzLC03NDYxNjgyOTksNjUxOTU5MTAx
 LC03ODgzMDI4MzUsLTE0MDAyNTM0NzAsLTMzMTg4NjkzLC0xMj
 U3OTAwOTg3LDE1MTEzMzA2MSwtMzA3NDQ5OTU4LDE3ODk2NDI2
