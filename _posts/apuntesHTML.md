@@ -341,14 +341,14 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 <video src="media/clase.mp4" controls ></video>
 <!-- Atributos -->
 <!-- autoplay -->
-<!-- poster="img/poster.jpg"  le pones una imagen antes-->
+<!-- poster="img/poster.jpg"  le pones una imagen antes de reproducirlo -->
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg5NjQ0NTE5LDEyNzMyMjMwNzQsLTk3OD
-IyNTgyNCwxMzczOTI3NzUwLDIwNzcyODA3MDksMjc4MjExNDE2
-LDIwMzkyMTM3MzUsLTExOTcxMTUxNjMsMjE1MzQyNjg0LDY2Nz
-c3Mzc2MywtNzQ2MTY4Mjk5LDY1MTk1OTEwMSwtNzg4MzAyODM1
-LC0xNDAwMjUzNDcwLC0zMzE4ODY5MywtMTI1NzkwMDk4NywxNT
-ExMzMwNjEsLTMwNzQ0OTk1OCwxNzg5NjQyNjkyLC03NDU4ODI0
-MV19
+eyJoaXN0b3J5IjpbLTE1NjgyOTI1NjAsMTI3MzIyMzA3NCwtOT
+c4MjI1ODI0LDEzNzM5Mjc3NTAsMjA3NzI4MDcwOSwyNzgyMTE0
+MTYsMjAzOTIxMzczNSwtMTE5NzExNTE2MywyMTUzNDI2ODQsNj
+Y3NzczNzYzLC03NDYxNjgyOTksNjUxOTU5MTAxLC03ODgzMDI4
+MzUsLTE0MDAyNTM0NzAsLTMzMTg4NjkzLC0xMjU3OTAwOTg3LD
+E1MTEzMzA2MSwtMzA3NDQ5OTU4LDE3ODk2NDI2OTIsLTc0NTg4
+MjQxXX0=
 -->
