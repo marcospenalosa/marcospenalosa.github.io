@@ -336,14 +336,16 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 #### Multimedia
 
 ```html
-<video src="vide"></video>
+<!-- codec más usado H.264 -->
+<!-- El atributo controls añade los botones -->
+<video src="media/clase.mp4" controls></video>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwNjg2NzQ2LC05NzgyMjU4MjQsMTM3Mz
-kyNzc1MCwyMDc3MjgwNzA5LDI3ODIxMTQxNiwyMDM5MjEzNzM1
-LC0xMTk3MTE1MTYzLDIxNTM0MjY4NCw2Njc3NzM3NjMsLTc0Nj
-E2ODI5OSw2NTE5NTkxMDEsLTc4ODMwMjgzNSwtMTQwMDI1MzQ3
-MCwtMzMxODg2OTMsLTEyNTc5MDA5ODcsMTUxMTMzMDYxLC0zMD
-c0NDk5NTgsMTc4OTY0MjY5MiwtNzQ1ODgyNDEsLTE5MzgzOTM3
-NzddfQ==
+eyJoaXN0b3J5IjpbMTI3MzIyMzA3NCwtOTc4MjI1ODI0LDEzNz
+M5Mjc3NTAsMjA3NzI4MDcwOSwyNzgyMTE0MTYsMjAzOTIxMzcz
+NSwtMTE5NzExNTE2MywyMTUzNDI2ODQsNjY3NzczNzYzLC03ND
+YxNjgyOTksNjUxOTU5MTAxLC03ODgzMDI4MzUsLTE0MDAyNTM0
+NzAsLTMzMTg4NjkzLC0xMjU3OTAwOTg3LDE1MTEzMzA2MSwtMz
+A3NDQ5OTU4LDE3ODk2NDI2OTIsLTc0NTg4MjQxLC0xOTM4Mzkz
+Nzc3XX0=
 -->
