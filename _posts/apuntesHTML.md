@@ -378,10 +378,10 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 #### Actualizarse
 
 [www.w3.org](www.w3.org)
-
+[https://whatwg.org/](https://whatwg.org/)
 [mozilla](https://developer.mozilla.org/es/docs/Web)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MjM5NTUwOCwxODEwODYxMzgyLDEwND
+eyJoaXN0b3J5IjpbLTEzNDc4OTEyNSwxODEwODYxMzgyLDEwND
 YwNDc5MjEsLTIxMTE4NjE4OTUsLTgwNjQ1NjU1OSw1ODU1NzQ5
 MzAsLTE1NjgyOTI1NjAsMTI3MzIyMzA3NCwtOTc4MjI1ODI0LD
 EzNzM5Mjc3NTAsMjA3NzI4MDcwOSwyNzgyMTE0MTYsMjAzOTIx
