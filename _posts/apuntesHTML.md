@@ -302,6 +302,8 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 
 <!-- con placeholder ponemos dentro del cuadro el texto que queremos -->
 <input placeholder="Ingrese su nombre">
+<!-- con required indicamos que es obligatorio -->
+<input required>
 
 <!-- <input type="text"> -->
 <!-- Hay muchos tipos de inputs. -->
@@ -325,14 +327,16 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 </optgroup>
 </select>  
 <!-- <select name... id... multiple (permite con control pulsado seleccionar varias opciones -->
-<textarea name="mensaje id="" cols="30" rows="10" placeholder="Escribe tu mensaje"><
+
+<textarea name="mensaje" id="" cols="30" rows="10" placeholder="Escribe tu mensaje">
+</textarea>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTA4Nzc1MDMsMjA3NzI4MDcwOSwyNz
-gyMTE0MTYsMjAzOTIxMzczNSwtMTE5NzExNTE2MywyMTUzNDI2
-ODQsNjY3NzczNzYzLC03NDYxNjgyOTksNjUxOTU5MTAxLC03OD
-gzMDI4MzUsLTE0MDAyNTM0NzAsLTMzMTg4NjkzLC0xMjU3OTAw
-OTg3LDE1MTEzMzA2MSwtMzA3NDQ5OTU4LDE3ODk2NDI2OTIsLT
-c0NTg4MjQxLC0xOTM4MzkzNzc3LDEwODAyNzk0LC03NTQ2MDU3
-MThdfQ==
+eyJoaXN0b3J5IjpbLTE5MDMxODU2NiwyMDc3MjgwNzA5LDI3OD
+IxMTQxNiwyMDM5MjEzNzM1LC0xMTk3MTE1MTYzLDIxNTM0MjY4
+NCw2Njc3NzM3NjMsLTc0NjE2ODI5OSw2NTE5NTkxMDEsLTc4OD
+MwMjgzNSwtMTQwMDI1MzQ3MCwtMzMxODg2OTMsLTEyNTc5MDA5
+ODcsMTUxMTMzMDYxLC0zMDc0NDk5NTgsMTc4OTY0MjY5MiwtNz
+Q1ODgyNDEsLTE5MzgzOTM3NzcsMTA4MDI3OTQsLTc1NDYwNTcx
+OF19
 -->
