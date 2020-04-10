@@ -338,14 +338,17 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 ```html
 <!-- codec más usado H.264 -->
 <!-- El atributo controls añade los botones -->
-<video src="media/clase.mp4" controls></video>
+<video src="media/clase.mp4" controls ></video>
+<!-- Atributos -->
+<!-- autoplay -->
+<!-- poster="img/poster.jpg"  le pones una imagen antes-->
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MzIyMzA3NCwtOTc4MjI1ODI0LDEzNz
-M5Mjc3NTAsMjA3NzI4MDcwOSwyNzgyMTE0MTYsMjAzOTIxMzcz
-NSwtMTE5NzExNTE2MywyMTUzNDI2ODQsNjY3NzczNzYzLC03ND
-YxNjgyOTksNjUxOTU5MTAxLC03ODgzMDI4MzUsLTE0MDAyNTM0
-NzAsLTMzMTg4NjkzLC0xMjU3OTAwOTg3LDE1MTEzMzA2MSwtMz
-A3NDQ5OTU4LDE3ODk2NDI2OTIsLTc0NTg4MjQxLC0xOTM4Mzkz
-Nzc3XX0=
+eyJoaXN0b3J5IjpbMzg5NjQ0NTE5LDEyNzMyMjMwNzQsLTk3OD
+IyNTgyNCwxMzczOTI3NzUwLDIwNzcyODA3MDksMjc4MjExNDE2
+LDIwMzkyMTM3MzUsLTExOTcxMTUxNjMsMjE1MzQyNjg0LDY2Nz
+c3Mzc2MywtNzQ2MTY4Mjk5LDY1MTk1OTEwMSwtNzg4MzAyODM1
+LC0xNDAwMjUzNDcwLC0zMzE4ODY5MywtMTI1NzkwMDk4NywxNT
+ExMzMwNjEsLTMwNzQ0OTk1OCwxNzg5NjQyNjkyLC03NDU4ODI0
+MV19
 -->
