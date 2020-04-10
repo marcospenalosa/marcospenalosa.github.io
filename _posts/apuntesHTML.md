@@ -333,12 +333,17 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 <textarea name="mensaje" id="" cols="30" rows="10" placeholder="Escribe tu mensaje">
 </textarea>
 ```
+#### Multimedia
+
+```html
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MzkyNzc1MCwyMDc3MjgwNzA5LDI3OD
-IxMTQxNiwyMDM5MjEzNzM1LC0xMTk3MTE1MTYzLDIxNTM0MjY4
-NCw2Njc3NzM3NjMsLTc0NjE2ODI5OSw2NTE5NTkxMDEsLTc4OD
-MwMjgzNSwtMTQwMDI1MzQ3MCwtMzMxODg2OTMsLTEyNTc5MDA5
-ODcsMTUxMTMzMDYxLC0zMDc0NDk5NTgsMTc4OTY0MjY5MiwtNz
-Q1ODgyNDEsLTE5MzgzOTM3NzcsMTA4MDI3OTQsLTc1NDYwNTcx
-OF19
+eyJoaXN0b3J5IjpbLTk3ODIyNTgyNCwxMzczOTI3NzUwLDIwNz
+cyODA3MDksMjc4MjExNDE2LDIwMzkyMTM3MzUsLTExOTcxMTUx
+NjMsMjE1MzQyNjg0LDY2Nzc3Mzc2MywtNzQ2MTY4Mjk5LDY1MT
+k1OTEwMSwtNzg4MzAyODM1LC0xNDAwMjUzNDcwLC0zMzE4ODY5
+MywtMTI1NzkwMDk4NywxNTExMzMwNjEsLTMwNzQ0OTk1OCwxNz
+g5NjQyNjkyLC03NDU4ODI0MSwtMTkzODM5Mzc3NywxMDgwMjc5
+NF19
 -->
