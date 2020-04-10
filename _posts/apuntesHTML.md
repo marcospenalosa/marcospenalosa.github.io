@@ -355,18 +355,18 @@ Se pueden buscar hta. para comprobar el funcionamiento.
  <summary>Título</summary>
  <p>Texto</p>
 </details>
-
+<!-- Muestra una "cuadro" por encima de todo, es un modal -->
 <dialog>
  <summary>Título</summary>
  <p>Texto</p>
 </dialog>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNjQ1NjU1OSw1ODU1NzQ5MzAsLTE1Nj
-gyOTI1NjAsMTI3MzIyMzA3NCwtOTc4MjI1ODI0LDEzNzM5Mjc3
-NTAsMjA3NzI4MDcwOSwyNzgyMTE0MTYsMjAzOTIxMzczNSwtMT
-E5NzExNTE2MywyMTUzNDI2ODQsNjY3NzczNzYzLC03NDYxNjgy
-OTksNjUxOTU5MTAxLC03ODgzMDI4MzUsLTE0MDAyNTM0NzAsLT
-MzMTg4NjkzLC0xMjU3OTAwOTg3LDE1MTEzMzA2MSwtMzA3NDQ5
-OTU4XX0=
+eyJoaXN0b3J5IjpbMTY1OTEyMzEwNCwtODA2NDU2NTU5LDU4NT
+U3NDkzMCwtMTU2ODI5MjU2MCwxMjczMjIzMDc0LC05NzgyMjU4
+MjQsMTM3MzkyNzc1MCwyMDc3MjgwNzA5LDI3ODIxMTQxNiwyMD
+M5MjEzNzM1LC0xMTk3MTE1MTYzLDIxNTM0MjY4NCw2Njc3NzM3
+NjMsLTc0NjE2ODI5OSw2NTE5NTkxMDEsLTc4ODMwMjgzNSwtMT
+QwMDI1MzQ3MCwtMzMxODg2OTMsLTEyNTc5MDA5ODcsMTUxMTMz
+MDYxXX0=
 -->
