@@ -302,12 +302,15 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 
 <!-- con placeholder ponemos dentro del cuadro el texto que queremos -->
 <input placeholder="Ingrese su nombre">
+
 <!-- <input type="text"> -->
 <!-- Hay muchos tipos de inputs. -->
-<!-- text, password, email, date, number  -->
+<!-- text, password, email, date, number...  -->
+
+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4MDc5NDg0LDI3ODIxMTQxNiwyMDM5Mj
+eyJoaXN0b3J5IjpbLTE4MTU4ODQ4LDI3ODIxMTQxNiwyMDM5Mj
 EzNzM1LC0xMTk3MTE1MTYzLDIxNTM0MjY4NCw2Njc3NzM3NjMs
 LTc0NjE2ODI5OSw2NTE5NTkxMDEsLTc4ODMwMjgzNSwtMTQwMD
 I1MzQ3MCwtMzMxODg2OTMsLTEyNTc5MDA5ODcsMTUxMTMzMDYx
