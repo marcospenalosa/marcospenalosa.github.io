@@ -278,18 +278,19 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 <!-- action -> archivo donde va actuar -->
 <!-- <form action=""> -->
 <form>
- <input>
- <boton
+ <label for="nombre">Ingrese su nombre</label>
+ <input id:"nombre">
+ <button>Enviar</button>
 
 <!-- <input type="text"> -->
-
+<!-- Hay muchos tipos de inputs. -->
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE5MzM0NDMsLTExOTcxMTUxNjMsMjE1Mz
-QyNjg0LDY2Nzc3Mzc2MywtNzQ2MTY4Mjk5LDY1MTk1OTEwMSwt
-Nzg4MzAyODM1LC0xNDAwMjUzNDcwLC0zMzE4ODY5MywtMTI1Nz
-kwMDk4NywxNTExMzMwNjEsLTMwNzQ0OTk1OCwxNzg5NjQyNjky
-LC03NDU4ODI0MSwtMTkzODM5Mzc3NywxMDgwMjc5NCwtNzU0Nj
-A1NzE4LDY5NDI4NDE3NCw5MjI0MzgwODEsOTM5MjEzMTAwXX0=
-
+eyJoaXN0b3J5IjpbMTI5MzM0OTI5MCwtMTE5NzExNTE2MywyMT
+UzNDI2ODQsNjY3NzczNzYzLC03NDYxNjgyOTksNjUxOTU5MTAx
+LC03ODgzMDI4MzUsLTE0MDAyNTM0NzAsLTMzMTg4NjkzLC0xMj
+U3OTAwOTg3LDE1MTEzMzA2MSwtMzA3NDQ5OTU4LDE3ODk2NDI2
+OTIsLTc0NTg4MjQxLC0xOTM4MzkzNzc3LDEwODAyNzk0LC03NT
+Q2MDU3MTgsNjk0Mjg0MTc0LDkyMjQzODA4MSw5MzkyMTMxMDBd
+fQ==
 -->
