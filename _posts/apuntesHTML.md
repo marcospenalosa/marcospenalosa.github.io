@@ -295,18 +295,19 @@ Se pueden buscar hta. para comprobar el funcionamiento.
   Ingrese su contraseña
   <input type="password" name="password">
  </label>
- <button>Enviar</button>
+ <!-- <input type="subit"> para us-->
+ <input type="submit" value="Iniciar sesión">
 </form>
 
 <!-- <input type="text"> -->
 <!-- Hay muchos tipos de inputs. -->
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjU4MTk3NTcsLTExOTcxMTUxNjMsMj
-E1MzQyNjg0LDY2Nzc3Mzc2MywtNzQ2MTY4Mjk5LDY1MTk1OTEw
-MSwtNzg4MzAyODM1LC0xNDAwMjUzNDcwLC0zMzE4ODY5MywtMT
-I1NzkwMDk4NywxNTExMzMwNjEsLTMwNzQ0OTk1OCwxNzg5NjQy
-NjkyLC03NDU4ODI0MSwtMTkzODM5Mzc3NywxMDgwMjc5NCwtNz
-U0NjA1NzE4LDY5NDI4NDE3NCw5MjI0MzgwODEsOTM5MjEzMTAw
-XX0=
+eyJoaXN0b3J5IjpbMTU0Njk5ODU1LC0xMTk3MTE1MTYzLDIxNT
+M0MjY4NCw2Njc3NzM3NjMsLTc0NjE2ODI5OSw2NTE5NTkxMDEs
+LTc4ODMwMjgzNSwtMTQwMDI1MzQ3MCwtMzMxODg2OTMsLTEyNT
+c5MDA5ODcsMTUxMTMzMDYxLC0zMDc0NDk5NTgsMTc4OTY0MjY5
+MiwtNzQ1ODgyNDEsLTE5MzgzOTM3NzcsMTA4MDI3OTQsLTc1ND
+YwNTcxOCw2OTQyODQxNzQsOTIyNDM4MDgxLDkzOTIxMzEwMF19
+
 -->
