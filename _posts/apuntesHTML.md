@@ -378,13 +378,13 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 #### Actualizarse
 
 [www.w3.org](www.w3.org)
-https://developer.mozilla.org/es/docs/Web
+[mozilla](https://developer.mozilla.org/es/docs/Web)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIyNDgzOTA5LDEwNDYwNDc5MjEsLTIxMT
-E4NjE4OTUsLTgwNjQ1NjU1OSw1ODU1NzQ5MzAsLTE1NjgyOTI1
-NjAsMTI3MzIyMzA3NCwtOTc4MjI1ODI0LDEzNzM5Mjc3NTAsMj
-A3NzI4MDcwOSwyNzgyMTE0MTYsMjAzOTIxMzczNSwtMTE5NzEx
-NTE2MywyMTUzNDI2ODQsNjY3NzczNzYzLC03NDYxNjgyOTksNj
-UxOTU5MTAxLC03ODgzMDI4MzUsLTE0MDAyNTM0NzAsLTMzMTg4
-NjkzXX0=
+eyJoaXN0b3J5IjpbMTgxMDg2MTM4MiwxMDQ2MDQ3OTIxLC0yMT
+ExODYxODk1LC04MDY0NTY1NTksNTg1NTc0OTMwLC0xNTY4Mjky
+NTYwLDEyNzMyMjMwNzQsLTk3ODIyNTgyNCwxMzczOTI3NzUwLD
+IwNzcyODA3MDksMjc4MjExNDE2LDIwMzkyMTM3MzUsLTExOTcx
+MTUxNjMsMjE1MzQyNjg0LDY2Nzc3Mzc2MywtNzQ2MTY4Mjk5LD
+Y1MTk1OTEwMSwtNzg4MzAyODM1LC0xNDAwMjUzNDcwLC0zMzE4
+ODY5M119
 -->
