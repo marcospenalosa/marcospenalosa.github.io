@@ -263,19 +263,19 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 <!-- La celda ocupa cinco columnas-->
 
 <!-- Se suele poner al inicio de la tabla -->
-<!-- Se suele poner al inicio de la tabla -->
+<!-- Se suele poner tantos col como columnas -->
+<!-- Pero si queremos actuar en una enconcreto -->
  <colgroup> 
- <col>
- <col>
- <col>
+ <col span="2">
+ <col color:yellow;>
  </colgroup>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTkwNDU3NSwyMTUzNDI2ODQsNjY3Nz
-czNzYzLC03NDYxNjgyOTksNjUxOTU5MTAxLC03ODgzMDI4MzUs
-LTE0MDAyNTM0NzAsLTMzMTg4NjkzLC0xMjU3OTAwOTg3LDE1MT
-EzMzA2MSwtMzA3NDQ5OTU4LDE3ODk2NDI2OTIsLTc0NTg4MjQx
-LC0xOTM4MzkzNzc3LDEwODAyNzk0LC03NTQ2MDU3MTgsNjk0Mj
-g0MTc0LDkyMjQzODA4MSw5MzkyMTMxMDAsLTc5NTkxNTc1MV19
+eyJoaXN0b3J5IjpbNzU0MjQ1MzkyLDIxNTM0MjY4NCw2Njc3Nz
+M3NjMsLTc0NjE2ODI5OSw2NTE5NTkxMDEsLTc4ODMwMjgzNSwt
+MTQwMDI1MzQ3MCwtMzMxODg2OTMsLTEyNTc5MDA5ODcsMTUxMT
+MzMDYxLC0zMDc0NDk5NTgsMTc4OTY0MjY5MiwtNzQ1ODgyNDEs
+LTE5MzgzOTM3NzcsMTA4MDI3OTQsLTc1NDYwNTcxOCw2OTQyOD
+QxNzQsOTIyNDM4MDgxLDkzOTIxMzEwMCwtNzk1OTE1NzUxXX0=
 
 -->
