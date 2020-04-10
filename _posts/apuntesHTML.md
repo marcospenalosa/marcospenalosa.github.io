@@ -369,12 +369,12 @@ Se pueden buscar hta. para comprobar el funcionamiento.
  modal.setAttribute('open', 'true')
  })
  </script>
-<iframe>
+<iframe width="" height>
 
 </iframe>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMDg0NDg0NiwtMjExMTg2MTg5NSwtOD
+eyJoaXN0b3J5IjpbMTYxMDU4NjEzNCwtMjExMTg2MTg5NSwtOD
 A2NDU2NTU5LDU4NTU3NDkzMCwtMTU2ODI5MjU2MCwxMjczMjIz
 MDc0LC05NzgyMjU4MjQsMTM3MzkyNzc1MCwyMDc3MjgwNzA5LD
 I3ODIxMTQxNiwyMDM5MjEzNzM1LC0xMTk3MTE1MTYzLDIxNTM0
