@@ -343,10 +343,10 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 <!-- autoplay -->
 <!-- poster="img/poster.jpg"  le pones una imagen antes de reproducirlo -->
 
-<audio src"" controls></audio>
+<audio src="" controls></audio>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwMDI1NzI5LC0xNTY4MjkyNTYwLDEyNz
+eyJoaXN0b3J5IjpbNTg1NTc0OTMwLC0xNTY4MjkyNTYwLDEyNz
 MyMjMwNzQsLTk3ODIyNTgyNCwxMzczOTI3NzUwLDIwNzcyODA3
 MDksMjc4MjExNDE2LDIwMzkyMTM3MzUsLTExOTcxMTUxNjMsMj
 E1MzQyNjg0LDY2Nzc3Mzc2MywtNzQ2MTY4Mjk5LDY1MTk1OTEw
