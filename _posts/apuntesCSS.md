@@ -1,4 +1,5 @@
 ### Apuntes CSS
+
 CSS es un lenguaje de estilos (Cascade Style Sheets) Se encarga de describir el renderizado de documentos estructurados como HTML y XML (SVG)
 
 #### Sintáxis básica de un documento **HTML**
@@ -18,5 +19,5 @@ CSS es un lenguaje de estilos (Cascade Style Sheets) Se encarga de describir el 
 #### Sintáxis usual de un documento **HTML**
 ```html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MTA3NzQ1XX0=
+eyJoaXN0b3J5IjpbMTUyMjA3MzM1N119
 -->
