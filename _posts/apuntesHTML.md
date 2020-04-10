@@ -302,13 +302,14 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 
 <!-- <input type="text"> -->
 <!-- Hay muchos tipos de inputs. -->
+<!-- text, password, email, -->
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzOTIxMzczNSwtMTE5NzExNTE2MywyMT
-UzNDI2ODQsNjY3NzczNzYzLC03NDYxNjgyOTksNjUxOTU5MTAx
-LC03ODgzMDI4MzUsLTE0MDAyNTM0NzAsLTMzMTg4NjkzLC0xMj
-U3OTAwOTg3LDE1MTEzMzA2MSwtMzA3NDQ5OTU4LDE3ODk2NDI2
-OTIsLTc0NTg4MjQxLC0xOTM4MzkzNzc3LDEwODAyNzk0LC03NT
-Q2MDU3MTgsNjk0Mjg0MTc0LDkyMjQzODA4MSw5MzkyMTMxMDBd
+eyJoaXN0b3J5IjpbMjc4MjExNDE2LDIwMzkyMTM3MzUsLTExOT
+cxMTUxNjMsMjE1MzQyNjg0LDY2Nzc3Mzc2MywtNzQ2MTY4Mjk5
+LDY1MTk1OTEwMSwtNzg4MzAyODM1LC0xNDAwMjUzNDcwLC0zMz
+E4ODY5MywtMTI1NzkwMDk4NywxNTExMzMwNjEsLTMwNzQ0OTk1
+OCwxNzg5NjQyNjkyLC03NDU4ODI0MSwtMTkzODM5Mzc3NywxMD
+gwMjc5NCwtNzU0NjA1NzE4LDY5NDI4NDE3NCw5MjI0MzgwODFd
 fQ==
 -->
