@@ -356,13 +356,17 @@ Se pueden buscar hta. para comprobar el funcionamiento.
  <p>Texto</p>
 </details>
 <!-- Muestra una "cuadro" por encima de todo, es un modal -->
-<dialog>
- <summary>Título</summary>
- <p>Texto</p>
+<dialog id="modal">
+  <p>Texto</p>
 </dialog>
+<button id="button">Abrir modal</button>
+<script>
+ const modal = document.getElementById('modal');
+ const modal = document.getElementById('button');
+ button.addEventListener('click', () 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1OTEyMzEwNCwtODA2NDU2NTU5LDU4NT
+eyJoaXN0b3J5IjpbMTcxNjU0ODg5OSwtODA2NDU2NTU5LDU4NT
 U3NDkzMCwtMTU2ODI5MjU2MCwxMjczMjIzMDc0LC05NzgyMjU4
 MjQsMTM3MzkyNzc1MCwyMDc3MjgwNzA5LDI3ODIxMTQxNiwyMD
 M5MjEzNzM1LC0xMTk3MTE1MTYzLDIxNTM0MjY4NCw2Njc3NzM3
