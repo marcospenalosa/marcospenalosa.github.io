@@ -379,10 +379,10 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 
 [https://whatwg.org/](https://whatwg.org/)
 [mozilla](https://developer.mozilla.org/es/docs/Web)
-[web para saber si navegadores soportan HTML](https://caniuse.com/)
+[web para saber si navegadores soportan HTML (caniuse.com)](https://caniuse.com/)
 [www.w3.org](www.w3.org)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNzQwMzg1MiwtMTM0Nzg5MTI1LDE4MT
+eyJoaXN0b3J5IjpbMTI0MDQxNTU0OCwtMTM0Nzg5MTI1LDE4MT
 A4NjEzODIsMTA0NjA0NzkyMSwtMjExMTg2MTg5NSwtODA2NDU2
 NTU5LDU4NTU3NDkzMCwtMTU2ODI5MjU2MCwxMjczMjIzMDc0LC
 05NzgyMjU4MjQsMTM3MzkyNzc1MCwyMDc3MjgwNzA5LDI3ODIx
