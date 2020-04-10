@@ -312,16 +312,19 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 <fieldset>
  <legend> Tus datos personales </legend>
 </fieldset>
-<!-- Lista de 
-<select>
+
+<!-- Lista de opciones -->
+<select name="country" id="conuntry">
+ <option value="Spain">España</option>
+ <option value="French">Francia</option>
 </select> 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTM5Mjg4NiwyNzgyMTE0MTYsMjAzOT
-IxMzczNSwtMTE5NzExNTE2MywyMTUzNDI2ODQsNjY3NzczNzYz
-LC03NDYxNjgyOTksNjUxOTU5MTAxLC03ODgzMDI4MzUsLTE0MD
-AyNTM0NzAsLTMzMTg4NjkzLC0xMjU3OTAwOTg3LDE1MTEzMzA2
-MSwtMzA3NDQ5OTU4LDE3ODk2NDI2OTIsLTc0NTg4MjQxLC0xOT
-M4MzkzNzc3LDEwODAyNzk0LC03NTQ2MDU3MTgsNjk0Mjg0MTc0
-XX0=
+eyJoaXN0b3J5IjpbMjA4NTcyNzEwLDI3ODIxMTQxNiwyMDM5Mj
+EzNzM1LC0xMTk3MTE1MTYzLDIxNTM0MjY4NCw2Njc3NzM3NjMs
+LTc0NjE2ODI5OSw2NTE5NTkxMDEsLTc4ODMwMjgzNSwtMTQwMD
+I1MzQ3MCwtMzMxODg2OTMsLTEyNTc5MDA5ODcsMTUxMTMzMDYx
+LC0zMDc0NDk5NTgsMTc4OTY0MjY5MiwtNzQ1ODgyNDEsLTE5Mz
+gzOTM3NzcsMTA4MDI3OTQsLTc1NDYwNTcxOCw2OTQyODQxNzRd
+fQ==
 -->
