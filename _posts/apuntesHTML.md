@@ -356,17 +356,17 @@ Se pueden buscar hta. para comprobar el funcionamiento.
  <p>Texto</p>
 </details>
 
-<details>
+<dialog>
  <summary>Título</summary>
  <p>Texto</p>
-</details>
+</dialog>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTI5NDk5MTksNTg1NTc0OTMwLC0xNT
-Y4MjkyNTYwLDEyNzMyMjMwNzQsLTk3ODIyNTgyNCwxMzczOTI3
-NzUwLDIwNzcyODA3MDksMjc4MjExNDE2LDIwMzkyMTM3MzUsLT
-ExOTcxMTUxNjMsMjE1MzQyNjg0LDY2Nzc3Mzc2MywtNzQ2MTY4
-Mjk5LDY1MTk1OTEwMSwtNzg4MzAyODM1LC0xNDAwMjUzNDcwLC
-0zMzE4ODY5MywtMTI1NzkwMDk4NywxNTExMzMwNjEsLTMwNzQ0
-OTk1OF19
+eyJoaXN0b3J5IjpbLTgwNjQ1NjU1OSw1ODU1NzQ5MzAsLTE1Nj
+gyOTI1NjAsMTI3MzIyMzA3NCwtOTc4MjI1ODI0LDEzNzM5Mjc3
+NTAsMjA3NzI4MDcwOSwyNzgyMTE0MTYsMjAzOTIxMzczNSwtMT
+E5NzExNTE2MywyMTUzNDI2ODQsNjY3NzczNzYzLC03NDYxNjgy
+OTksNjUxOTU5MTAxLC03ODgzMDI4MzUsLTE0MDAyNTM0NzAsLT
+MzMTg4NjkzLC0xMjU3OTAwOTg3LDE1MTEzMzA2MSwtMzA3NDQ5
+OTU4XX0=
 -->
