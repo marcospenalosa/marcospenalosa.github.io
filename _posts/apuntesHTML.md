@@ -350,12 +350,19 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 #### Interactividad y contenido embebido
 
 ```html
+<!-- Muestra una flecha desplegable -->
 <details>
- <
+ <summary>Título</summary>
+ <p>Texto</p>
+</details>
+
+<details>
+ <summary>Título</summary>
+ <p>Texto</p>
 </details>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzcyNjUwODUsNTg1NTc0OTMwLC0xNT
+eyJoaXN0b3J5IjpbLTE4NTI5NDk5MTksNTg1NTc0OTMwLC0xNT
 Y4MjkyNTYwLDEyNzMyMjMwNzQsLTk3ODIyNTgyNCwxMzczOTI3
 NzUwLDIwNzcyODA3MDksMjc4MjExNDE2LDIwMzkyMTM3MzUsLT
 ExOTcxMTUxNjMsMjE1MzQyNjg0LDY2Nzc3Mzc2MywtNzQ2MTY4
