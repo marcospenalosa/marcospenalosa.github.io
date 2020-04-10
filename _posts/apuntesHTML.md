@@ -290,9 +290,10 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 </form>
 
 <form>
+<!-- El atributo name nos indica donde van los datos en el backend -->
  <label>
   Ingrese su contraseña
-  <input type="password name="passwor=>
+  <input type="password" name="password">
  </label>
  <button>Enviar</button>
 </form>
@@ -301,11 +302,11 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 <!-- Hay muchos tipos de inputs. -->
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMjI3OTcyNywtMTE5NzExNTE2MywyMT
-UzNDI2ODQsNjY3NzczNzYzLC03NDYxNjgyOTksNjUxOTU5MTAx
-LC03ODgzMDI4MzUsLTE0MDAyNTM0NzAsLTMzMTg4NjkzLC0xMj
-U3OTAwOTg3LDE1MTEzMzA2MSwtMzA3NDQ5OTU4LDE3ODk2NDI2
-OTIsLTc0NTg4MjQxLC0xOTM4MzkzNzc3LDEwODAyNzk0LC03NT
-Q2MDU3MTgsNjk0Mjg0MTc0LDkyMjQzODA4MSw5MzkyMTMxMDBd
-fQ==
+eyJoaXN0b3J5IjpbLTE0MjU4MTk3NTcsLTExOTcxMTUxNjMsMj
+E1MzQyNjg0LDY2Nzc3Mzc2MywtNzQ2MTY4Mjk5LDY1MTk1OTEw
+MSwtNzg4MzAyODM1LC0xNDAwMjUzNDcwLC0zMzE4ODY5MywtMT
+I1NzkwMDk4NywxNTExMzMwNjEsLTMwNzQ0OTk1OCwxNzg5NjQy
+NjkyLC03NDU4ODI0MSwtMTkzODM5Mzc3NywxMDgwMjc5NCwtNz
+U0NjA1NzE4LDY5NDI4NDE3NCw5MjI0MzgwODEsOTM5MjEzMTAw
+XX0=
 -->
