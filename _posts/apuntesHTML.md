@@ -371,14 +371,15 @@ Se pueden buscar hta. para comprobar el funcionamiento.
  </script>
 <iframe width="" height="" src="">
 <!-- Trae una página dentro del iframe -->
+<!-- Youtube, maps, instagram... Insertar -->
 </iframe>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTkzMTc2NjYsLTIxMTE4NjE4OTUsLT
-gwNjQ1NjU1OSw1ODU1NzQ5MzAsLTE1NjgyOTI1NjAsMTI3MzIy
-MzA3NCwtOTc4MjI1ODI0LDEzNzM5Mjc3NTAsMjA3NzI4MDcwOS
-wyNzgyMTE0MTYsMjAzOTIxMzczNSwtMTE5NzExNTE2MywyMTUz
-NDI2ODQsNjY3NzczNzYzLC03NDYxNjgyOTksNjUxOTU5MTAxLC
-03ODgzMDI4MzUsLTE0MDAyNTM0NzAsLTMzMTg4NjkzLC0xMjU3
-OTAwOTg3XX0=
+eyJoaXN0b3J5IjpbMTA0NjA0NzkyMSwtMjExMTg2MTg5NSwtOD
+A2NDU2NTU5LDU4NTU3NDkzMCwtMTU2ODI5MjU2MCwxMjczMjIz
+MDc0LC05NzgyMjU4MjQsMTM3MzkyNzc1MCwyMDc3MjgwNzA5LD
+I3ODIxMTQxNiwyMDM5MjEzNzM1LC0xMTk3MTE1MTYzLDIxNTM0
+MjY4NCw2Njc3NzM3NjMsLTc0NjE2ODI5OSw2NTE5NTkxMDEsLT
+c4ODMwMjgzNSwtMTQwMDI1MzQ3MCwtMzMxODg2OTMsLTEyNTc5
+MDA5ODddfQ==
 -->
