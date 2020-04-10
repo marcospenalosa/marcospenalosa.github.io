@@ -295,7 +295,8 @@ Se pueden buscar hta. para comprobar el funcionamiento.
   Ingrese su contraseña
   <input type="password" name="password">
  </label>
- <!-- <input type="subit"> para us-->
+ <!-- <input type="subit"> para sustituir el bóton-->
+ <!-- el atributo value es el texto a mostrar -->
  <input type="submit" value="Iniciar sesión">
 </form>
 
@@ -303,11 +304,11 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 <!-- Hay muchos tipos de inputs. -->
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0Njk5ODU1LC0xMTk3MTE1MTYzLDIxNT
-M0MjY4NCw2Njc3NzM3NjMsLTc0NjE2ODI5OSw2NTE5NTkxMDEs
-LTc4ODMwMjgzNSwtMTQwMDI1MzQ3MCwtMzMxODg2OTMsLTEyNT
-c5MDA5ODcsMTUxMTMzMDYxLC0zMDc0NDk5NTgsMTc4OTY0MjY5
-MiwtNzQ1ODgyNDEsLTE5MzgzOTM3NzcsMTA4MDI3OTQsLTc1ND
-YwNTcxOCw2OTQyODQxNzQsOTIyNDM4MDgxLDkzOTIxMzEwMF19
-
+eyJoaXN0b3J5IjpbMjAzOTIxMzczNSwtMTE5NzExNTE2MywyMT
+UzNDI2ODQsNjY3NzczNzYzLC03NDYxNjgyOTksNjUxOTU5MTAx
+LC03ODgzMDI4MzUsLTE0MDAyNTM0NzAsLTMzMTg4NjkzLC0xMj
+U3OTAwOTg3LDE1MTEzMzA2MSwtMzA3NDQ5OTU4LDE3ODk2NDI2
+OTIsLTc0NTg4MjQxLC0xOTM4MzkzNzc3LDEwODAyNzk0LC03NT
+Q2MDU3MTgsNjk0Mjg0MTc0LDkyMjQzODA4MSw5MzkyMTMxMDBd
+fQ==
 -->
