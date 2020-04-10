@@ -229,8 +229,11 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 ```html
 <table>
 <caption> Horario de clases</caption> <!-- Título de las tablas -->
-<colgroup>
+<colgroup> <!-- Para seleccionar columnas -->
  <col>
+ <col>
+ <col>
+ </colgroup>
   <thead> <!-- Si se usa encabezado-->
   <tr> <!-- Table row-->
    <th>Lunes</th> <!-- Table heading-->
@@ -259,9 +262,16 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 <!-- <td colspan="5"></td> -->
 <!-- La celda ocupa cinco columnas-->
 
+<!-- Se suele poner al inicio de la tabla -->
+<!-- Se suele poner al inicio de la tabla -->
+ <colgroup> 
+ <col>
+ <col>
+ <col>
+ </colgroup>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NzE1OTY0MywyMTUzNDI2ODQsNjY3Nz
+eyJoaXN0b3J5IjpbLTI1OTkwNDU3NSwyMTUzNDI2ODQsNjY3Nz
 czNzYzLC03NDYxNjgyOTksNjUxOTU5MTAxLC03ODgzMDI4MzUs
 LTE0MDAyNTM0NzAsLTMzMTg4NjkzLC0xMjU3OTAwOTg3LDE1MT
 EzMzA2MSwtMzA3NDQ5OTU4LDE3ODk2NDI2OTIsLTc0NTg4MjQx
