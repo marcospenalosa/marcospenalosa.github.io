@@ -304,6 +304,8 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 <input placeholder="Ingrese su nombre">
 <!-- con required indicamos que es obligatorio -->
 <input required>
+<!-- con readonly indicamos que es solo lectura -->
+<input readonly>
 
 <!-- <input type="text"> -->
 <!-- Hay muchos tipos de inputs. -->
@@ -332,7 +334,7 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 </textarea>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDMxODU2NiwyMDc3MjgwNzA5LDI3OD
+eyJoaXN0b3J5IjpbMTM3MzkyNzc1MCwyMDc3MjgwNzA5LDI3OD
 IxMTQxNiwyMDM5MjEzNzM1LC0xMTk3MTE1MTYzLDIxNTM0MjY4
 NCw2Njc3NzM3NjMsLTc0NjE2ODI5OSw2NTE5NTkxMDEsLTc4OD
 MwMjgzNSwtMTQwMDI1MzQ3MCwtMzMxODg2OTMsLTEyNTc5MDA5
