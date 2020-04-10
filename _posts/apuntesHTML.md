@@ -267,15 +267,16 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 <!-- Pero si queremos actuar en una enconcreto -->
  <colgroup> 
  <col span="2">
- <col color:yellow;>
+ <col style="background: yello">
  </colgroup>
+ <!-- Actuamos en la 3 columna -->
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU0MjQ1MzkyLDIxNTM0MjY4NCw2Njc3Nz
-M3NjMsLTc0NjE2ODI5OSw2NTE5NTkxMDEsLTc4ODMwMjgzNSwt
-MTQwMDI1MzQ3MCwtMzMxODg2OTMsLTEyNTc5MDA5ODcsMTUxMT
-MzMDYxLC0zMDc0NDk5NTgsMTc4OTY0MjY5MiwtNzQ1ODgyNDEs
-LTE5MzgzOTM3NzcsMTA4MDI3OTQsLTc1NDYwNTcxOCw2OTQyOD
-QxNzQsOTIyNDM4MDgxLDkzOTIxMzEwMCwtNzk1OTE1NzUxXX0=
-
+eyJoaXN0b3J5IjpbLTExOTcxMTUxNjMsMjE1MzQyNjg0LDY2Nz
+c3Mzc2MywtNzQ2MTY4Mjk5LDY1MTk1OTEwMSwtNzg4MzAyODM1
+LC0xNDAwMjUzNDcwLC0zMzE4ODY5MywtMTI1NzkwMDk4NywxNT
+ExMzMwNjEsLTMwNzQ0OTk1OCwxNzg5NjQyNjkyLC03NDU4ODI0
+MSwtMTkzODM5Mzc3NywxMDgwMjc5NCwtNzU0NjA1NzE4LDY5ND
+I4NDE3NCw5MjI0MzgwODEsOTM5MjEzMTAwLC03OTU5MTU3NTFd
+fQ==
 -->
