@@ -344,13 +344,14 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 <!-- poster="img/poster.jpg"  le pones una imagen antes de reproducirlo -->
 
 <audio src="" controls></audio>
+<
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg1NTc0OTMwLC0xNTY4MjkyNTYwLDEyNz
-MyMjMwNzQsLTk3ODIyNTgyNCwxMzczOTI3NzUwLDIwNzcyODA3
-MDksMjc4MjExNDE2LDIwMzkyMTM3MzUsLTExOTcxMTUxNjMsMj
-E1MzQyNjg0LDY2Nzc3Mzc2MywtNzQ2MTY4Mjk5LDY1MTk1OTEw
-MSwtNzg4MzAyODM1LC0xNDAwMjUzNDcwLC0zMzE4ODY5MywtMT
-I1NzkwMDk4NywxNTExMzMwNjEsLTMwNzQ0OTk1OCwxNzg5NjQy
-NjkyXX0=
+eyJoaXN0b3J5IjpbLTE3NDg4NzU2MzIsNTg1NTc0OTMwLC0xNT
+Y4MjkyNTYwLDEyNzMyMjMwNzQsLTk3ODIyNTgyNCwxMzczOTI3
+NzUwLDIwNzcyODA3MDksMjc4MjExNDE2LDIwMzkyMTM3MzUsLT
+ExOTcxMTUxNjMsMjE1MzQyNjg0LDY2Nzc3Mzc2MywtNzQ2MTY4
+Mjk5LDY1MTk1OTEwMSwtNzg4MzAyODM1LC0xNDAwMjUzNDcwLC
+0zMzE4ODY5MywtMTI1NzkwMDk4NywxNTExMzMwNjEsLTMwNzQ0
+OTk1OF19
 -->
