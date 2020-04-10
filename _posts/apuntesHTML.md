@@ -323,14 +323,16 @@ Se pueden buscar hta. para comprobar el funcionamiento.
  <option value="Colom">Colombia</option>
  <option value="Per">Perú</option>
 </optgroup>
-</select> 
+</select>  
+<!-- <select name... id... multiple (permite con control pulsado seleccionar varias opciones -->
+<textarea name="mensaje id="" cols="30" rows="10" placeholder="Escribe tu mensaje"><
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk1MjU2NjI1LDIwNzcyODA3MDksMjc4Mj
-ExNDE2LDIwMzkyMTM3MzUsLTExOTcxMTUxNjMsMjE1MzQyNjg0
-LDY2Nzc3Mzc2MywtNzQ2MTY4Mjk5LDY1MTk1OTEwMSwtNzg4Mz
-AyODM1LC0xNDAwMjUzNDcwLC0zMzE4ODY5MywtMTI1NzkwMDk4
-NywxNTExMzMwNjEsLTMwNzQ0OTk1OCwxNzg5NjQyNjkyLC03ND
-U4ODI0MSwtMTkzODM5Mzc3NywxMDgwMjc5NCwtNzU0NjA1NzE4
-XX0=
+eyJoaXN0b3J5IjpbLTEyMTA4Nzc1MDMsMjA3NzI4MDcwOSwyNz
+gyMTE0MTYsMjAzOTIxMzczNSwtMTE5NzExNTE2MywyMTUzNDI2
+ODQsNjY3NzczNzYzLC03NDYxNjgyOTksNjUxOTU5MTAxLC03OD
+gzMDI4MzUsLTE0MDAyNTM0NzAsLTMzMTg4NjkzLC0xMjU3OTAw
+OTg3LDE1MTEzMzA2MSwtMzA3NDQ5OTU4LDE3ODk2NDI2OTIsLT
+c0NTg4MjQxLC0xOTM4MzkzNzc3LDEwODAyNzk0LC03NTQ2MDU3
+MThdfQ==
 -->
