@@ -347,25 +347,19 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 <!-- reproductores video.js, flowplayer -->
 ```
 
-#### Interactividad
+#### Interactividad y contenido embebido
 
 ```html
-<!-- codec más usado H.264 -->
-<!-- El atributo controls añade los botones -->
-<video src="media/clase.mp4" controls ></video>
-<!-- Atributos -->
-<!-- autoplay -->
-<!-- poster="img/poster.jpg"  le pones una imagen antes de reproducirlo -->
-
-<audio src="" controls></audio>
-<!-- reproductores video.js, flowplayer -->
+<details>
+ <
+</details>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzIxOTM1OCw1ODU1NzQ5MzAsLTE1Nj
-gyOTI1NjAsMTI3MzIyMzA3NCwtOTc4MjI1ODI0LDEzNzM5Mjc3
-NTAsMjA3NzI4MDcwOSwyNzgyMTE0MTYsMjAzOTIxMzczNSwtMT
-E5NzExNTE2MywyMTUzNDI2ODQsNjY3NzczNzYzLC03NDYxNjgy
-OTksNjUxOTU5MTAxLC03ODgzMDI4MzUsLTE0MDAyNTM0NzAsLT
-MzMTg4NjkzLC0xMjU3OTAwOTg3LDE1MTEzMzA2MSwtMzA3NDQ5
-OTU4XX0=
+eyJoaXN0b3J5IjpbLTExNzcyNjUwODUsNTg1NTc0OTMwLC0xNT
+Y4MjkyNTYwLDEyNzMyMjMwNzQsLTk3ODIyNTgyNCwxMzczOTI3
+NzUwLDIwNzcyODA3MDksMjc4MjExNDE2LDIwMzkyMTM3MzUsLT
+ExOTcxMTUxNjMsMjE1MzQyNjg0LDY2Nzc3Mzc2MywtNzQ2MTY4
+Mjk5LDY1MTk1OTEwMSwtNzg4MzAyODM1LC0xNDAwMjUzNDcwLC
+0zMzE4ODY5MywtMTI1NzkwMDk4NywxNTExMzMwNjEsLTMwNzQ0
+OTk1OF19
 -->
