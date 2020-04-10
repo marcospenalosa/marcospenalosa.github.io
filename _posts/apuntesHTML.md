@@ -315,16 +315,18 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 
 <!-- Lista de opciones -->
 <select name="country" id="conuntry">
+<optgroup label="Eu">
  <option value="Spain">España</option>
  <option value="France">Francia</option>
+</optgroup>
 </select> 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzI4MDcwOSwyNzgyMTE0MTYsMjAzOT
-IxMzczNSwtMTE5NzExNTE2MywyMTUzNDI2ODQsNjY3NzczNzYz
-LC03NDYxNjgyOTksNjUxOTU5MTAxLC03ODgzMDI4MzUsLTE0MD
-AyNTM0NzAsLTMzMTg4NjkzLC0xMjU3OTAwOTg3LDE1MTEzMzA2
-MSwtMzA3NDQ5OTU4LDE3ODk2NDI2OTIsLTc0NTg4MjQxLC0xOT
-M4MzkzNzc3LDEwODAyNzk0LC03NTQ2MDU3MTgsNjk0Mjg0MTc0
+eyJoaXN0b3J5IjpbMzM2MDM2MDc3LDIwNzcyODA3MDksMjc4Mj
+ExNDE2LDIwMzkyMTM3MzUsLTExOTcxMTUxNjMsMjE1MzQyNjg0
+LDY2Nzc3Mzc2MywtNzQ2MTY4Mjk5LDY1MTk1OTEwMSwtNzg4Mz
+AyODM1LC0xNDAwMjUzNDcwLC0zMzE4ODY5MywtMTI1NzkwMDk4
+NywxNTExMzMwNjEsLTMwNzQ0OTk1OCwxNzg5NjQyNjkyLC03ND
+U4ODI0MSwtMTkzODM5Mzc3NywxMDgwMjc5NCwtNzU0NjA1NzE4
 XX0=
 -->
