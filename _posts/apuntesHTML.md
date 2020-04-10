@@ -279,14 +279,19 @@ Se pueden buscar hta. para comprobar el funcionamiento.
 <!-- <form action=""> -->
 <form>
  <label for="nombre">Ingrese su nombre</label>
- <input id:"nombre">
+ <input id="nombre">
+ <label>
+  Ingrese su nombre
+  <input>
+ </label>
  <button>Enviar</button>
+</form>
 
 <!-- <input type="text"> -->
 <!-- Hay muchos tipos de inputs. -->
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MzM0OTI5MCwtMTE5NzExNTE2MywyMT
+eyJoaXN0b3J5IjpbMjAyMjY4MTc0MywtMTE5NzExNTE2MywyMT
 UzNDI2ODQsNjY3NzczNzYzLC03NDYxNjgyOTksNjUxOTU5MTAx
 LC03ODgzMDI4MzUsLTE0MDAyNTM0NzAsLTMzMTg4NjkzLC0xMj
 U3OTAwOTg3LDE1MTEzMzA2MSwtMzA3NDQ5OTU4LDE3ODk2NDI2
