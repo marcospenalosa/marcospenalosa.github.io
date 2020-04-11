@@ -14,13 +14,15 @@ CSS es un lenguaje de estilos (Cascade Style Sheets) Se encarga de describir el 
 [Vocabulario CSS que es cada cosa](http://apps.workflower.fi/vocabs/css/es)
 #### Sintáxis usual de un documento **HTML**
 ```css
-body{
+/*regla*/
+
+body{ /* selector/es */ 
 /* Cada línea es una declaración */
- background: red; /* Pro
- margin: 10px; /* 
+ background: red; /* Propiedad: valor*/
+ margin: 10px;  
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMTc5Nzg0NCwtODQ4MDI5MDY4LDU0OT
-I1MTUzOSwtMTY1MjE1ODEwMiwxNTIyMDczMzU3XX0=
+eyJoaXN0b3J5IjpbLTEyNTQ0OTc3MTIsLTg0ODAyOTA2OCw1ND
+kyNTE1MzksLTE2NTIxNTgxMDIsMTUyMjA3MzM1N119
 -->
