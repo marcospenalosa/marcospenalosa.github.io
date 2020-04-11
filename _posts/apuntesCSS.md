@@ -35,14 +35,16 @@ body{ /* selector/es */
 ```css
 /* Sencillo - Etiqueta HTML o tipo*/
 /* Es una mala práctica, solo para normalizar */
+/* Buscar normalize.css */
 h1{ color:red;}
 
 /* Sencillo - Etiqueta HTML o tipo*/
 h1{ color:red;}
 ```
+[normalize.css](https://necolas.github.io/normalize.css/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzc0NzQwNTUsMTMzMDI5NTU5MSwtOT
-MxMTU1MDYxLDE1MjE1MTE5NTksLTEyNTQ0OTc3MTIsLTg0ODAy
-OTA2OCw1NDkyNTE1MzksLTE2NTIxNTgxMDIsMTUyMjA3MzM1N1
-19
+eyJoaXN0b3J5IjpbLTYxODc3NTk2MSwxMzMwMjk1NTkxLC05Mz
+ExNTUwNjEsMTUyMTUxMTk1OSwtMTI1NDQ5NzcxMiwtODQ4MDI5
+MDY4LDU0OTI1MTUzOSwtMTY1MjE1ODEwMiwxNTIyMDczMzU3XX
+0=
 -->
