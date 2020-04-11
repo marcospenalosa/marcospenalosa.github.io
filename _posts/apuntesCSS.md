@@ -40,11 +40,18 @@ h1{ color:red;}
 
 /* Sencillo - Etiqueta HTML o tipo*/
 h1{ color:red;}
+
+/* class - clases para identificar elementos*/
+<h1 class="title">Título</h1>
+.title{
+ background: yellow;
+ color:red;
+}
 ```
 [normalize.css](https://necolas.github.io/normalize.css/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODc3NTk2MSwxMzMwMjk1NTkxLC05Mz
-ExNTUwNjEsMTUyMTUxMTk1OSwtMTI1NDQ5NzcxMiwtODQ4MDI5
-MDY4LDU0OTI1MTUzOSwtMTY1MjE1ODEwMiwxNTIyMDczMzU3XX
-0=
+eyJoaXN0b3J5IjpbLTc4NzMzODY5MiwtNjE4Nzc1OTYxLDEzMz
+AyOTU1OTEsLTkzMTE1NTA2MSwxNTIxNTExOTU5LC0xMjU0NDk3
+NzEyLC04NDgwMjkwNjgsNTQ5MjUxNTM5LC0xNjUyMTU4MTAyLD
+E1MjIwNzMzNTddfQ==
 -->
