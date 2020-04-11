@@ -21,8 +21,10 @@ body{ /* selector/es */
  background: red; /* Propiedad: valor*/
  margin: 10px;  
 }
+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTQ0OTc3MTIsLTg0ODAyOTA2OCw1ND
-kyNTE1MzksLTE2NTIxNTgxMDIsMTUyMjA3MzM1N119
+eyJoaXN0b3J5IjpbLTkzNjAwMzk5OCwtMTI1NDQ5NzcxMiwtOD
+Q4MDI5MDY4LDU0OTI1MTUzOSwtMTY1MjE1ODEwMiwxNTIyMDcz
+MzU3XX0=
 -->
