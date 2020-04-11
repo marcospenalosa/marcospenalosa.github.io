@@ -128,10 +128,13 @@ var circle = svg.append('circle');
 rectangle.attr('transform','rotate(15 60 40)';
 
 //Con el método transition creamos movimiento
-
+function moveCircles(){
+ circles.transition().attr('cx',55).transition().attr('cy',55).transition().attr('r',30)
+ };
+ circles.on('click',moveCircles);
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDM4OTQ2NjEsMTg2Mjk3MjY0MiwtMz
-I5NjA2NDcxLC0xODMzNDcxODExLDMxMDY0NDk1NSw1NzY1NzE5
-ODksNjY1NTUzODgyLDExMTIwOTQwNzBdfQ==
+eyJoaXN0b3J5IjpbMTg4MTgwNjA2NiwxODYyOTcyNjQyLC0zMj
+k2MDY0NzEsLTE4MzM0NzE4MTEsMzEwNjQ0OTU1LDU3NjU3MTk4
+OSw2NjU1NTM4ODIsMTExMjA5NDA3MF19
 -->
