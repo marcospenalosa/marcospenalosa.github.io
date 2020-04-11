@@ -43,16 +43,19 @@ h1{ color:red;}
 
 /* class - clases para identificar elementos */
 /* Permite varias clases separadas por un espacio */
-<h1 class="title center">Título</h1>
+/* <h1 class="title center">Título</h1> */
 .title{
  background: yellow;
  color:red;
 }
+.center{
+ text-align: center;
+ }
 ```
 [normalize.css](https://necolas.github.io/normalize.css/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTM2OTkyMzIsLTYxODc3NTk2MSwxMz
-MwMjk1NTkxLC05MzExNTUwNjEsMTUyMTUxMTk1OSwtMTI1NDQ5
-NzcxMiwtODQ4MDI5MDY4LDU0OTI1MTUzOSwtMTY1MjE1ODEwMi
-wxNTIyMDczMzU3XX0=
+eyJoaXN0b3J5IjpbLTE1MjYyMzM2NiwtNjE4Nzc1OTYxLDEzMz
+AyOTU1OTEsLTkzMTE1NTA2MSwxNTIxNTExOTU5LC0xMjU0NDk3
+NzEyLC04NDgwMjkwNjgsNTQ5MjUxNTM5LC0xNjUyMTU4MTAyLD
+E1MjIwNzMzNTddfQ==
 -->
