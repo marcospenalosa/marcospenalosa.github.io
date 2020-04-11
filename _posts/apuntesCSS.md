@@ -11,10 +11,10 @@ CSS es un lenguaje de estilos (Cascade Style Sheets) Se encarga de describir el 
  @import url('style.css');
 </style>
 ```
-
+[Vocabulario CSS que es cada cosa](http://apps.workflower.fi/vocabs/css/es)
 #### Sintáxis usual de un documento **HTML**
 ```html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0ODAyOTA2OCw1NDkyNTE1MzksLTE2NT
-IxNTgxMDIsMTUyMjA3MzM1N119
+eyJoaXN0b3J5IjpbMTEzNjQ0MjgyMCwtODQ4MDI5MDY4LDU0OT
+I1MTUzOSwtMTY1MjE1ODEwMiwxNTIyMDczMzU3XX0=
 -->
