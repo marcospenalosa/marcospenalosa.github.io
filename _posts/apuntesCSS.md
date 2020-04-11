@@ -34,10 +34,13 @@ body{ /* selector/es */
 #### Selectores
 ```css
 /* Sencillo - Etiqueta HTML o tipo*/
-h1{ color:red;
+h1{ color:red;}
+
+/* Sencillo - Etiqueta HTML o tipo*/
+h1{ color:red;}
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMjU0ODE5MiwtOTMxMTU1MDYxLDE1Mj
+eyJoaXN0b3J5IjpbMTMzMDI5NTU5MSwtOTMxMTU1MDYxLDE1Mj
 E1MTE5NTksLTEyNTQ0OTc3MTIsLTg0ODAyOTA2OCw1NDkyNTE1
 MzksLTE2NTIxNTgxMDIsMTUyMjA3MzM1N119
 -->
