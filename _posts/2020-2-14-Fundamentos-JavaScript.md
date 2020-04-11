@@ -126,9 +126,12 @@ var circle = svg.append('circle');
 //Con el atributo transform, se pueden enviar difrentes movimientos.
 //'rotate' hace girar el objeto los grados que le indiquemos en la posición x e y (grados=15 x=60 y=40)
 rectangle.attr('transform','rotate(15 60 40)';
+
+//Con el método transition creamos movimiento
+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2Mjk3MjY0MiwtMzI5NjA2NDcxLC0xOD
-MzNDcxODExLDMxMDY0NDk1NSw1NzY1NzE5ODksNjY1NTUzODgy
-LDExMTIwOTQwNzBdfQ==
+eyJoaXN0b3J5IjpbLTE5MDM4OTQ2NjEsMTg2Mjk3MjY0MiwtMz
+I5NjA2NDcxLC0xODMzNDcxODExLDMxMDY0NDk1NSw1NzY1NzE5
+ODksNjY1NTUzODgyLDExMTIwOTQwNzBdfQ==
 -->
