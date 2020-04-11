@@ -31,8 +31,12 @@ body{ /* selector/es */
  background: var(--color); 
 }
 ```
+#### Selectores
+```css
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTUxMTk1OSwtMTI1NDQ5NzcxMiwtOD
-Q4MDI5MDY4LDU0OTI1MTUzOSwtMTY1MjE1ODEwMiwxNTIyMDcz
-MzU3XX0=
+eyJoaXN0b3J5IjpbLTkzMTE1NTA2MSwxNTIxNTExOTU5LC0xMj
+U0NDk3NzEyLC04NDgwMjkwNjgsNTQ5MjUxNTM5LC0xNjUyMTU4
+MTAyLDE1MjIwNzMzNTddfQ==
 -->
