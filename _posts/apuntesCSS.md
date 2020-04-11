@@ -22,9 +22,17 @@ body{ /* selector/es */
  margin: 10px;  
 }
 
+/* Variables en css */
+:root{
+ --color: red;
+ }
+ body{ /* selector/es */ 
+/* Cada línea es una declaración */
+ background: var(--color); 
+}
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNjAwMzk5OCwtMTI1NDQ5NzcxMiwtOD
+eyJoaXN0b3J5IjpbMTUyMTUxMTk1OSwtMTI1NDQ5NzcxMiwtOD
 Q4MDI5MDY4LDU0OTI1MTUzOSwtMTY1MjE1ODEwMiwxNTIyMDcz
 MzU3XX0=
 -->
