@@ -2,7 +2,7 @@
 
 CSS es un lenguaje de estilos (Cascade Style Sheets) Se encarga de describir el renderizado de documentos estructurados como HTML y XML (SVG)
 
-#### Sintáxis básica de un documento **HTML**
+#### **CSS**  básico
 ```html
 <!DOCTYPE html>
 <html lang="es">
@@ -19,5 +19,5 @@ CSS es un lenguaje de estilos (Cascade Style Sheets) Se encarga de describir el 
 #### Sintáxis usual de un documento **HTML**
 ```html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMjA3MzM1N119
+eyJoaXN0b3J5IjpbLTE2NTIxNTgxMDIsMTUyMjA3MzM1N119
 -->
