@@ -63,10 +63,12 @@ h1{ color:red;}
 
 ```
 [normalize.css](https://necolas.github.io/normalize.css/)
- CSS no es casesentivie (es caseinsentivice) 
+Los selectores son son case insensitive, depende donde se aplican en el HTML o XML:
+* Tags: Son case insensitive
+* Atributos: Son case **sensitive**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NDA2Njk1NSwtMTIyMTMxODgzMCwyMD
+eyJoaXN0b3J5IjpbLTE1ODY2MjI0NywtMTIyMTMxODgzMCwyMD
 UxMTQzMCwtODg1MjgxOTA1LC0xNTI2MjMzNjYsLTYxODc3NTk2
 MSwxMzMwMjk1NTkxLC05MzExNTUwNjEsMTUyMTUxMTk1OSwtMT
 I1NDQ5NzcxMiwtODQ4MDI5MDY4LDU0OTI1MTUzOSwtMTY1MjE1
