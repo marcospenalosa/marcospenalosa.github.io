@@ -110,7 +110,7 @@ h1 ~ p {
 }
 
 /* Seleccionar por atributos  comienza por ^ */
-
+/* Todos los atribu
 [href^="/"]
 [href^="https://ed"]
 ```
@@ -121,11 +121,11 @@ Los selectores son son case insensitive, depende donde se aplican en el HTML o X
 Si los escribimos igual en ambos sitios ahorramos problemas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzOTg1MzIzMywxMjY4Mzc3MzkxLDU5Nz
-I3MDc3OCwxMzMxNDAzNjgxLC0xNDY1MjQ2MTQxLC02MDczMzg5
-NDAsLTE0MDQwNTY0NzIsLTEyMjEzMTg4MzAsMjA1MTE0MzAsLT
-g4NTI4MTkwNSwtMTUyNjIzMzY2LC02MTg3NzU5NjEsMTMzMDI5
-NTU5MSwtOTMxMTU1MDYxLDE1MjE1MTE5NTksLTEyNTQ0OTc3MT
-IsLTg0ODAyOTA2OCw1NDkyNTE1MzksLTE2NTIxNTgxMDIsMTUy
-MjA3MzM1N119
+eyJoaXN0b3J5IjpbLTE1MTEzNzM3NCwxMjM5ODUzMjMzLDEyNj
+gzNzczOTEsNTk3MjcwNzc4LDEzMzE0MDM2ODEsLTE0NjUyNDYx
+NDEsLTYwNzMzODk0MCwtMTQwNDA1NjQ3MiwtMTIyMTMxODgzMC
+wyMDUxMTQzMCwtODg1MjgxOTA1LC0xNTI2MjMzNjYsLTYxODc3
+NTk2MSwxMzMwMjk1NTkxLC05MzExNTUwNjEsMTUyMTUxMTk1OS
+wtMTI1NDQ5NzcxMiwtODQ4MDI5MDY4LDU0OTI1MTUzOSwtMTY1
+MjE1ODEwMl19
 -->
