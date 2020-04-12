@@ -132,9 +132,11 @@ function moveCircles(){
  circles.transition().attr('cx',55).transition().attr('cy',55).transition().attr('r',30)
  };
  circles.on('click',moveCircles);
+//Seleccionar varias formas en una variable con el método selectAll
+var rectangles = d3.selectAll('rect');
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTgwNjA2NiwxODYyOTcyNjQyLC0zMj
-k2MDY0NzEsLTE4MzM0NzE4MTEsMzEwNjQ0OTU1LDU3NjU3MTk4
-OSw2NjU1NTM4ODIsMTExMjA5NDA3MF19
+eyJoaXN0b3J5IjpbLTE4NTY4MjUwMTEsMTg4MTgwNjA2NiwxOD
+YyOTcyNjQyLC0zMjk2MDY0NzEsLTE4MzM0NzE4MTEsMzEwNjQ0
+OTU1LDU3NjU3MTk4OSw2NjU1NTM4ODIsMTExMjA5NDA3MF19
 -->
