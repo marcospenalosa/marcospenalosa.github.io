@@ -64,13 +64,14 @@ h1{ color:red;}
 ```
 [normalize.css](https://necolas.github.io/normalize.css/)
 Los selectores son son case insensitive, depende donde se aplican en el HTML o XML:
-* Tags: Son case insensitive
+* Tags: Son case **insensitive**
 * Atributos: Son case **sensitive**
+Si los escribimos igual en ambos sitios ahorramos problemas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODY2MjI0NywtMTIyMTMxODgzMCwyMD
-UxMTQzMCwtODg1MjgxOTA1LC0xNTI2MjMzNjYsLTYxODc3NTk2
-MSwxMzMwMjk1NTkxLC05MzExNTUwNjEsMTUyMTUxMTk1OSwtMT
-I1NDQ5NzcxMiwtODQ4MDI5MDY4LDU0OTI1MTUzOSwtMTY1MjE1
-ODEwMiwxNTIyMDczMzU3XX0=
+eyJoaXN0b3J5IjpbLTE0MDQwNTY0NzIsLTEyMjEzMTg4MzAsMj
+A1MTE0MzAsLTg4NTI4MTkwNSwtMTUyNjIzMzY2LC02MTg3NzU5
+NjEsMTMzMDI5NTU5MSwtOTMxMTU1MDYxLDE1MjE1MTE5NTksLT
+EyNTQ0OTc3MTIsLTg0ODAyOTA2OCw1NDkyNTE1MzksLTE2NTIx
+NTgxMDIsMTUyMjA3MzM1N119
 -->
