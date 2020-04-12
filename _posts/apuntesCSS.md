@@ -63,9 +63,19 @@ h1{ color:red;}
 
 /* Agrupados -> se aplica el mismo estilo a todos */
 /* Separados por comas , */
-.title, .parrafo{
- cp
+/* Se recomienda una línea por selector para la lectura */
+.title, 
+.parrafo{
+ color: red
+ }
 
+/* Descendiente -> se aplica a los hijos */
+/* Separados por espacios */
+/* Se recomienda una línea por selector para la lectura */
+.title, 
+.parrafo{
+ color: red
+ }
 
 ```
 [normalize.css](https://necolas.github.io/normalize.css/)
@@ -75,10 +85,10 @@ Los selectores son son case insensitive, depende donde se aplican en el HTML o X
 Si los escribimos igual en ambos sitios ahorramos problemas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1OTIzMjYxMiwtNjA3MzM4OTQwLC0xND
-A0MDU2NDcyLC0xMjIxMzE4ODMwLDIwNTExNDMwLC04ODUyODE5
-MDUsLTE1MjYyMzM2NiwtNjE4Nzc1OTYxLDEzMzAyOTU1OTEsLT
-kzMTE1NTA2MSwxNTIxNTExOTU5LC0xMjU0NDk3NzEyLC04NDgw
-MjkwNjgsNTQ5MjUxNTM5LC0xNjUyMTU4MTAyLDE1MjIwNzMzNT
-ddfQ==
+eyJoaXN0b3J5IjpbMzA2MDExODY1LC02MDczMzg5NDAsLTE0MD
+QwNTY0NzIsLTEyMjEzMTg4MzAsMjA1MTE0MzAsLTg4NTI4MTkw
+NSwtMTUyNjIzMzY2LC02MTg3NzU5NjEsMTMzMDI5NTU5MSwtOT
+MxMTU1MDYxLDE1MjE1MTE5NTksLTEyNTQ0OTc3MTIsLTg0ODAy
+OTA2OCw1NDkyNTE1MzksLTE2NTIxNTgxMDIsMTUyMjA3MzM1N1
+19
 -->
