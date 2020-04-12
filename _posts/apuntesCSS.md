@@ -61,6 +61,8 @@ h1{ color:red;}
  color: red; /* Todo se pone rojo */
 }
 
+
+
 ```
 [normalize.css](https://necolas.github.io/normalize.css/)
 Los selectores son son case insensitive, depende donde se aplican en el HTML o XML:
@@ -69,9 +71,9 @@ Los selectores son son case insensitive, depende donde se aplican en el HTML o X
 Si los escribimos igual en ambos sitios ahorramos problemas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDQwNTY0NzIsLTEyMjEzMTg4MzAsMj
-A1MTE0MzAsLTg4NTI4MTkwNSwtMTUyNjIzMzY2LC02MTg3NzU5
-NjEsMTMzMDI5NTU5MSwtOTMxMTU1MDYxLDE1MjE1MTE5NTksLT
-EyNTQ0OTc3MTIsLTg0ODAyOTA2OCw1NDkyNTE1MzksLTE2NTIx
-NTgxMDIsMTUyMjA3MzM1N119
+eyJoaXN0b3J5IjpbLTYwNzMzODk0MCwtMTQwNDA1NjQ3MiwtMT
+IyMTMxODgzMCwyMDUxMTQzMCwtODg1MjgxOTA1LC0xNTI2MjMz
+NjYsLTYxODc3NTk2MSwxMzMwMjk1NTkxLC05MzExNTUwNjEsMT
+UyMTUxMTk1OSwtMTI1NDQ5NzcxMiwtODQ4MDI5MDY4LDU0OTI1
+MTUzOSwtMTY1MjE1ODEwMiwxNTIyMDczMzU3XX0=
 -->
