@@ -105,7 +105,9 @@ h1 ~ p {
 [type="email"]{
  border: 1px solid blue;
 }
-
+[required]{
+ color: red;
+}
 ```
 [normalize.css](https://necolas.github.io/normalize.css/)
 Los selectores son son case insensitive, depende donde se aplican en el HTML o XML:
@@ -114,7 +116,7 @@ Los selectores son son case insensitive, depende donde se aplican en el HTML o X
 Si los escribimos igual en ambos sitios ahorramos problemas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTQ5NzQxMSw1OTcyNzA3NzgsMTMzMT
+eyJoaXN0b3J5IjpbMTI2ODM3NzM5MSw1OTcyNzA3NzgsMTMzMT
 QwMzY4MSwtMTQ2NTI0NjE0MSwtNjA3MzM4OTQwLC0xNDA0MDU2
 NDcyLC0xMjIxMzE4ODMwLDIwNTExNDMwLC04ODUyODE5MDUsLT
 E1MjYyMzM2NiwtNjE4Nzc1OTYxLDEzMzAyOTU1OTEsLTkzMTE1
