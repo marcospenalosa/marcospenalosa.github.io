@@ -110,9 +110,17 @@ h1 ~ p {
 }
 
 /* Seleccionar por atributos  comienza por ^ */
-/* Todos los atribu
-[href^="/"]
+/* Todos los atributos que comienzan por lo que le especificas, se le ponen las características */
+[href]{
+ color: blue;
+}
+
+[href^="/"],
 [href^="https://ed"]
+{
+  color: red;
+  background: none;
+ }
 ```
 [normalize.css](https://necolas.github.io/normalize.css/)
 Los selectores son son case insensitive, depende donde se aplican en el HTML o XML:
@@ -121,11 +129,11 @@ Los selectores son son case insensitive, depende donde se aplican en el HTML o X
 Si los escribimos igual en ambos sitios ahorramos problemas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTEzNzM3NCwxMjM5ODUzMjMzLDEyNj
-gzNzczOTEsNTk3MjcwNzc4LDEzMzE0MDM2ODEsLTE0NjUyNDYx
-NDEsLTYwNzMzODk0MCwtMTQwNDA1NjQ3MiwtMTIyMTMxODgzMC
-wyMDUxMTQzMCwtODg1MjgxOTA1LC0xNTI2MjMzNjYsLTYxODc3
-NTk2MSwxMzMwMjk1NTkxLC05MzExNTUwNjEsMTUyMTUxMTk1OS
-wtMTI1NDQ5NzcxMiwtODQ4MDI5MDY4LDU0OTI1MTUzOSwtMTY1
-MjE1ODEwMl19
+eyJoaXN0b3J5IjpbLTEzNTE1NzcyMjYsMTIzOTg1MzIzMywxMj
+Y4Mzc3MzkxLDU5NzI3MDc3OCwxMzMxNDAzNjgxLC0xNDY1MjQ2
+MTQxLC02MDczMzg5NDAsLTE0MDQwNTY0NzIsLTEyMjEzMTg4Mz
+AsMjA1MTE0MzAsLTg4NTI4MTkwNSwtMTUyNjIzMzY2LC02MTg3
+NzU5NjEsMTMzMDI5NTU5MSwtOTMxMTU1MDYxLDE1MjE1MTE5NT
+ksLTEyNTQ0OTc3MTIsLTg0ODAyOTA2OCw1NDkyNTE1MzksLTE2
+NTIxNTgxMDJdfQ==
 -->
