@@ -88,17 +88,10 @@ li:hover ul{
 
 /* Seleccionar hermano siguiente + */
 /* Selecciona al elemento justo depués de otro */
-/* Al pasar el ratón la muestro */
-.subtitule{
- font-size: .5em;
- }
- .title-1 + .subtitle {
-  color: red;
- }
-  .title-2 + .subtitle {
-  color: blue;
- }
-
+/* Si el elemento que sigue despues de un h1 es un parrafo este tendrá un color rojo */  
+h1 + p {  
+    color:red;
+}
 ```
 [normalize.css](https://necolas.github.io/normalize.css/)
 Los selectores son son case insensitive, depende donde se aplican en el HTML o XML:
@@ -107,7 +100,7 @@ Los selectores son son case insensitive, depende donde se aplican en el HTML o X
 Si los escribimos igual en ambos sitios ahorramos problemas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MTcwODg1MCwtMTQ2NTI0NjE0MSwtNj
+eyJoaXN0b3J5IjpbMTMzMTQwMzY4MSwtMTQ2NTI0NjE0MSwtNj
 A3MzM4OTQwLC0xNDA0MDU2NDcyLC0xMjIxMzE4ODMwLDIwNTEx
 NDMwLC04ODUyODE5MDUsLTE1MjYyMzM2NiwtNjE4Nzc1OTYxLD
 EzMzAyOTU1OTEsLTkzMTE1NTA2MSwxNTIxNTExOTU5LC0xMjU0
