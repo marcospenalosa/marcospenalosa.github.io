@@ -121,6 +121,8 @@ h1 ~ p {
   color: red;
   background: none;
  }
+ 
+/* Seleccionar por atributos  termina con ^ */
 ```
 [normalize.css](https://necolas.github.io/normalize.css/)
 Los selectores son son case insensitive, depende donde se aplican en el HTML o XML:
@@ -129,7 +131,7 @@ Los selectores son son case insensitive, depende donde se aplican en el HTML o X
 Si los escribimos igual en ambos sitios ahorramos problemas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTE1NzcyMjYsMTIzOTg1MzIzMywxMj
+eyJoaXN0b3J5IjpbLTE2ODYwOTU2MDIsMTIzOTg1MzIzMywxMj
 Y4Mzc3MzkxLDU5NzI3MDc3OCwxMzMxNDAzNjgxLC0xNDY1MjQ2
 MTQxLC02MDczMzg5NDAsLTE0MDQwNTY0NzIsLTEyMjEzMTg4Mz
 AsMjA1MTE0MzAsLTg4NTI4MTkwNSwtMTUyNjIzMzY2LC02MTg3
