@@ -88,14 +88,14 @@ li:hover ul{
 
 /* Seleccionar hermano siguiente + */
 /* Selecciona al elemento justo depués de otro */
-/* Si el elemento que sigue despues de un h1 es un parrafo este tendrá un color rojo */  
+/* Si el elemento que sigue despues de un h1 es un p este tendrá un color rojo */  
 h1 + p {  
     color:red;
 }
 
 /* Seleccionar hermano siguienteS ~ */
 /* Selecciona al elemento justo depués de otro */
-/* Cualquier elemento p que esté despues de un h1 es un parrafo este tendrá un color rojo */  
+/* Cualquier elemento p que esté despues de un h1 tendrá un color rojo */  
 h1 ~ p {  
     color:red;
 }
@@ -107,10 +107,10 @@ Los selectores son son case insensitive, depende donde se aplican en el HTML o X
 Si los escribimos igual en ambos sitios ahorramos problemas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjIyMTU4MiwxMzMxNDAzNjgxLC0xND
-Y1MjQ2MTQxLC02MDczMzg5NDAsLTE0MDQwNTY0NzIsLTEyMjEz
-MTg4MzAsMjA1MTE0MzAsLTg4NTI4MTkwNSwtMTUyNjIzMzY2LC
-02MTg3NzU5NjEsMTMzMDI5NTU5MSwtOTMxMTU1MDYxLDE1MjE1
-MTE5NTksLTEyNTQ0OTc3MTIsLTg0ODAyOTA2OCw1NDkyNTE1Mz
-ksLTE2NTIxNTgxMDIsMTUyMjA3MzM1N119
+eyJoaXN0b3J5IjpbNTk3MjcwNzc4LDEzMzE0MDM2ODEsLTE0Nj
+UyNDYxNDEsLTYwNzMzODk0MCwtMTQwNDA1NjQ3MiwtMTIyMTMx
+ODgzMCwyMDUxMTQzMCwtODg1MjgxOTA1LC0xNTI2MjMzNjYsLT
+YxODc3NTk2MSwxMzMwMjk1NTkxLC05MzExNTUwNjEsMTUyMTUx
+MTk1OSwtMTI1NDQ5NzcxMiwtODQ4MDI5MDY4LDU0OTI1MTUzOS
+wtMTY1MjE1ODEwMiwxNTIyMDczMzU3XX0=
 -->
