@@ -75,7 +75,13 @@ h1{ color:red;}
 .list .list-item{
  color: red
  }
- 
+/* Seleccionar hijo directo  > */
+li > ul {
+ diplay: none;
+}
+li:hover ul{
+ display:block;
+}
 
 ```
 [normalize.css](https://necolas.github.io/normalize.css/)
@@ -85,7 +91,7 @@ Los selectores son son case insensitive, depende donde se aplican en el HTML o X
 Si los escribimos igual en ambos sitios ahorramos problemas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTIzMjU4MSwtMTQ2NTI0NjE0MSwtNj
+eyJoaXN0b3J5IjpbLTk4NzE1MTI3NSwtMTQ2NTI0NjE0MSwtNj
 A3MzM4OTQwLC0xNDA0MDU2NDcyLC0xMjIxMzE4ODMwLDIwNTEx
 NDMwLC04ODUyODE5MDUsLTE1MjYyMzM2NiwtNjE4Nzc1OTYxLD
 EzMzAyOTU1OTEsLTkzMTE1NTA2MSwxNTIxNTExOTU5LC0xMjU0
