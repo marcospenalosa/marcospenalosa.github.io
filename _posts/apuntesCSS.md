@@ -94,11 +94,13 @@ h1 + p {
 }
 
 /* Seleccionar hermanos siguienteS ~ */
-/* Selecciona al elemento justo depués de otro */
+/* Selecciona todos los descendientes */
 /* Cualquier elemento p que esté despues de un h1 tendrá un color rojo */  
 h1 ~ p {  
     color:red;
 }
+
+/* Seleccionar por atributos 
 ```
 [normalize.css](https://necolas.github.io/normalize.css/)
 Los selectores son son case insensitive, depende donde se aplican en el HTML o XML:
@@ -107,11 +109,11 @@ Los selectores son son case insensitive, depende donde se aplican en el HTML o X
 Si los escribimos igual en ambos sitios ahorramos problemas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTQ5ODMxMzMsNTk3MjcwNzc4LDEzMz
-E0MDM2ODEsLTE0NjUyNDYxNDEsLTYwNzMzODk0MCwtMTQwNDA1
-NjQ3MiwtMTIyMTMxODgzMCwyMDUxMTQzMCwtODg1MjgxOTA1LC
-0xNTI2MjMzNjYsLTYxODc3NTk2MSwxMzMwMjk1NTkxLC05MzEx
-NTUwNjEsMTUyMTUxMTk1OSwtMTI1NDQ5NzcxMiwtODQ4MDI5MD
-Y4LDU0OTI1MTUzOSwtMTY1MjE1ODEwMiwxNTIyMDczMzU3XX0=
+eyJoaXN0b3J5IjpbLTg5MDA0MzUwOSw1OTcyNzA3NzgsMTMzMT
+QwMzY4MSwtMTQ2NTI0NjE0MSwtNjA3MzM4OTQwLC0xNDA0MDU2
+NDcyLC0xMjIxMzE4ODMwLDIwNTExNDMwLC04ODUyODE5MDUsLT
+E1MjYyMzM2NiwtNjE4Nzc1OTYxLDEzMzAyOTU1OTEsLTkzMTE1
+NTA2MSwxNTIxNTExOTU5LC0xMjU0NDk3NzEyLC04NDgwMjkwNj
+gsNTQ5MjUxNTM5LC0xNjUyMTU4MTAyLDE1MjIwNzMzNTddfQ==
 
 -->
