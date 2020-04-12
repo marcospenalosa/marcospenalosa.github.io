@@ -93,7 +93,7 @@ h1 + p {
     color:red;
 }
 
-/* Seleccionar hermano siguienteS ~ */
+/* Seleccionar hermanos siguienteS ~ */
 /* Selecciona al elemento justo depués de otro */
 /* Cualquier elemento p que esté despues de un h1 tendrá un color rojo */  
 h1 ~ p {  
@@ -107,10 +107,11 @@ Los selectores son son case insensitive, depende donde se aplican en el HTML o X
 Si los escribimos igual en ambos sitios ahorramos problemas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk3MjcwNzc4LDEzMzE0MDM2ODEsLTE0Nj
-UyNDYxNDEsLTYwNzMzODk0MCwtMTQwNDA1NjQ3MiwtMTIyMTMx
-ODgzMCwyMDUxMTQzMCwtODg1MjgxOTA1LC0xNTI2MjMzNjYsLT
-YxODc3NTk2MSwxMzMwMjk1NTkxLC05MzExNTUwNjEsMTUyMTUx
-MTk1OSwtMTI1NDQ5NzcxMiwtODQ4MDI5MDY4LDU0OTI1MTUzOS
-wtMTY1MjE1ODEwMiwxNTIyMDczMzU3XX0=
+eyJoaXN0b3J5IjpbLTE5MTQ5ODMxMzMsNTk3MjcwNzc4LDEzMz
+E0MDM2ODEsLTE0NjUyNDYxNDEsLTYwNzMzODk0MCwtMTQwNDA1
+NjQ3MiwtMTIyMTMxODgzMCwyMDUxMTQzMCwtODg1MjgxOTA1LC
+0xNTI2MjMzNjYsLTYxODc3NTk2MSwxMzMwMjk1NTkxLC05MzEx
+NTUwNjEsMTUyMTUxMTk1OSwtMTI1NDQ5NzcxMiwtODQ4MDI5MD
+Y4LDU0OTI1MTUzOSwtMTY1MjE1ODEwMiwxNTIyMDczMzU3XX0=
+
 -->
