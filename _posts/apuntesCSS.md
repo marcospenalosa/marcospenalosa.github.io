@@ -71,7 +71,7 @@ h1{ color:red;}
 
 /* Descendiente -> se aplica a los hijos */
 /* Separados por espacios */
-/* Se recomienda una línea por selector para la lectura */
+/* No se recomienda su uso, al usar clases ya puedes especificar los hijos con la clase */
 .list .list-item{
  color: red
  }
@@ -84,7 +84,7 @@ Los selectores son son case insensitive, depende donde se aplican en el HTML o X
 Si los escribimos igual en ambos sitios ahorramos problemas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDY1MDc3NjQsLTYwNzMzODk0MCwtMT
+eyJoaXN0b3J5IjpbLTE0NjUyNDYxNDEsLTYwNzMzODk0MCwtMT
 QwNDA1NjQ3MiwtMTIyMTMxODgzMCwyMDUxMTQzMCwtODg1Mjgx
 OTA1LC0xNTI2MjMzNjYsLTYxODc3NTk2MSwxMzMwMjk1NTkxLC
 05MzExNTUwNjEsMTUyMTUxMTk1OSwtMTI1NDQ5NzcxMiwtODQ4
