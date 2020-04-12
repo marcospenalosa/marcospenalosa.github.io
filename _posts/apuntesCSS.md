@@ -89,12 +89,10 @@ li:hover ul{
 /* Seleccionar hermano siguiente + */
 /* Selecciona al elemento justo depués de otro */
 /* Al pasar el ratón la muestro */
-li > ul {
- diplay: none;
-}
-li:hover ul{
- display: block;
-}
+.subtitule{
+ font-size: .5em;
+ }
+ .
 
 ```
 [normalize.css](https://necolas.github.io/normalize.css/)
@@ -104,10 +102,10 @@ Los selectores son son case insensitive, depende donde se aplican en el HTML o X
 Si los escribimos igual en ambos sitios ahorramos problemas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NTE4NjUxNCwtMTQ2NTI0NjE0MSwtNj
-A3MzM4OTQwLC0xNDA0MDU2NDcyLC0xMjIxMzE4ODMwLDIwNTEx
-NDMwLC04ODUyODE5MDUsLTE1MjYyMzM2NiwtNjE4Nzc1OTYxLD
-EzMzAyOTU1OTEsLTkzMTE1NTA2MSwxNTIxNTExOTU5LC0xMjU0
-NDk3NzEyLC04NDgwMjkwNjgsNTQ5MjUxNTM5LC0xNjUyMTU4MT
-AyLDE1MjIwNzMzNTddfQ==
+eyJoaXN0b3J5IjpbODM0NjM1MDA4LC0xNDY1MjQ2MTQxLC02MD
+czMzg5NDAsLTE0MDQwNTY0NzIsLTEyMjEzMTg4MzAsMjA1MTE0
+MzAsLTg4NTI4MTkwNSwtMTUyNjIzMzY2LC02MTg3NzU5NjEsMT
+MzMDI5NTU5MSwtOTMxMTU1MDYxLDE1MjE1MTE5NTksLTEyNTQ0
+OTc3MTIsLTg0ODAyOTA2OCw1NDkyNTE1MzksLTE2NTIxNTgxMD
+IsMTUyMjA3MzM1N119
 -->
