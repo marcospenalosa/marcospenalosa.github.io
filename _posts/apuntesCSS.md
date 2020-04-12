@@ -59,14 +59,16 @@ h1{ color:red;}
  /* * -> Selector UNIVERSAL, no se recomienda */
  *{
  color: red; /* Todo se pone rojo */
- 
 }
+
 ```
 [normalize.css](https://necolas.github.io/normalize.css/)
+ CSS no es casesentivie (es caseinsentivice) 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA1MzE4MzQyLC0xMjIxMzE4ODMwLDIwNT
-ExNDMwLC04ODUyODE5MDUsLTE1MjYyMzM2NiwtNjE4Nzc1OTYx
-LDEzMzAyOTU1OTEsLTkzMTE1NTA2MSwxNTIxNTExOTU5LC0xMj
-U0NDk3NzEyLC04NDgwMjkwNjgsNTQ5MjUxNTM5LC0xNjUyMTU4
-MTAyLDE1MjIwNzMzNTddfQ==
+eyJoaXN0b3J5IjpbLTU5NDA2Njk1NSwtMTIyMTMxODgzMCwyMD
+UxMTQzMCwtODg1MjgxOTA1LC0xNTI2MjMzNjYsLTYxODc3NTk2
+MSwxMzMwMjk1NTkxLC05MzExNTUwNjEsMTUyMTUxMTk1OSwtMT
+I1NDQ5NzcxMiwtODQ4MDI5MDY4LDU0OTI1MTUzOSwtMTY1MjE1
+ODEwMiwxNTIyMDczMzU3XX0=
 -->
