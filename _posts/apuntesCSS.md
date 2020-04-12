@@ -62,8 +62,9 @@ h1{ color:red;}
 }
 
 /* Agrupados -> se aplica el mismo estilo a todos */
-/* Separa
-.title,
+/* Separados por comas , */
+.title, .parrafo{
+ cp
 
 
 ```
@@ -74,10 +75,10 @@ Los selectores son son case insensitive, depende donde se aplican en el HTML o X
 Si los escribimos igual en ambos sitios ahorramos problemas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTA2MjQ5MDYsLTYwNzMzODk0MCwtMT
-QwNDA1NjQ3MiwtMTIyMTMxODgzMCwyMDUxMTQzMCwtODg1Mjgx
-OTA1LC0xNTI2MjMzNjYsLTYxODc3NTk2MSwxMzMwMjk1NTkxLC
-05MzExNTUwNjEsMTUyMTUxMTk1OSwtMTI1NDQ5NzcxMiwtODQ4
-MDI5MDY4LDU0OTI1MTUzOSwtMTY1MjE1ODEwMiwxNTIyMDczMz
-U3XX0=
+eyJoaXN0b3J5IjpbLTc1OTIzMjYxMiwtNjA3MzM4OTQwLC0xND
+A0MDU2NDcyLC0xMjIxMzE4ODMwLDIwNTExNDMwLC04ODUyODE5
+MDUsLTE1MjYyMzM2NiwtNjE4Nzc1OTYxLDEzMzAyOTU1OTEsLT
+kzMTE1NTA2MSwxNTIxNTExOTU5LC0xMjU0NDk3NzEyLC04NDgw
+MjkwNjgsNTQ5MjUxNTM5LC0xNjUyMTU4MTAyLDE1MjIwNzMzNT
+ddfQ==
 -->
