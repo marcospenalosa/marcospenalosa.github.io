@@ -49,10 +49,13 @@ h1{ color:red;}
 .center{
  text-align: center;
  }
+ 
 /* ID -> Identificador único (se recomienda solo para JavaScript, porque no se pueden reutilizar) */
+/* <h1 id="title center">Título</h1> */
 #title{
  background: yellow;
  }
+ 
  /* * -> Selector UNIVERSAL, no se recomienda */
  *{
  color: red; /* Todo se pone rojo */
@@ -60,7 +63,7 @@ h1{ color:red;}
 ```
 [normalize.css](https://necolas.github.io/normalize.css/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTIxNjc3MjEsMjA1MTE0MzAsLTg4NT
+eyJoaXN0b3J5IjpbLTEyMjEzMTg4MzAsMjA1MTE0MzAsLTg4NT
 I4MTkwNSwtMTUyNjIzMzY2LC02MTg3NzU5NjEsMTMzMDI5NTU5
 MSwtOTMxMTU1MDYxLDE1MjE1MTE5NTksLTEyNTQ0OTc3MTIsLT
 g0ODAyOTA2OCw1NDkyNTE1MzksLTE2NTIxNTgxMDIsMTUyMjA3
