@@ -86,8 +86,8 @@ li:hover ul{
  display: block;
 }
 
-/* Seleccionar he  > */
-/* La lista hija de un item de una lista, no se muestra */
+/* Seleccionar hermano siguiente + */
+/* Selecciona al elemento justo depués de otro */
 /* Al pasar el ratón la muestro */
 li > ul {
  diplay: none;
@@ -104,7 +104,7 @@ Los selectores son son case insensitive, depende donde se aplican en el HTML o X
 Si los escribimos igual en ambos sitios ahorramos problemas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMjkzMTExNCwtMTQ2NTI0NjE0MSwtNj
+eyJoaXN0b3J5IjpbMTc2NTE4NjUxNCwtMTQ2NTI0NjE0MSwtNj
 A3MzM4OTQwLC0xNDA0MDU2NDcyLC0xMjIxMzE4ODMwLDIwNTEx
 NDMwLC04ODUyODE5MDUsLTE1MjYyMzM2NiwtNjE4Nzc1OTYxLD
 EzMzAyOTU1OTEsLTkzMTE1NTA2MSwxNTIxNTExOTU5LC0xMjU0
