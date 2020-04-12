@@ -38,10 +38,7 @@ body{ /* selector/es */
 /* Buscar normalize.css */
 h1{ color:red;}
 
-/* Sencillo - Etiqueta HTML o tipo*/
-h1{ color:red;}
-
-/* class - clases para identificar elementos */
+/* Selectores class - clases para identificar elementos */
 /* Permite varias clases separadas por un espacio */
 /* <h1 class="title center">Título</h1> */
 .title{
@@ -54,8 +51,8 @@ h1{ color:red;}
 ```
 [normalize.css](https://necolas.github.io/normalize.css/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjYyMzM2NiwtNjE4Nzc1OTYxLDEzMz
-AyOTU1OTEsLTkzMTE1NTA2MSwxNTIxNTExOTU5LC0xMjU0NDk3
-NzEyLC04NDgwMjkwNjgsNTQ5MjUxNTM5LC0xNjUyMTU4MTAyLD
-E1MjIwNzMzNTddfQ==
+eyJoaXN0b3J5IjpbLTg4NTI4MTkwNSwtMTUyNjIzMzY2LC02MT
+g3NzU5NjEsMTMzMDI5NTU5MSwtOTMxMTU1MDYxLDE1MjE1MTE5
+NTksLTEyNTQ0OTc3MTIsLTg0ODAyOTA2OCw1NDkyNTE1MzksLT
+E2NTIxNTgxMDIsMTUyMjA3MzM1N119
 -->
