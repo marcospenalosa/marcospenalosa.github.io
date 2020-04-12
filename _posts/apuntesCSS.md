@@ -49,11 +49,16 @@ h1{ color:red;}
 .center{
  text-align: center;
  }
+/* ID -> Identificador único (se recomienda solo para JavaScript, porque no se pueden reutilizar) */
+#title{
+ background: yellow;
+}
 ```
 [normalize.css](https://necolas.github.io/normalize.css/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MTE0MzAsLTg4NTI4MTkwNSwtMTUyNj
-IzMzY2LC02MTg3NzU5NjEsMTMzMDI5NTU5MSwtOTMxMTU1MDYx
-LDE1MjE1MTE5NTksLTEyNTQ0OTc3MTIsLTg0ODAyOTA2OCw1ND
-kyNTE1MzksLTE2NTIxNTgxMDIsMTUyMjA3MzM1N119
+eyJoaXN0b3J5IjpbOTkzMjg0ODUsMjA1MTE0MzAsLTg4NTI4MT
+kwNSwtMTUyNjIzMzY2LC02MTg3NzU5NjEsMTMzMDI5NTU5MSwt
+OTMxMTU1MDYxLDE1MjE1MTE5NTksLTEyNTQ0OTc3MTIsLTg0OD
+AyOTA2OCw1NDkyNTE1MzksLTE2NTIxNTgxMDIsMTUyMjA3MzM1
+N119
 -->
