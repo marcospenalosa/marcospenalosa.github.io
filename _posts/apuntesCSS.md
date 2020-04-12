@@ -75,6 +75,7 @@ h1{ color:red;}
 .list .list-item{
  color: red
  }
+ 
 
 ```
 [normalize.css](https://necolas.github.io/normalize.css/)
@@ -84,10 +85,10 @@ Los selectores son son case insensitive, depende donde se aplican en el HTML o X
 Si los escribimos igual en ambos sitios ahorramos problemas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjUyNDYxNDEsLTYwNzMzODk0MCwtMT
-QwNDA1NjQ3MiwtMTIyMTMxODgzMCwyMDUxMTQzMCwtODg1Mjgx
-OTA1LC0xNTI2MjMzNjYsLTYxODc3NTk2MSwxMzMwMjk1NTkxLC
-05MzExNTUwNjEsMTUyMTUxMTk1OSwtMTI1NDQ5NzcxMiwtODQ4
-MDI5MDY4LDU0OTI1MTUzOSwtMTY1MjE1ODEwMiwxNTIyMDczMz
-U3XX0=
+eyJoaXN0b3J5IjpbLTg2OTIzMjU4MSwtMTQ2NTI0NjE0MSwtNj
+A3MzM4OTQwLC0xNDA0MDU2NDcyLC0xMjIxMzE4ODMwLDIwNTEx
+NDMwLC04ODUyODE5MDUsLTE1MjYyMzM2NiwtNjE4Nzc1OTYxLD
+EzMzAyOTU1OTEsLTkzMTE1NTA2MSwxNTIxNTExOTU5LC0xMjU0
+NDk3NzEyLC04NDgwMjkwNjgsNTQ5MjUxNTM5LC0xNjUyMTU4MT
+AyLDE1MjIwNzMzNTddfQ==
 -->
