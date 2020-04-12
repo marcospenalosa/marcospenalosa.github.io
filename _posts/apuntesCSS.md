@@ -72,8 +72,7 @@ h1{ color:red;}
 /* Descendiente -> se aplica a los hijos */
 /* Separados por espacios */
 /* Se recomienda una línea por selector para la lectura */
-.title, 
-.parrafo{
+.list .list-item{
  color: red
  }
 
@@ -85,10 +84,10 @@ Los selectores son son case insensitive, depende donde se aplican en el HTML o X
 Si los escribimos igual en ambos sitios ahorramos problemas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA2MDExODY1LC02MDczMzg5NDAsLTE0MD
-QwNTY0NzIsLTEyMjEzMTg4MzAsMjA1MTE0MzAsLTg4NTI4MTkw
-NSwtMTUyNjIzMzY2LC02MTg3NzU5NjEsMTMzMDI5NTU5MSwtOT
-MxMTU1MDYxLDE1MjE1MTE5NTksLTEyNTQ0OTc3MTIsLTg0ODAy
-OTA2OCw1NDkyNTE1MzksLTE2NTIxNTgxMDIsMTUyMjA3MzM1N1
-19
+eyJoaXN0b3J5IjpbLTEyNDY1MDc3NjQsLTYwNzMzODk0MCwtMT
+QwNDA1NjQ3MiwtMTIyMTMxODgzMCwyMDUxMTQzMCwtODg1Mjgx
+OTA1LC0xNTI2MjMzNjYsLTYxODc3NTk2MSwxMzMwMjk1NTkxLC
+05MzExNTUwNjEsMTUyMTUxMTk1OSwtMTI1NDQ5NzcxMiwtODQ4
+MDI5MDY4LDU0OTI1MTUzOSwtMTY1MjE1ODEwMiwxNTIyMDczMz
+U3XX0=
 -->
