@@ -59,13 +59,14 @@ h1{ color:red;}
  /* * -> Selector UNIVERSAL, no se recomienda */
  *{
  color: red; /* Todo se pone rojo */
+ 
 }
 ```
 [normalize.css](https://necolas.github.io/normalize.css/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjEzMTg4MzAsMjA1MTE0MzAsLTg4NT
-I4MTkwNSwtMTUyNjIzMzY2LC02MTg3NzU5NjEsMTMzMDI5NTU5
-MSwtOTMxMTU1MDYxLDE1MjE1MTE5NTksLTEyNTQ0OTc3MTIsLT
-g0ODAyOTA2OCw1NDkyNTE1MzksLTE2NTIxNTgxMDIsMTUyMjA3
-MzM1N119
+eyJoaXN0b3J5IjpbNzA1MzE4MzQyLC0xMjIxMzE4ODMwLDIwNT
+ExNDMwLC04ODUyODE5MDUsLTE1MjYyMzM2NiwtNjE4Nzc1OTYx
+LDEzMzAyOTU1OTEsLTkzMTE1NTA2MSwxNTIxNTExOTU5LC0xMj
+U0NDk3NzEyLC04NDgwMjkwNjgsNTQ5MjUxNTM5LC0xNjUyMTU4
+MTAyLDE1MjIwNzMzNTddfQ==
 -->
