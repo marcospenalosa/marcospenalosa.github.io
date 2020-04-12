@@ -61,6 +61,9 @@ h1{ color:red;}
  color: red; /* Todo se pone rojo */
 }
 
+/* Agrupados -> se aplica el mismo estilo a todos */
+/* Separa
+.title,
 
 
 ```
@@ -71,9 +74,10 @@ Los selectores son son case insensitive, depende donde se aplican en el HTML o X
 Si los escribimos igual en ambos sitios ahorramos problemas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzMzODk0MCwtMTQwNDA1NjQ3MiwtMT
-IyMTMxODgzMCwyMDUxMTQzMCwtODg1MjgxOTA1LC0xNTI2MjMz
-NjYsLTYxODc3NTk2MSwxMzMwMjk1NTkxLC05MzExNTUwNjEsMT
-UyMTUxMTk1OSwtMTI1NDQ5NzcxMiwtODQ4MDI5MDY4LDU0OTI1
-MTUzOSwtMTY1MjE1ODEwMiwxNTIyMDczMzU3XX0=
+eyJoaXN0b3J5IjpbLTExOTA2MjQ5MDYsLTYwNzMzODk0MCwtMT
+QwNDA1NjQ3MiwtMTIyMTMxODgzMCwyMDUxMTQzMCwtODg1Mjgx
+OTA1LC0xNTI2MjMzNjYsLTYxODc3NTk2MSwxMzMwMjk1NTkxLC
+05MzExNTUwNjEsMTUyMTUxMTk1OSwtMTI1NDQ5NzcxMiwtODQ4
+MDI5MDY4LDU0OTI1MTUzOSwtMTY1MjE1ODEwMiwxNTIyMDczMz
+U3XX0=
 -->
