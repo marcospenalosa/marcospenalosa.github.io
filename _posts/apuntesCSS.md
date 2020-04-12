@@ -52,15 +52,17 @@ h1{ color:red;}
 /* ID -> Identificador único (se recomienda solo para JavaScript, porque no se pueden reutilizar) */
 #title{
  background: yellow;
- /* * -> Selector UNIVERSAL */
- 
+ }
+ /* * -> Selector UNIVERSAL, no se recomienda */
+ *{
+ color: red; /* Todo se pone rojo */
 }
 ```
 [normalize.css](https://necolas.github.io/normalize.css/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDU3MTg5OCwyMDUxMTQzMCwtODg1Mj
-gxOTA1LC0xNTI2MjMzNjYsLTYxODc3NTk2MSwxMzMwMjk1NTkx
-LC05MzExNTUwNjEsMTUyMTUxMTk1OSwtMTI1NDQ5NzcxMiwtOD
-Q4MDI5MDY4LDU0OTI1MTUzOSwtMTY1MjE1ODEwMiwxNTIyMDcz
-MzU3XX0=
+eyJoaXN0b3J5IjpbLTEzMTIxNjc3MjEsMjA1MTE0MzAsLTg4NT
+I4MTkwNSwtMTUyNjIzMzY2LC02MTg3NzU5NjEsMTMzMDI5NTU5
+MSwtOTMxMTU1MDYxLDE1MjE1MTE5NTksLTEyNTQ0OTc3MTIsLT
+g0ODAyOTA2OCw1NDkyNTE1MzksLTE2NTIxNTgxMDIsMTUyMjA3
+MzM1N119
 -->
