@@ -135,9 +135,14 @@ function moveCircles(){
  
 //Seleccionar varias formas en una variable con el método selectAll
 var rectangles = d3.selectAll('rect');
+
+//Seleccionar la primera forma en una variable con el método select
+var firstCircle = d3.select('circle');
+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MzgxOTM3MSwxODgxODA2MDY2LDE4Nj
-I5NzI2NDIsLTMyOTYwNjQ3MSwtMTgzMzQ3MTgxMSwzMTA2NDQ5
-NTUsNTc2NTcxOTg5LDY2NTU1Mzg4MiwxMTEyMDk0MDcwXX0=
+eyJoaXN0b3J5IjpbMTc0ODIzOTE5NCwxMTUzODE5MzcxLDE4OD
+E4MDYwNjYsMTg2Mjk3MjY0MiwtMzI5NjA2NDcxLC0xODMzNDcx
+ODExLDMxMDY0NDk1NSw1NzY1NzE5ODksNjY1NTUzODgyLDExMT
+IwOTQwNzBdfQ==
 -->
