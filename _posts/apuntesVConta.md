@@ -5,7 +5,8 @@
     *  Tabla DIR: Dirección (hay de teléfonos, emails...)
     *  Tabla ENT_ENT_TIP: La unión de tipo y entidad
       *  Tabla ENT_TIP: Son los tipos que hay.
-Luego existen ENT_REL y REL_TIP
+      * También hay ENT_AGR **(Comprobar nombre)** que 
+Luego existen ENT_REL y REL_TIP: Zara Bershka Pull&Bear están relacionados con Inditex, la relación es que son del mismo grupo.
 * **Siempre** hay que crear una cuenta auxiliar aunque no sea necesario. ("*129.1*")
   * Se pueden virtuarlizar cuentas 
 * Asiento: Qué operación se hace.
@@ -20,5 +21,5 @@ Luego existen ENT_REL y REL_TIP
   * 349: Operaciones intracomunitarias.
   * 115: IRPF.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg5ODc1NTY0LDIwMjA4NTI5NDNdfQ==
+eyJoaXN0b3J5IjpbLTQ3MDkxNjczMywyMDIwODUyOTQzXX0=
 -->
