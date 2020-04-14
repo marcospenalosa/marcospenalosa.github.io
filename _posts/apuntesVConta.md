@@ -2,7 +2,9 @@
 
 * En vConta hay **entidades**, luego se declarael tipo (*cliente*, *proveedor*, *ambos*, etc)
   *  Tabla ENT (contacto)
-    *  Tabla
+    *  Tabla DIR: Dirección (hay de teléfonos, emails...)
+    *  Tabla ENT_ENT_TIP: La unión de tipo y entidad
+      *  Tabla ENT_TIP: Son los tipos que hay.
 * **Siempre** hay que crear una cuenta auxiliar aunque no sea necesario. ("*129.1*")
   * Se pueden virtuarlizar cuentas 
 * Asiento: Qué operación se hace.
@@ -17,5 +19,5 @@
   * 349: Operaciones intracomunitarias.
   * 115: IRPF.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2Njk0OTg0NV19
+eyJoaXN0b3J5IjpbMjAyMDg1Mjk0M119
 -->
