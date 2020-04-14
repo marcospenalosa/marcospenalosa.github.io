@@ -5,7 +5,8 @@
     *  Tabla DIR: Dirección (hay de teléfonos, emails...)
     *  Tabla ENT_ENT_TIP: La unión de tipo y entidad
       *  Tabla ENT_TIP: Son los tipos que hay.
-      * También hay ENT_AGR **(Comprobar nombre)** que 
+      * También hay ENT_AGR **(Comprobar nombre)** que para el mecanismo de asignar el N_NUM a los ENT_ENT_TIP es decir tengo un ENT_TIP Cliente (CLT) y otro Cliente Potencial (CLP) pero quiero que cuando los vaya dando de alta el contador de su n_num sea el mismo entonces se crea una agrupación de CLT y CLP.
+      
 Luego existen ENT_REL y REL_TIP: Zara Bershka Pull&Bear están relacionados con Inditex, la relación es que son del mismo grupo.
 * **Siempre** hay que crear una cuenta auxiliar aunque no sea necesario. ("*129.1*")
   * Se pueden virtuarlizar cuentas 
@@ -21,5 +22,5 @@ Luego existen ENT_REL y REL_TIP: Zara Bershka Pull&Bear están relacionados con 
   * 349: Operaciones intracomunitarias.
   * 115: IRPF.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MDkxNjczMywyMDIwODUyOTQzXX0=
+eyJoaXN0b3J5IjpbMTc4NzM0Mjg3MywyMDIwODUyOTQzXX0=
 -->
