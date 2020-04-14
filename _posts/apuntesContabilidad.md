@@ -24,9 +24,12 @@ En el caso de la empresa:
    * Pasivo corriente: Deudas con terceras personas a corto plazo (- de 1 año)
   
   * Activo: Según la función del bien.
-    * Activo no corriente:
+    * Activo no corriente: Bienes en la empresa durante más de 1 año.
+      * Inmovilizado intagible (Marca registrada, por ejemplo) 
+      * Inmovilizado material (muebles,...)
+      * 
     * Activo correinte:  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTYzNzU2NjAsLTE2MjkwNTc4NzYsNj
+eyJoaXN0b3J5IjpbLTEwMDQxNjMzMTgsLTE2MjkwNTc4NzYsNj
 AwNTAzNzYxLC0zNTA1NDg3NTldfQ==
 -->
