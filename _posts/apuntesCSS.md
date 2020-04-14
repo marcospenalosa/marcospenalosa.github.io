@@ -143,11 +143,12 @@ Los selectores son son case insensitive, depende donde se aplican en el HTML o X
 Si los escribimos igual en ambos sitios ahorramos problemas.
 
 #### Especificad, herencia y cascada
+
 ```css
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMTA0NTA0LDY0Mjk0ODg0NSwtODMzMz
+eyJoaXN0b3J5IjpbMzY5MDMzNjEwLDY0Mjk0ODg0NSwtODMzMz
 I4Mzk3LDEyMzk4NTMyMzMsMTI2ODM3NzM5MSw1OTcyNzA3Nzgs
 MTMzMTQwMzY4MSwtMTQ2NTI0NjE0MSwtNjA3MzM4OTQwLC0xND
 A0MDU2NDcyLC0xMjIxMzE4ODMwLDIwNTExNDMwLC04ODUyODE5
