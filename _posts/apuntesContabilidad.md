@@ -31,8 +31,10 @@ En el caso de la empresa:
       * Aportaciones a otras empresas.
     * Activo correinte:  Bienes con duración menor de 1 año (lo ideal es que roten rápidamente).
       * Existencias - Mercaderías.
-      *  
+      * Derechos de cobro.
+      * Inversiones finacieras a *c/p
+      * Efectivo 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjg1MzEwNCwtMTYyOTA1Nzg3Niw2MD
-A1MDM3NjEsLTM1MDU0ODc1OV19
+eyJoaXN0b3J5IjpbLTE2MjgzMjA4NzEsLTE2MjkwNTc4NzYsNj
+AwNTAzNzYxLC0zNTA1NDg3NTldfQ==
 -->
