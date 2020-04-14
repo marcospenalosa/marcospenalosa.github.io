@@ -40,9 +40,9 @@ En el caso de la empresa:
 A ver si me aclaré como funcionan las entidades.
 * TablaENT (contacto) que se puede dar de alta en el formulairo de contacto.
   * Tabla DIR: Queda guardada la dirección por si tuviera más de una (aunque hay un campo alfabético DIR, supongo que de antes).
-  * Tabla ENT_ENT_TIP: Es la tabla que relaciona los TIPOS con EN 
+  * Tabla ENT_ENT_TIP: Es la tabla que relaciona los TIPOS con ENTIDADES 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDE0MTkyMTMsLTIwNDQzOTc4MjMsLT
-E2MjgzMjA4NzEsLTE2MjkwNTc4NzYsNjAwNTAzNzYxLC0zNTA1
-NDg3NTldfQ==
+eyJoaXN0b3J5IjpbMTg2Mjk2MzQ1NywtMjA0NDM5NzgyMywtMT
+YyODMyMDg3MSwtMTYyOTA1Nzg3Niw2MDA1MDM3NjEsLTM1MDU0
+ODc1OV19
 -->
