@@ -39,9 +39,10 @@ En el caso de la empresa:
 ![Resumen](https://raw.githubusercontent.com/marcospenalosa/marcospenalosa.github.io/master/_posts/img/apuntesContabilidad/masasPatrimoniales.png)
 A ver si me aclaré como funcionan las entidades.
 * Tabla Entidades (contacto) que se puede dar de alta en el formulairo de contacto.
-  * Tabla dirección: Queda guardada la direcci 
+  * Tabla dirección: Queda guardada la dirección por si tuviera más de una (aunque hay un campo alfabético DIR, supongo que de antes).
+  *  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTQ0MDg5LC0yMDQ0Mzk3ODIzLC0xNj
-I4MzIwODcxLC0xNjI5MDU3ODc2LDYwMDUwMzc2MSwtMzUwNTQ4
-NzU5XX0=
+eyJoaXN0b3J5IjpbMTA4MjI0OTYxMywtMjA0NDM5NzgyMywtMT
+YyODMyMDg3MSwtMTYyOTA1Nzg3Niw2MDA1MDM3NjEsLTM1MDU0
+ODc1OV19
 -->
