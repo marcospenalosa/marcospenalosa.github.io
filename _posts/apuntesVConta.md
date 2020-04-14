@@ -1,8 +1,10 @@
 # Apuntes vConta
 
 * En vConta hay **entidades**, luego se declarael tipo (*cliente*, *proveedor*, *ambos*, etc)
+  *  Tabla ENT (contacto)
+    *  Tabla
 * **Siempre** hay que crear una cuenta auxiliar aunque no sea necesario. ("*129.1*")
-  * Se pu 
+  * Se pueden virtuarlizar cuentas 
 * Asiento: Qué operación se hace.
   * Apunte: Dónde afecta esa operación.
     * Compensación: cancelar un apunte (generar el cargo/gasto o el abono/pago)
@@ -15,5 +17,5 @@
   * 349: Operaciones intracomunitarias.
   * 115: IRPF.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzMxNzAwNTJdfQ==
+eyJoaXN0b3J5IjpbMTM2Njk0OTg0NV19
 -->
