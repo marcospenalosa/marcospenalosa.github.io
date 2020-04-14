@@ -143,21 +143,21 @@ Los selectores son son case insensitive, depende donde se aplican en el HTML o X
 Si los escribimos igual en ambos sitios ahorramos problemas.
 
 #### Especificidad, herencia y cascada
-Especificidad -> a nivel de selectores
+Especificidad -> Se calcula en el selectores 
 * tags 1
 * clases 10
 * id 100
 * inline 1000
-* !importan 
+* !importan -> gana a todos  (no se debería usar)
 ```css
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDc0MjU1NDksMzY5MDMzNjEwLDY0Mj
-k0ODg0NSwtODMzMzI4Mzk3LDEyMzk4NTMyMzMsMTI2ODM3NzM5
-MSw1OTcyNzA3NzgsMTMzMTQwMzY4MSwtMTQ2NTI0NjE0MSwtNj
-A3MzM4OTQwLC0xNDA0MDU2NDcyLC0xMjIxMzE4ODMwLDIwNTEx
-NDMwLC04ODUyODE5MDUsLTE1MjYyMzM2NiwtNjE4Nzc1OTYxLD
-EzMzAyOTU1OTEsLTkzMTE1NTA2MSwxNTIxNTExOTU5LC0xMjU0
-NDk3NzEyXX0=
+eyJoaXN0b3J5IjpbLTMwMzM3ODYzNSwzNjkwMzM2MTAsNjQyOT
+Q4ODQ1LC04MzMzMjgzOTcsMTIzOTg1MzIzMywxMjY4Mzc3Mzkx
+LDU5NzI3MDc3OCwxMzMxNDAzNjgxLC0xNDY1MjQ2MTQxLC02MD
+czMzg5NDAsLTE0MDQwNTY0NzIsLTEyMjEzMTg4MzAsMjA1MTE0
+MzAsLTg4NTI4MTkwNSwtMTUyNjIzMzY2LC02MTg3NzU5NjEsMT
+MzMDI5NTU5MSwtOTMxMTU1MDYxLDE1MjE1MTE5NTksLTEyNTQ0
+OTc3MTJdfQ==
 -->
