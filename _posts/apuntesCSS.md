@@ -152,12 +152,15 @@ Especificidad -> Se calcula en el selectores
 Donde más sumen es la regla que se aplica.
 Lo mejor es un usar un solo nivel con la ayuda de clases.
 
-C
+Cascada
+Lo que viene después sobreescribe a lo anterior.
+
+
 ```css
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5ODUyMjEwNSw3MDk4MzQ0NDQsMTQzOD
+eyJoaXN0b3J5IjpbMTc1OTA0NjE4OCw3MDk4MzQ0NDQsMTQzOD
 U5NDQ1LDM2OTAzMzYxMCw2NDI5NDg4NDUsLTgzMzMyODM5Nywx
 MjM5ODUzMjMzLDEyNjgzNzczOTEsNTk3MjcwNzc4LDEzMzE0MD
 M2ODEsLTE0NjUyNDYxNDEsLTYwNzMzODk0MCwtMTQwNDA1NjQ3
