@@ -135,8 +135,6 @@ a{
 [class*="button-"]{ 
  color: purple;
 }
-
-
 ```
 [normalize.css](https://necolas.github.io/normalize.css/)
 Los selectores son son case insensitive, depende donde se aplican en el HTML o XML:
@@ -144,12 +142,16 @@ Los selectores son son case insensitive, depende donde se aplican en el HTML o X
 * Atributos: Son case **sensitive**
 Si los escribimos igual en ambos sitios ahorramos problemas.
 
+#### Especificad, herencia y cascada
+```css
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDIzMjg0MSw2NDI5NDg4NDUsLTgzMz
-MyODM5NywxMjM5ODUzMjMzLDEyNjgzNzczOTEsNTk3MjcwNzc4
-LDEzMzE0MDM2ODEsLTE0NjUyNDYxNDEsLTYwNzMzODk0MCwtMT
-QwNDA1NjQ3MiwtMTIyMTMxODgzMCwyMDUxMTQzMCwtODg1Mjgx
-OTA1LC0xNTI2MjMzNjYsLTYxODc3NTk2MSwxMzMwMjk1NTkxLC
-05MzExNTUwNjEsMTUyMTUxMTk1OSwtMTI1NDQ5NzcxMiwtODQ4
-MDI5MDY4XX0=
+eyJoaXN0b3J5IjpbMTYwMTA0NTA0LDY0Mjk0ODg0NSwtODMzMz
+I4Mzk3LDEyMzk4NTMyMzMsMTI2ODM3NzM5MSw1OTcyNzA3Nzgs
+MTMzMTQwMzY4MSwtMTQ2NTI0NjE0MSwtNjA3MzM4OTQwLC0xND
+A0MDU2NDcyLC0xMjIxMzE4ODMwLDIwNTExNDMwLC04ODUyODE5
+MDUsLTE1MjYyMzM2NiwtNjE4Nzc1OTYxLDEzMzAyOTU1OTEsLT
+kzMTE1NTA2MSwxNTIxNTExOTU5LC0xMjU0NDk3NzEyLC04NDgw
+MjkwNjhdfQ==
 -->
