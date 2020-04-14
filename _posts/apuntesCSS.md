@@ -168,9 +168,10 @@ p{color: blue;}
 a{color: inherit;}
 
 /* Obligo a coger un color por defecto */
+a{color: initial;}
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzgyNDExMCwtNTc4MDA3MDUyLDE2OT
+eyJoaXN0b3J5IjpbMTAyNjYyNDgyMywtNTc4MDA3MDUyLDE2OT
 A1NDYwMDMsNzA5ODM0NDQ0LDE0Mzg1OTQ0NSwzNjkwMzM2MTAs
 NjQyOTQ4ODQ1LC04MzMzMjgzOTcsMTIzOTg1MzIzMywxMjY4Mz
 c3MzkxLDU5NzI3MDc3OCwxMzMxNDAzNjgxLC0xNDY1MjQ2MTQx
