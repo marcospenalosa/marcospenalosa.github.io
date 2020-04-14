@@ -158,16 +158,18 @@ Lo que viene después sobreescribe a lo anterior (a igual especificidad).
 Herencia
 Los hijos heredan las propiedades de los padres.
 
-initial
+initial -> Obliga a resetear un elemento a un valor inicial
+inherit -> Obliga a un elemento a heredar una propiedad.
+
 ```css
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODk5NDUyNCwtNTc4MDA3MDUyLDE2OT
-A1NDYwMDMsNzA5ODM0NDQ0LDE0Mzg1OTQ0NSwzNjkwMzM2MTAs
-NjQyOTQ4ODQ1LC04MzMzMjgzOTcsMTIzOTg1MzIzMywxMjY4Mz
-c3MzkxLDU5NzI3MDc3OCwxMzMxNDAzNjgxLC0xNDY1MjQ2MTQx
-LC02MDczMzg5NDAsLTE0MDQwNTY0NzIsLTEyMjEzMTg4MzAsMj
-A1MTE0MzAsLTg4NTI4MTkwNSwtMTUyNjIzMzY2LC02MTg3NzU5
-NjFdfQ==
+eyJoaXN0b3J5IjpbLTExNzYwMTY2NDUsLTU3ODAwNzA1MiwxNj
+kwNTQ2MDAzLDcwOTgzNDQ0NCwxNDM4NTk0NDUsMzY5MDMzNjEw
+LDY0Mjk0ODg0NSwtODMzMzI4Mzk3LDEyMzk4NTMyMzMsMTI2OD
+M3NzM5MSw1OTcyNzA3NzgsMTMzMTQwMzY4MSwtMTQ2NTI0NjE0
+MSwtNjA3MzM4OTQwLC0xNDA0MDU2NDcyLC0xMjIxMzE4ODMwLD
+IwNTExNDMwLC04ODUyODE5MDUsLTE1MjYyMzM2NiwtNjE4Nzc1
+OTYxXX0=
 -->
