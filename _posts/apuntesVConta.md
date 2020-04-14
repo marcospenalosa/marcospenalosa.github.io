@@ -5,6 +5,7 @@
     *  Tabla DIR: Dirección (hay de teléfonos, emails...)
     *  Tabla ENT_ENT_TIP: La unión de tipo y entidad
       *  Tabla ENT_TIP: Son los tipos que hay.
+Luego existen ENT_REL y REL_TIP
 * **Siempre** hay que crear una cuenta auxiliar aunque no sea necesario. ("*129.1*")
   * Se pueden virtuarlizar cuentas 
 * Asiento: Qué operación se hace.
@@ -19,5 +20,5 @@
   * 349: Operaciones intracomunitarias.
   * 115: IRPF.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMDg1Mjk0M119
+eyJoaXN0b3J5IjpbNDg5ODc1NTY0LDIwMjA4NTI5NDNdfQ==
 -->
