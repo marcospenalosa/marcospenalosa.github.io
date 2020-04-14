@@ -12,6 +12,7 @@ En el caso de la empresa:
 * Pasivo (o estructura financeria): Resto de obligaciones. De donde sale el fondo (dinero)
 
 ![EjemploContabilidad](https://github.com/marcospenalosa/marcospenalosa.github.io/blob/master/_posts/img/apuntesContabilidad/ejemploActivoPasivo.png)
+![Correcta combinación de colores](https://raw.githubusercontent.com/marcospenalosa/marcospenalosa.github.io/master/_posts/img/apuntesDiseno/01colores.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MDU0ODc1OV19
+eyJoaXN0b3J5IjpbLTExNzg2Mjc3NTUsLTM1MDU0ODc1OV19
 -->
