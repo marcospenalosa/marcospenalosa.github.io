@@ -21,8 +21,12 @@ En el caso de la empresa:
   
  * Pasivo: Según el tipo de deuda.
    * Pasivo no corriente: Deudas con terceras personas a largo plazo (+ de 1 año).
-   * Pasivo corriente: 
+   * Pasivo corriente: Deudas con terceras personas a corto plazo (- de 1 año)
+  
+  * Activo: Según la función del bien.
+    * Activo no corriente:
+    * Activo correinte:  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjI1ODM1MSwtMTYyOTA1Nzg3Niw2MD
-A1MDM3NjEsLTM1MDU0ODc1OV19
+eyJoaXN0b3J5IjpbLTExMTYzNzU2NjAsLTE2MjkwNTc4NzYsNj
+AwNTAzNzYxLC0zNTA1NDg3NTldfQ==
 -->
