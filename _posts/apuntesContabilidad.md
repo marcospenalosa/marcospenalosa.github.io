@@ -34,8 +34,10 @@ En el caso de la empresa:
       * Derechos de cobro.
       * Inversiones finacieras a *c/p
       * Efectivo
+    
 *c/p: Corto plazo 
+![Resumen](https://raw.githubusercontent.com/marcospenalosa/marcospenalosa.github.io/master/_posts/img/apuntesContabilidad/masasPatrimoniales.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUxNjMxNzIsLTE2MjgzMjA4NzEsLTE2Mj
-kwNTc4NzYsNjAwNTAzNzYxLC0zNTA1NDg3NTldfQ==
+eyJoaXN0b3J5IjpbLTIwNDQzOTc4MjMsLTE2MjgzMjA4NzEsLT
+E2MjkwNTc4NzYsNjAwNTAzNzYxLC0zNTA1NDg3NTldfQ==
 -->
