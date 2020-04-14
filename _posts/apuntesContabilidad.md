@@ -33,8 +33,9 @@ En el caso de la empresa:
       * Existencias - Mercaderías.
       * Derechos de cobro.
       * Inversiones finacieras a *c/p
-      * Efectivo 
+      * Efectivo
+*c/p: Corto plazo 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjgzMjA4NzEsLTE2MjkwNTc4NzYsNj
-AwNTAzNzYxLC0zNTA1NDg3NTldfQ==
+eyJoaXN0b3J5IjpbODUxNjMxNzIsLTE2MjgzMjA4NzEsLTE2Mj
+kwNTc4NzYsNjAwNTAzNzYxLC0zNTA1NDg3NTldfQ==
 -->
