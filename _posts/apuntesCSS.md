@@ -142,17 +142,17 @@ Los selectores son son case insensitive, depende donde se aplican en el HTML o X
 * Atributos: Son case **sensitive**
 Si los escribimos igual en ambos sitios ahorramos problemas.
 
-#### Especificad, herencia y cascada
-
+#### Especificidad, herencia y cascada
+Especificidad
 ```css
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5MDMzNjEwLDY0Mjk0ODg0NSwtODMzMz
-I4Mzk3LDEyMzk4NTMyMzMsMTI2ODM3NzM5MSw1OTcyNzA3Nzgs
-MTMzMTQwMzY4MSwtMTQ2NTI0NjE0MSwtNjA3MzM4OTQwLC0xND
-A0MDU2NDcyLC0xMjIxMzE4ODMwLDIwNTExNDMwLC04ODUyODE5
-MDUsLTE1MjYyMzM2NiwtNjE4Nzc1OTYxLDEzMzAyOTU1OTEsLT
-kzMTE1NTA2MSwxNTIxNTExOTU5LC0xMjU0NDk3NzEyLC04NDgw
-MjkwNjhdfQ==
+eyJoaXN0b3J5IjpbMTIzMzUxNzAyLDM2OTAzMzYxMCw2NDI5ND
+g4NDUsLTgzMzMyODM5NywxMjM5ODUzMjMzLDEyNjgzNzczOTEs
+NTk3MjcwNzc4LDEzMzE0MDM2ODEsLTE0NjUyNDYxNDEsLTYwNz
+MzODk0MCwtMTQwNDA1NjQ3MiwtMTIyMTMxODgzMCwyMDUxMTQz
+MCwtODg1MjgxOTA1LC0xNTI2MjMzNjYsLTYxODc3NTk2MSwxMz
+MwMjk1NTkxLC05MzExNTUwNjEsMTUyMTUxMTk1OSwtMTI1NDQ5
+NzcxMl19
 -->
