@@ -131,7 +131,7 @@ a{
  color: purple;
 }
 
-/* Seleccionar por atributos  que contiene */
+/* Seleccionar por atributos  que contiene * */
 [class*="button-"]{ 
  color: purple;
 }
@@ -145,11 +145,11 @@ Los selectores son son case insensitive, depende donde se aplican en el HTML o X
 Si los escribimos igual en ambos sitios ahorramos problemas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyOTQ4ODQ1LC04MzMzMjgzOTcsMTIzOT
-g1MzIzMywxMjY4Mzc3MzkxLDU5NzI3MDc3OCwxMzMxNDAzNjgx
-LC0xNDY1MjQ2MTQxLC02MDczMzg5NDAsLTE0MDQwNTY0NzIsLT
-EyMjEzMTg4MzAsMjA1MTE0MzAsLTg4NTI4MTkwNSwtMTUyNjIz
-MzY2LC02MTg3NzU5NjEsMTMzMDI5NTU5MSwtOTMxMTU1MDYxLD
-E1MjE1MTE5NTksLTEyNTQ0OTc3MTIsLTg0ODAyOTA2OCw1NDky
-NTE1MzldfQ==
+eyJoaXN0b3J5IjpbLTI0MDIzMjg0MSw2NDI5NDg4NDUsLTgzMz
+MyODM5NywxMjM5ODUzMjMzLDEyNjgzNzczOTEsNTk3MjcwNzc4
+LDEzMzE0MDM2ODEsLTE0NjUyNDYxNDEsLTYwNzMzODk0MCwtMT
+QwNDA1NjQ3MiwtMTIyMTMxODgzMCwyMDUxMTQzMCwtODg1Mjgx
+OTA1LC0xNTI2MjMzNjYsLTYxODc3NTk2MSwxMzMwMjk1NTkxLC
+05MzExNTUwNjEsMTUyMTUxMTk1OSwtMTI1NDQ5NzcxMiwtODQ4
+MDI5MDY4XX0=
 -->
