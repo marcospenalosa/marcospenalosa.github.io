@@ -25,11 +25,14 @@ En el caso de la empresa:
   
   * Activo: Según la función del bien.
     * Activo no corriente: Bienes en la empresa durante más de 1 año.
-      * Inmovilizado intagible (Marca registrada, por ejemplo) 
-      * Inmovilizado material (muebles,...)
-      * 
-    * Activo correinte:  
+      * Inmovilizado intagible (Marca registrada, por ejemplo).
+      * Inmovilizado material (muebles,...).
+      * Inversiones financieras.
+      * Aportaciones a otras empresas.
+    * Activo correinte:  Bienes con duración menor de 1 año (lo ideal es que roten rápidamente).
+      * Existencias - Mercaderías.
+      *  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQxNjMzMTgsLTE2MjkwNTc4NzYsNj
-AwNTAzNzYxLC0zNTA1NDg3NTldfQ==
+eyJoaXN0b3J5IjpbLTMxMjg1MzEwNCwtMTYyOTA1Nzg3Niw2MD
+A1MDM3NjEsLTM1MDU0ODc1OV19
 -->
