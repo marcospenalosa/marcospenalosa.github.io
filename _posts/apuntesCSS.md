@@ -155,17 +155,18 @@ Lo mejor es un usar un solo nivel con la ayuda de clases.
 Cascada
 Lo que viene después sobreescribe a lo anterior (a igual especificidad).
 
-
+Herencia
+Los hijos heredan las propiedades de los padres.
 
 ```css
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTA0NjgzNzksMTY5MDU0NjAwMyw3MD
-k4MzQ0NDQsMTQzODU5NDQ1LDM2OTAzMzYxMCw2NDI5NDg4NDUs
-LTgzMzMyODM5NywxMjM5ODUzMjMzLDEyNjgzNzczOTEsNTk3Mj
-cwNzc4LDEzMzE0MDM2ODEsLTE0NjUyNDYxNDEsLTYwNzMzODk0
-MCwtMTQwNDA1NjQ3MiwtMTIyMTMxODgzMCwyMDUxMTQzMCwtOD
-g1MjgxOTA1LC0xNTI2MjMzNjYsLTYxODc3NTk2MSwxMzMwMjk1
-NTkxXX0=
+eyJoaXN0b3J5IjpbLTU3ODAwNzA1MiwxNjkwNTQ2MDAzLDcwOT
+gzNDQ0NCwxNDM4NTk0NDUsMzY5MDMzNjEwLDY0Mjk0ODg0NSwt
+ODMzMzI4Mzk3LDEyMzk4NTMyMzMsMTI2ODM3NzM5MSw1OTcyNz
+A3NzgsMTMzMTQwMzY4MSwtMTQ2NTI0NjE0MSwtNjA3MzM4OTQw
+LC0xNDA0MDU2NDcyLC0xMjIxMzE4ODMwLDIwNTExNDMwLC04OD
+UyODE5MDUsLTE1MjYyMzM2NiwtNjE4Nzc1OTYxLDEzMzAyOTU1
+OTFdfQ==
 -->
