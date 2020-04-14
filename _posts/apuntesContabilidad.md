@@ -37,7 +37,9 @@ En el caso de la empresa:
     
 *c/p: Corto plazo 
 ![Resumen](https://raw.githubusercontent.com/marcospenalosa/marcospenalosa.github.io/master/_posts/img/apuntesContabilidad/masasPatrimoniales.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQzOTc4MjMsLTE2MjgzMjA4NzEsLT
-E2MjkwNTc4NzYsNjAwNTAzNzYxLC0zNTA1NDg3NTldfQ==
+eyJoaXN0b3J5IjpbMTY3MzMyMDc5LC0yMDQ0Mzk3ODIzLC0xNj
+I4MzIwODcxLC0xNjI5MDU3ODc2LDYwMDUwMzc2MSwtMzUwNTQ4
+NzU5XX0=
 -->
