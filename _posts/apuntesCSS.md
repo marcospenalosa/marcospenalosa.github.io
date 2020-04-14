@@ -151,15 +151,17 @@ Especificidad -> Se calcula en el selectores
 * !importan -> gana a todos  (no se debería usar)
 Donde más sumen es la regla que se aplica.
 Lo mejor es un usar un solo nivel con la ayuda de clases.
+
+C
 ```css
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA5ODM0NDQ0LDE0Mzg1OTQ0NSwzNjkwMz
-M2MTAsNjQyOTQ4ODQ1LC04MzMzMjgzOTcsMTIzOTg1MzIzMywx
-MjY4Mzc3MzkxLDU5NzI3MDc3OCwxMzMxNDAzNjgxLC0xNDY1Mj
-Q2MTQxLC02MDczMzg5NDAsLTE0MDQwNTY0NzIsLTEyMjEzMTg4
-MzAsMjA1MTE0MzAsLTg4NTI4MTkwNSwtMTUyNjIzMzY2LC02MT
-g3NzU5NjEsMTMzMDI5NTU5MSwtOTMxMTU1MDYxLDE1MjE1MTE5
-NTldfQ==
+eyJoaXN0b3J5IjpbMTg5ODUyMjEwNSw3MDk4MzQ0NDQsMTQzOD
+U5NDQ1LDM2OTAzMzYxMCw2NDI5NDg4NDUsLTgzMzMyODM5Nywx
+MjM5ODUzMjMzLDEyNjgzNzczOTEsNTk3MjcwNzc4LDEzMzE0MD
+M2ODEsLTE0NjUyNDYxNDEsLTYwNzMzODk0MCwtMTQwNDA1NjQ3
+MiwtMTIyMTMxODgzMCwyMDUxMTQzMCwtODg1MjgxOTA1LC0xNT
+I2MjMzNjYsLTYxODc3NTk2MSwxMzMwMjk1NTkxLC05MzExNTUw
+NjFdfQ==
 -->
