@@ -11,8 +11,7 @@ En el caso de la empresa:
 * Neto: Obligación con los Socios, parte del pasivo no exigible a corto plazo.
 * Pasivo (o estructura financeria): Resto de obligaciones. De donde sale el fondo (dinero)
 
-![EjemploContabilidad](https://github.com/marcospenalosa/marcospenalosa.github.io/blob/master/_posts/img/apuntesContabilidad/ejemploActivoPasivo.png)
-![Correcta combinación de colores](https://raw.githubusercontent.com/marcospenalosa/marcospenalosa.github.io/master/_posts/img/apuntesDiseno/01colores.png)
+![EjemploContabilidad](https://raw.githubusercontent.com/marcospenalosa/marcospenalosa.github.io/master/_posts/img/apuntesContabilidad/ejemploActivoPasivo.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzg2Mjc3NTUsLTM1MDU0ODc1OV19
+eyJoaXN0b3J5IjpbNjAwNTAzNzYxLC0zNTA1NDg3NTldfQ==
 -->
