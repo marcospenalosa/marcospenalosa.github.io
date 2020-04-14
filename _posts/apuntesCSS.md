@@ -150,16 +150,16 @@ Especificidad -> Se calcula en el selectores
 * inline 1000
 * !importan -> gana a todos  (no se debería usar)
 Donde más sumen es la regla que se aplica.
-Lo mejor e
+Lo mejor es un usar un solo nivel con la ayuda de clases.
 ```css
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2ODA2MjkwOCwxNDM4NTk0NDUsMzY5MD
-MzNjEwLDY0Mjk0ODg0NSwtODMzMzI4Mzk3LDEyMzk4NTMyMzMs
-MTI2ODM3NzM5MSw1OTcyNzA3NzgsMTMzMTQwMzY4MSwtMTQ2NT
-I0NjE0MSwtNjA3MzM4OTQwLC0xNDA0MDU2NDcyLC0xMjIxMzE4
-ODMwLDIwNTExNDMwLC04ODUyODE5MDUsLTE1MjYyMzM2NiwtNj
-E4Nzc1OTYxLDEzMzAyOTU1OTEsLTkzMTE1NTA2MSwxNTIxNTEx
-OTU5XX0=
+eyJoaXN0b3J5IjpbNzA5ODM0NDQ0LDE0Mzg1OTQ0NSwzNjkwMz
+M2MTAsNjQyOTQ4ODQ1LC04MzMzMjgzOTcsMTIzOTg1MzIzMywx
+MjY4Mzc3MzkxLDU5NzI3MDc3OCwxMzMxNDAzNjgxLC0xNDY1Mj
+Q2MTQxLC02MDczMzg5NDAsLTE0MDQwNTY0NzIsLTEyMjEzMTg4
+MzAsMjA1MTE0MzAsLTg4NTI4MTkwNSwtMTUyNjIzMzY2LC02MT
+g3NzU5NjEsMTMzMDI5NTU5MSwtOTMxMTU1MDYxLDE1MjE1MTE5
+NTldfQ==
 -->
