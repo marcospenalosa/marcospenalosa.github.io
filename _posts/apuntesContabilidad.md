@@ -13,8 +13,14 @@ En el caso de la empresa:
 
 ![EjemploContabilidad](https://raw.githubusercontent.com/marcospenalosa/marcospenalosa.github.io/master/_posts/img/apuntesContabilidad/ejemploActivoPasivo.png)
 ## Masas patrimoniales
-
+* Neto : Según el tipo de la deuda.
+  * Fondos propios:
+    * Exterior: Capital social
+    * Interior: Beneficio -> Reservas.
+  * Subvenciones y donaciones.   
+  
+  * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjkwNTc4NzYsNjAwNTAzNzYxLC0zNT
-A1NDg3NTldfQ==
+eyJoaXN0b3J5IjpbOTU3Mjk1NDgxLC0xNjI5MDU3ODc2LDYwMD
+UwMzc2MSwtMzUwNTQ4NzU5XX0=
 -->
