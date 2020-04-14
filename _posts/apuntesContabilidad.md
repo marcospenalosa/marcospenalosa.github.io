@@ -37,13 +37,9 @@ En el caso de la empresa:
     
 *c/p: Corto plazo 
 ![Resumen](https://raw.githubusercontent.com/marcospenalosa/marcospenalosa.github.io/master/_posts/img/apuntesContabilidad/masasPatrimoniales.png)
-A ver si me aclaré como funcionan las entidades.
-* Tabla ENT (contacto) que se puede dar de alta en el formulairo de contacto.
-  * Tabla DIR: Queda guardada la dirección por si tuviera más de una (aunque hay un campo alfabético DIR, supongo que de antes).
-    * Tabla ENT_ENT_TIP: Relaciona los TIPOS con ENTIDADES (estas relaciones se modifican desde el formulario "más datos" otros)
-   * Tabla ENT_TIP: Son los tipos de relaciones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4NTg5NzMyLC0yMDQ0Mzk3ODIzLDE4Nj
-I5NjM0NTcsLTIwNDQzOTc4MjMsLTE2MjgzMjA4NzEsLTE2Mjkw
-NTc4NzYsNjAwNTAzNzYxLC0zNTA1NDg3NTldfQ==
+eyJoaXN0b3J5IjpbLTIwNDQzOTc4MjMsNTk4NTg5NzMyLC0yMD
+Q0Mzk3ODIzLDE4NjI5NjM0NTcsLTIwNDQzOTc4MjMsLTE2Mjgz
+MjA4NzEsLTE2MjkwNTc4NzYsNjAwNTAzNzYxLC0zNTA1NDg3NT
+ldfQ==
 -->
