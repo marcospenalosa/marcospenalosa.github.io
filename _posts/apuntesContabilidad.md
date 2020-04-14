@@ -19,8 +19,10 @@ En el caso de la empresa:
     * Interior: Beneficio -> Reservas.
   * Subvenciones y donaciones.   
   
-  * 
+ * Pasivo: Según el tipo de deuda.
+   * Pasivo no corriente: Deudas con terceras personas a largo plazo (+ de 1 año).
+   * Pasivo corriente: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3Mjk1NDgxLC0xNjI5MDU3ODc2LDYwMD
-UwMzc2MSwtMzUwNTQ4NzU5XX0=
+eyJoaXN0b3J5IjpbLTgxNjI1ODM1MSwtMTYyOTA1Nzg3Niw2MD
+A1MDM3NjEsLTM1MDU0ODc1OV19
 -->
