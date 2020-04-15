@@ -69,16 +69,16 @@ Hay dos libros principales:
   * Cada anotación -> Asientos
     *  Nº asiento ------ Fecha ------------------
     * Debe ------------------------------ Haber  
-    * (D) Cantidad - Nº cuenta - Nombre -------
+    * (D) Cantidad - Nº cuenta - Nombre ----
     * ----------------------a ----------------------
-    * Cantidad Nº cuenta
+    * ---- Cantidad - Nº cuenta - Nombre (H)
 * Libro Mayor
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTkzNjM2MSwtMTAwOTE1NDkyNCwxOT
-M4ODI2MTUsMjcwMjk4NjgyLDE0NTk2NTkxNjksLTEyNTE4ODUw
-NjgsMjk3MjQ0NjAwLDU0NDE5ODQ0NywtMjA0NDM5NzgyMyw1OT
-g1ODk3MzIsLTIwNDQzOTc4MjMsMTg2Mjk2MzQ1NywtMjA0NDM5
-NzgyMywtMTYyODMyMDg3MSwtMTYyOTA1Nzg3Niw2MDA1MDM3Nj
-EsLTM1MDU0ODc1OV19
+eyJoaXN0b3J5IjpbODUzNzU5NzY4LC0xMDA5MTU0OTI0LDE5Mz
+g4MjYxNSwyNzAyOTg2ODIsMTQ1OTY1OTE2OSwtMTI1MTg4NTA2
+OCwyOTcyNDQ2MDAsNTQ0MTk4NDQ3LC0yMDQ0Mzk3ODIzLDU5OD
+U4OTczMiwtMjA0NDM5NzgyMywxODYyOTYzNDU3LC0yMDQ0Mzk3
+ODIzLC0xNjI4MzIwODcxLC0xNjI5MDU3ODc2LDYwMDUwMzc2MS
+wtMzUwNTQ4NzU5XX0=
 -->
