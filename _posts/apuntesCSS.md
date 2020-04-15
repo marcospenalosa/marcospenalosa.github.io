@@ -171,14 +171,14 @@ a{color: inherit;}
 a{color: initial;}
 ```
 #### Box model
-Layout -> geometría de cada elemento (tamaños, posción, separaci
+Layout -> geometría de cada elemento (tamaños, posción, separación...)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDA0OTA2MzUsMTAyNjYyNDgyMywtNT
-c4MDA3MDUyLDE2OTA1NDYwMDMsNzA5ODM0NDQ0LDE0Mzg1OTQ0
-NSwzNjkwMzM2MTAsNjQyOTQ4ODQ1LC04MzMzMjgzOTcsMTIzOT
-g1MzIzMywxMjY4Mzc3MzkxLDU5NzI3MDc3OCwxMzMxNDAzNjgx
-LC0xNDY1MjQ2MTQxLC02MDczMzg5NDAsLTE0MDQwNTY0NzIsLT
-EyMjEzMTg4MzAsMjA1MTE0MzAsLTg4NTI4MTkwNSwtMTUyNjIz
-MzY2XX0=
+eyJoaXN0b3J5IjpbMTUyMzM3NDExMSwxMDI2NjI0ODIzLC01Nz
+gwMDcwNTIsMTY5MDU0NjAwMyw3MDk4MzQ0NDQsMTQzODU5NDQ1
+LDM2OTAzMzYxMCw2NDI5NDg4NDUsLTgzMzMyODM5NywxMjM5OD
+UzMjMzLDEyNjgzNzczOTEsNTk3MjcwNzc4LDEzMzE0MDM2ODEs
+LTE0NjUyNDYxNDEsLTYwNzMzODk0MCwtMTQwNDA1NjQ3MiwtMT
+IyMTMxODgzMCwyMDUxMTQzMCwtODg1MjgxOTA1LC0xNTI2MjMz
+NjZdfQ==
 -->
