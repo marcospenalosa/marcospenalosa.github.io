@@ -61,14 +61,19 @@ Documento que muestra la situciación del patrimonio (Activo, pasivo y neto) de 
 * Partida doble implica que:
   *  Cargo en una cuenta -> Abono en otra
   *  Abono en una cuenta -> Cargo en otra
-
-
+## Libros de ccontabilidad
+Hay dos libros principales:
+* Libro Diaro
+  * Hechos Contables
+  * Forma Cronológica
+  * Cada anotación -> Asientos 
+* Libro Mayor
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTY2NTQ2NTQsLTEwMDkxNTQ5MjQsMT
-kzODgyNjE1LDI3MDI5ODY4MiwxNDU5NjU5MTY5LC0xMjUxODg1
-MDY4LDI5NzI0NDYwMCw1NDQxOTg0NDcsLTIwNDQzOTc4MjMsNT
-k4NTg5NzMyLC0yMDQ0Mzk3ODIzLDE4NjI5NjM0NTcsLTIwNDQz
-OTc4MjMsLTE2MjgzMjA4NzEsLTE2MjkwNTc4NzYsNjAwNTAzNz
-YxLC0zNTA1NDg3NTldfQ==
+eyJoaXN0b3J5IjpbLTMwOTUwMzY5NywtMTAwOTE1NDkyNCwxOT
+M4ODI2MTUsMjcwMjk4NjgyLDE0NTk2NTkxNjksLTEyNTE4ODUw
+NjgsMjk3MjQ0NjAwLDU0NDE5ODQ0NywtMjA0NDM5NzgyMyw1OT
+g1ODk3MzIsLTIwNDQzOTc4MjMsMTg2Mjk2MzQ1NywtMjA0NDM5
+NzgyMywtMTYyODMyMDg3MSwtMTYyOTA1Nzg3Niw2MDA1MDM3Nj
+EsLTM1MDU0ODc1OV19
 -->
