@@ -56,13 +56,17 @@ Documento que muestra la situciación del patrimonio (Activo, pasivo y neto) de 
 * Saldar una cuenta: Se suma en la parte que menos importe hay una cantidad para dejarla a 0.
 * Cerrar una cuenta: Sumar a ambos lados, saldarla y se le pone dos rayas paralelas al final de la cuenta para indicar que está cerrada.
 
-
+[Buena explicación del funcionamiento de las cuentas](https://www.plangeneralcontable.com/?tit=funcionamiento-de-una-cuenta-contable&name=Abanfin&fid=econcep)
+## Partida doble
+* Partida doble implica que:
+  *  Cargo en una cuenta -> Abono en otra
+  * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMzc4MjI5OSwxOTM4ODI2MTUsMjcwMj
-k4NjgyLDE0NTk2NTkxNjksLTEyNTE4ODUwNjgsMjk3MjQ0NjAw
-LDU0NDE5ODQ0NywtMjA0NDM5NzgyMyw1OTg1ODk3MzIsLTIwND
-QzOTc4MjMsMTg2Mjk2MzQ1NywtMjA0NDM5NzgyMywtMTYyODMy
-MDg3MSwtMTYyOTA1Nzg3Niw2MDA1MDM3NjEsLTM1MDU0ODc1OV
-19
+eyJoaXN0b3J5IjpbNjQyMjEwMDcyLDE5Mzg4MjYxNSwyNzAyOT
+g2ODIsMTQ1OTY1OTE2OSwtMTI1MTg4NTA2OCwyOTcyNDQ2MDAs
+NTQ0MTk4NDQ3LC0yMDQ0Mzk3ODIzLDU5ODU4OTczMiwtMjA0ND
+M5NzgyMywxODYyOTYzNDU3LC0yMDQ0Mzk3ODIzLC0xNjI4MzIw
+ODcxLC0xNjI5MDU3ODc2LDYwMDUwMzc2MSwtMzUwNTQ4NzU5XX
+0=
 -->
