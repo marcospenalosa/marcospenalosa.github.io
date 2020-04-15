@@ -73,12 +73,12 @@ Hay dos libros principales:
     * ----------------------a ----------------------
     * ---- Cantidad - Nº cuenta - Nombre (H)
 * Libro Mayor
-
+  * Aparecen **todas** las cuentas que se anotan en el libro *diario*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUzNzU5NzY4LC0xMDA5MTU0OTI0LDE5Mz
-g4MjYxNSwyNzAyOTg2ODIsMTQ1OTY1OTE2OSwtMTI1MTg4NTA2
-OCwyOTcyNDQ2MDAsNTQ0MTk4NDQ3LC0yMDQ0Mzk3ODIzLDU5OD
-U4OTczMiwtMjA0NDM5NzgyMywxODYyOTYzNDU3LC0yMDQ0Mzk3
-ODIzLC0xNjI4MzIwODcxLC0xNjI5MDU3ODc2LDYwMDUwMzc2MS
-wtMzUwNTQ4NzU5XX0=
+eyJoaXN0b3J5IjpbLTY5MDI3ODk0NSw4NTM3NTk3NjgsLTEwMD
+kxNTQ5MjQsMTkzODgyNjE1LDI3MDI5ODY4MiwxNDU5NjU5MTY5
+LC0xMjUxODg1MDY4LDI5NzI0NDYwMCw1NDQxOTg0NDcsLTIwND
+QzOTc4MjMsNTk4NTg5NzMyLC0yMDQ0Mzk3ODIzLDE4NjI5NjM0
+NTcsLTIwNDQzOTc4MjMsLTE2MjgzMjA4NzEsLTE2MjkwNTc4Nz
+YsNjAwNTAzNzYxLC0zNTA1NDg3NTldfQ==
 -->
