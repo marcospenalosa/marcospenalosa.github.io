@@ -175,14 +175,16 @@ Layout -> geometría de cada elemento (tamaños, posción, separación...)
 Los elementos de línea no tiene height, width, margin, padding propios (por ejemplo <span>)
 ```css
 h1 { display: inline;} /* Obligo al alemento a ser de línea */
-span{ display: block;} 
+span{ display: block;} /* Obligo al elemnto a ser de bloque */
+/* display: inline-block;  lo hace de línea con heigh,width...*/
+/* display: none; lo oculta a la vista */
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgxOTMzMzY2LDEwMjY2MjQ4MjMsLTU3OD
-AwNzA1MiwxNjkwNTQ2MDAzLDcwOTgzNDQ0NCwxNDM4NTk0NDUs
-MzY5MDMzNjEwLDY0Mjk0ODg0NSwtODMzMzI4Mzk3LDEyMzk4NT
-MyMzMsMTI2ODM3NzM5MSw1OTcyNzA3NzgsMTMzMTQwMzY4MSwt
-MTQ2NTI0NjE0MSwtNjA3MzM4OTQwLC0xNDA0MDU2NDcyLC0xMj
-IxMzE4ODMwLDIwNTExNDMwLC04ODUyODE5MDUsLTE1MjYyMzM2
-Nl19
+eyJoaXN0b3J5IjpbLTcwMjI5OTgyMywxMDI2NjI0ODIzLC01Nz
+gwMDcwNTIsMTY5MDU0NjAwMyw3MDk4MzQ0NDQsMTQzODU5NDQ1
+LDM2OTAzMzYxMCw2NDI5NDg4NDUsLTgzMzMyODM5NywxMjM5OD
+UzMjMzLDEyNjgzNzczOTEsNTk3MjcwNzc4LDEzMzE0MDM2ODEs
+LTE0NjUyNDYxNDEsLTYwNzMzODk0MCwtMTQwNDA1NjQ3MiwtMT
+IyMTMxODgzMCwyMDUxMTQzMCwtODg1MjgxOTA1LC0xNTI2MjMz
+NjZdfQ==
 -->
