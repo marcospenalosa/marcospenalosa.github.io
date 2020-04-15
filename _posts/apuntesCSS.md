@@ -211,15 +211,15 @@ Box sizing, propiedad para cambiar la forma en que suma el total de la caja
     * margin-left: auto;
     * margin-right: auto;
   
-Colapsado de márgenes (solo ocurre de manera vertical)
+Colapsado de márgenes (solo ocurre de manera vertical), si tengo un article y un h1 dentro, el h1 manda en el margen y deja una separación, para ello hay que poner un padding-top:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwMDQ5OTc4LDY4MDE4MTYzMiwtNzk4MT
-kwNTI4LDc4MzMzMTU4MywtNjA4Mzg5MiwtMTIwNjc2ODg1Niwx
-MDI2NjI0ODIzLC01NzgwMDcwNTIsMTY5MDU0NjAwMyw3MDk4Mz
-Q0NDQsMTQzODU5NDQ1LDM2OTAzMzYxMCw2NDI5NDg4NDUsLTgz
-MzMyODM5NywxMjM5ODUzMjMzLDEyNjgzNzczOTEsNTk3MjcwNz
-c4LDEzMzE0MDM2ODEsLTE0NjUyNDYxNDEsLTYwNzMzODk0MF19
-
+eyJoaXN0b3J5IjpbLTE1MTM2MjIxMzEsNjgwMTgxNjMyLC03OT
+gxOTA1MjgsNzgzMzMxNTgzLC02MDgzODkyLC0xMjA2NzY4ODU2
+LDEwMjY2MjQ4MjMsLTU3ODAwNzA1MiwxNjkwNTQ2MDAzLDcwOT
+gzNDQ0NCwxNDM4NTk0NDUsMzY5MDMzNjEwLDY0Mjk0ODg0NSwt
+ODMzMzI4Mzk3LDEyMzk4NTMyMzMsMTI2ODM3NzM5MSw1OTcyNz
+A3NzgsMTMzMTQwMzY4MSwtMTQ2NTI0NjE0MSwtNjA3MzM4OTQw
+XX0=
 -->
