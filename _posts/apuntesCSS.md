@@ -172,13 +172,13 @@ a{color: initial;}
 ```
 #### Box model
 Layout -> geometría de cada elemento (tamaños, posción, separación...)
-Los el
+Los elementos de línea no tiene height ni width pr, solo width. (
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY1MTUxMTIsMTAyNjYyNDgyMywtNTc4MD
-A3MDUyLDE2OTA1NDYwMDMsNzA5ODM0NDQ0LDE0Mzg1OTQ0NSwz
-NjkwMzM2MTAsNjQyOTQ4ODQ1LC04MzMzMjgzOTcsMTIzOTg1Mz
-IzMywxMjY4Mzc3MzkxLDU5NzI3MDc3OCwxMzMxNDAzNjgxLC0x
-NDY1MjQ2MTQxLC02MDczMzg5NDAsLTE0MDQwNTY0NzIsLTEyMj
-EzMTg4MzAsMjA1MTE0MzAsLTg4NTI4MTkwNSwtMTUyNjIzMzY2
-XX0=
+eyJoaXN0b3J5IjpbMTk3NTM0NTc0NiwxMDI2NjI0ODIzLC01Nz
+gwMDcwNTIsMTY5MDU0NjAwMyw3MDk4MzQ0NDQsMTQzODU5NDQ1
+LDM2OTAzMzYxMCw2NDI5NDg4NDUsLTgzMzMyODM5NywxMjM5OD
+UzMjMzLDEyNjgzNzczOTEsNTk3MjcwNzc4LDEzMzE0MDM2ODEs
+LTE0NjUyNDYxNDEsLTYwNzMzODk0MCwtMTQwNDA1NjQ3MiwtMT
+IyMTMxODgzMCwyMDUxMTQzMCwtODg1MjgxOTA1LC0xNTI2MjMz
+NjZdfQ==
 -->
