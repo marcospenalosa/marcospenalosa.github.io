@@ -219,13 +219,13 @@ Padding: Si se usa porcentaje, utiliza el width del padre para calcular el tama√
 **Tip para videos responsive**
 ```css
 .video{
- padding-bottom:56.25%
+ padding-bottom:56.25% (16:9)
 }
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzU1NDIxNzksMjA1NTM5MTQ1NCw2OD
+eyJoaXN0b3J5IjpbLTE5NTQ0NjU3ODAsMjA1NTM5MTQ1NCw2OD
 AxODE2MzIsLTc5ODE5MDUyOCw3ODMzMzE1ODMsLTYwODM4OTIs
 LTEyMDY3Njg4NTYsMTAyNjYyNDgyMywtNTc4MDA3MDUyLDE2OT
 A1NDYwMDMsNzA5ODM0NDQ0LDE0Mzg1OTQ0NSwzNjkwMzM2MTAs
