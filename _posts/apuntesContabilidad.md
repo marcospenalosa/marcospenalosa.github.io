@@ -47,13 +47,19 @@ Documento que muestra la situciación del patrimonio (Activo, pasivo y neto) de 
   * Al Debe
  * Abonar cuenta:
    *  Al Haber
-* Saldo de una cuenta: 
+ 
+* Saldo de una cuenta: Diferencia entre el Debe y el Haber
+  * Deudor: Debe > Haber
+  * Acreedor: Debe < Haber.
+  * Saldo 0 : Debe = Haber
+
+* Saldar una cuenta: Se suma en
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NzU2NjY5NSwyNzAyOTg2ODIsMTQ1OT
-Y1OTE2OSwtMTI1MTg4NTA2OCwyOTcyNDQ2MDAsNTQ0MTk4NDQ3
-LC0yMDQ0Mzk3ODIzLDU5ODU4OTczMiwtMjA0NDM5NzgyMywxOD
-YyOTYzNDU3LC0yMDQ0Mzk3ODIzLC0xNjI4MzIwODcxLC0xNjI5
-MDU3ODc2LDYwMDUwMzc2MSwtMzUwNTQ4NzU5XX0=
+eyJoaXN0b3J5IjpbLTIwNjE5NjkwNDQsMjcwMjk4NjgyLDE0NT
+k2NTkxNjksLTEyNTE4ODUwNjgsMjk3MjQ0NjAwLDU0NDE5ODQ0
+NywtMjA0NDM5NzgyMyw1OTg1ODk3MzIsLTIwNDQzOTc4MjMsMT
+g2Mjk2MzQ1NywtMjA0NDM5NzgyMywtMTYyODMyMDg3MSwtMTYy
+OTA1Nzg3Niw2MDA1MDM3NjEsLTM1MDU0ODc1OV19
 -->
