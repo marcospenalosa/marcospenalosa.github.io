@@ -213,15 +213,15 @@ Box sizing, propiedad para cambiar la forma en que suma el total de la caja
   
 Colapsado de márgenes (solo ocurre de manera vertical), si tengo un article y un h1 dentro, el h1 manda en el margen y deja una separación, para ello hay que poner un padding-top:0.1px;
 
-Las buenas prácticas dicen que solo se usen en una sola dirección y lo mejor es **margin-bottom**. Si hay un margin-top y un margin-botton en otro
+Las buenas prácticas dicen que solo se usen en una sola dirección y lo mejor es **margin-bottom**. Si hay un margin-top y un margin-bottom en otro elemento no se suman.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTYzMzEzNzcsNjgwMTgxNjMyLC03OT
-gxOTA1MjgsNzgzMzMxNTgzLC02MDgzODkyLC0xMjA2NzY4ODU2
-LDEwMjY2MjQ4MjMsLTU3ODAwNzA1MiwxNjkwNTQ2MDAzLDcwOT
-gzNDQ0NCwxNDM4NTk0NDUsMzY5MDMzNjEwLDY0Mjk0ODg0NSwt
-ODMzMzI4Mzk3LDEyMzk4NTMyMzMsMTI2ODM3NzM5MSw1OTcyNz
-A3NzgsMTMzMTQwMzY4MSwtMTQ2NTI0NjE0MSwtNjA3MzM4OTQw
-XX0=
+eyJoaXN0b3J5IjpbMjA1NTM5MTQ1NCw2ODAxODE2MzIsLTc5OD
+E5MDUyOCw3ODMzMzE1ODMsLTYwODM4OTIsLTEyMDY3Njg4NTYs
+MTAyNjYyNDgyMywtNTc4MDA3MDUyLDE2OTA1NDYwMDMsNzA5OD
+M0NDQ0LDE0Mzg1OTQ0NSwzNjkwMzM2MTAsNjQyOTQ4ODQ1LC04
+MzMzMjgzOTcsMTIzOTg1MzIzMywxMjY4Mzc3MzkxLDU5NzI3MD
+c3OCwxMzMxNDAzNjgxLC0xNDY1MjQ2MTQxLC02MDczMzg5NDBd
+fQ==
 -->
