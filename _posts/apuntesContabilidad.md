@@ -57,10 +57,12 @@ Documento que muestra la situciación del patrimonio (Activo, pasivo y neto) de 
 * Cerrar una cuenta: Sumar a ambos lados, saldarla y se le pone dos rayas paralelas al final de la cuenta para indicar que está cerrada.
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzODgyNjE1LDI3MDI5ODY4MiwxNDU5Nj
-U5MTY5LC0xMjUxODg1MDY4LDI5NzI0NDYwMCw1NDQxOTg0NDcs
-LTIwNDQzOTc4MjMsNTk4NTg5NzMyLC0yMDQ0Mzk3ODIzLDE4Nj
-I5NjM0NTcsLTIwNDQzOTc4MjMsLTE2MjgzMjA4NzEsLTE2Mjkw
-NTc4NzYsNjAwNTAzNzYxLC0zNTA1NDg3NTldfQ==
+eyJoaXN0b3J5IjpbLTYyMzc4MjI5OSwxOTM4ODI2MTUsMjcwMj
+k4NjgyLDE0NTk2NTkxNjksLTEyNTE4ODUwNjgsMjk3MjQ0NjAw
+LDU0NDE5ODQ0NywtMjA0NDM5NzgyMyw1OTg1ODk3MzIsLTIwND
+QzOTc4MjMsMTg2Mjk2MzQ1NywtMjA0NDM5NzgyMywtMTYyODMy
+MDg3MSwtMTYyOTA1Nzg3Niw2MDA1MDM3NjEsLTM1MDU0ODc1OV
+19
 -->
