@@ -172,16 +172,17 @@ a{color: initial;}
 ```
 #### Box model
 Layout -> geometría de cada elemento (tamaños, posción, separación...)
-Los elementos de línea no tiene height ni width propios (por ejemplo <span>)
+Los elementos de línea no tiene height, width, margin, padding propios (por ejemplo <span>)
 ```css
-h1 { display: inline;
+h1 { display: inline;} /* Obligo al alemento a ser de línea */
+span{ display: block;} 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDg0MzE0NzIsMTAyNjYyNDgyMywtNT
-c4MDA3MDUyLDE2OTA1NDYwMDMsNzA5ODM0NDQ0LDE0Mzg1OTQ0
-NSwzNjkwMzM2MTAsNjQyOTQ4ODQ1LC04MzMzMjgzOTcsMTIzOT
-g1MzIzMywxMjY4Mzc3MzkxLDU5NzI3MDc3OCwxMzMxNDAzNjgx
-LC0xNDY1MjQ2MTQxLC02MDczMzg5NDAsLTE0MDQwNTY0NzIsLT
-EyMjEzMTg4MzAsMjA1MTE0MzAsLTg4NTI4MTkwNSwtMTUyNjIz
-MzY2XX0=
+eyJoaXN0b3J5IjpbMzgxOTMzMzY2LDEwMjY2MjQ4MjMsLTU3OD
+AwNzA1MiwxNjkwNTQ2MDAzLDcwOTgzNDQ0NCwxNDM4NTk0NDUs
+MzY5MDMzNjEwLDY0Mjk0ODg0NSwtODMzMzI4Mzk3LDEyMzk4NT
+MyMzMsMTI2ODM3NzM5MSw1OTcyNzA3NzgsMTMzMTQwMzY4MSwt
+MTQ2NTI0NjE0MSwtNjA3MzM4OTQwLC0xNDA0MDU2NDcyLC0xMj
+IxMzE4ODMwLDIwNTExNDMwLC04ODUyODE5MDUsLTE1MjYyMzM2
+Nl19
 -->
