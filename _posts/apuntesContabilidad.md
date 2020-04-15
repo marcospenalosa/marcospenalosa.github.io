@@ -41,13 +41,15 @@ En el caso de la empresa:
 Documento que muestra la situciación del patrimonio (Activo, pasivo y neto) de la empresa en una determinada fecha.
 ![balanceContable.png](https://github.com/marcospenalosa/marcospenalosa.github.io/blob/master/_posts/img/apuntesContabilidad/balanceContable.png?raw=true)Balance contable -> Activo = Pasivo + Neto (Patrimimonio en la imagen)
 ## Hechos contables y cuentas.
-<img src="https://raw.githubusercontent.com/marcospenalosa/marcospenalosa.github.io/master/_posts/img/apuntesContabilidad/cuentaContable.png" align="center">
+<p align="center"><img src="https://raw.githubusercontent.com/marcospenalosa/marcospenalosa.github.io/master/_posts/img/apuntesContabilidad/cuentaContable.png"> <Cuenta contable</p>
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY1OTQwNjIxLDI3MDI5ODY4MiwxNDU5Nj
-U5MTY5LC0xMjUxODg1MDY4LDI5NzI0NDYwMCw1NDQxOTg0NDcs
-LTIwNDQzOTc4MjMsNTk4NTg5NzMyLC0yMDQ0Mzk3ODIzLDE4Nj
-I5NjM0NTcsLTIwNDQzOTc4MjMsLTE2MjgzMjA4NzEsLTE2Mjkw
-NTc4NzYsNjAwNTAzNzYxLC0zNTA1NDg3NTldfQ==
+eyJoaXN0b3J5IjpbMTc5MjA5NDA3NiwyNzAyOTg2ODIsMTQ1OT
+Y1OTE2OSwtMTI1MTg4NTA2OCwyOTcyNDQ2MDAsNTQ0MTk4NDQ3
+LC0yMDQ0Mzk3ODIzLDU5ODU4OTczMiwtMjA0NDM5NzgyMywxOD
+YyOTYzNDU3LC0yMDQ0Mzk3ODIzLC0xNjI4MzIwODcxLC0xNjI5
+MDU3ODc2LDYwMDUwMzc2MSwtMzUwNTQ4NzU5XX0=
 -->
