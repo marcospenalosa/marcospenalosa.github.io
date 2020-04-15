@@ -215,13 +215,15 @@ Colapsado de márgenes (solo ocurre de manera vertical), si tengo un article y u
 
 Las buenas prácticas dicen que solo se usen en una sola dirección y lo mejor es **margin-bottom**. Si hay un margin-top y un margin-bottom en otro elemento no se suman.
 
+Padding: Si se usa porcentaje, 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTM5MTQ1NCw2ODAxODE2MzIsLTc5OD
-E5MDUyOCw3ODMzMzE1ODMsLTYwODM4OTIsLTEyMDY3Njg4NTYs
-MTAyNjYyNDgyMywtNTc4MDA3MDUyLDE2OTA1NDYwMDMsNzA5OD
-M0NDQ0LDE0Mzg1OTQ0NSwzNjkwMzM2MTAsNjQyOTQ4ODQ1LC04
-MzMzMjgzOTcsMTIzOTg1MzIzMywxMjY4Mzc3MzkxLDU5NzI3MD
-c3OCwxMzMxNDAzNjgxLC0xNDY1MjQ2MTQxLC02MDczMzg5NDBd
-fQ==
+eyJoaXN0b3J5IjpbLTEzMDE4MjM5OTUsMjA1NTM5MTQ1NCw2OD
+AxODE2MzIsLTc5ODE5MDUyOCw3ODMzMzE1ODMsLTYwODM4OTIs
+LTEyMDY3Njg4NTYsMTAyNjYyNDgyMywtNTc4MDA3MDUyLDE2OT
+A1NDYwMDMsNzA5ODM0NDQ0LDE0Mzg1OTQ0NSwzNjkwMzM2MTAs
+NjQyOTQ4ODQ1LC04MzMzMjgzOTcsMTIzOTg1MzIzMywxMjY4Mz
+c3MzkxLDU5NzI3MDc3OCwxMzMxNDAzNjgxLC0xNDY1MjQ2MTQx
+XX0=
 -->
