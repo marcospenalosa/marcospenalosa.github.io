@@ -45,13 +45,15 @@ Documento que muestra la situciación del patrimonio (Activo, pasivo y neto) de 
 
 * Cargar cuenta
   * Al Debe
- *  
+ * Abonar cuenta:
+   *  Al Haber
+* Saldo de una cuenta: 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNDY0NDUsMjcwMjk4NjgyLDE0NTk2NT
-kxNjksLTEyNTE4ODUwNjgsMjk3MjQ0NjAwLDU0NDE5ODQ0Nywt
-MjA0NDM5NzgyMyw1OTg1ODk3MzIsLTIwNDQzOTc4MjMsMTg2Mj
-k2MzQ1NywtMjA0NDM5NzgyMywtMTYyODMyMDg3MSwtMTYyOTA1
-Nzg3Niw2MDA1MDM3NjEsLTM1MDU0ODc1OV19
+eyJoaXN0b3J5IjpbMTc2NzU2NjY5NSwyNzAyOTg2ODIsMTQ1OT
+Y1OTE2OSwtMTI1MTg4NTA2OCwyOTcyNDQ2MDAsNTQ0MTk4NDQ3
+LC0yMDQ0Mzk3ODIzLDU5ODU4OTczMiwtMjA0NDM5NzgyMywxOD
+YyOTYzNDU3LC0yMDQ0Mzk3ODIzLC0xNjI4MzIwODcxLC0xNjI5
+MDU3ODc2LDYwMDUwMzc2MSwtMzUwNTQ4NzU5XX0=
 -->
