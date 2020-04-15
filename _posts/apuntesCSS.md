@@ -210,14 +210,16 @@ Box sizing, propiedad para cambiar la forma en que suma el total de la caja
   * Para centrar un elemento.
     * margin-left: auto;
     * margin-right: auto;
+  
+Colapsado de márgenes (solo ocurre de manera vertical)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgwMTgxNjMyLC03OTgxOTA1MjgsNzgzMz
-MxNTgzLC02MDgzODkyLC0xMjA2NzY4ODU2LDEwMjY2MjQ4MjMs
-LTU3ODAwNzA1MiwxNjkwNTQ2MDAzLDcwOTgzNDQ0NCwxNDM4NT
-k0NDUsMzY5MDMzNjEwLDY0Mjk0ODg0NSwtODMzMzI4Mzk3LDEy
-Mzk4NTMyMzMsMTI2ODM3NzM5MSw1OTcyNzA3NzgsMTMzMTQwMz
-Y4MSwtMTQ2NTI0NjE0MSwtNjA3MzM4OTQwLC0xNDA0MDU2NDcy
-XX0=
+eyJoaXN0b3J5IjpbNTEwMDQ5OTc4LDY4MDE4MTYzMiwtNzk4MT
+kwNTI4LDc4MzMzMTU4MywtNjA4Mzg5MiwtMTIwNjc2ODg1Niwx
+MDI2NjI0ODIzLC01NzgwMDcwNTIsMTY5MDU0NjAwMyw3MDk4Mz
+Q0NDQsMTQzODU5NDQ1LDM2OTAzMzYxMCw2NDI5NDg4NDUsLTgz
+MzMyODM5NywxMjM5ODUzMjMzLDEyNjgzNzczOTEsNTk3MjcwNz
+c4LDEzMzE0MDM2ODEsLTE0NjUyNDYxNDEsLTYwNzMzODk0MF19
+
 -->
