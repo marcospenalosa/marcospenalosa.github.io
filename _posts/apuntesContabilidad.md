@@ -73,12 +73,12 @@ Hay dos libros principales:
     * ----------------------a ----------------------
     * ---- Cantidad - Nº cuenta - Nombre (H)
     
-https://raw.githubusercontent.com/marcospenalosa/marcospenalosa.github.io/master/_posts/img/apuntesContabilidad/ejemploLibroDiarioAsientos.png)
+<p align="center"><img src="https://raw.githubusercontent.com/marcospenalosa/marcospenalosa.github.io/master/_posts/img/apuntesContabilidad/ejemploLibroDiarioAsientos.png"></p>
 
 * Libro Mayor
   * Aparecen **todas** las cuentas que se anotan en el libro *diario*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MDYzMDE2NywtNjkwMjc4OTQ1LDg1Mz
+eyJoaXN0b3J5IjpbMTEwNjg2NDIzMCwtNjkwMjc4OTQ1LDg1Mz
 c1OTc2OCwtMTAwOTE1NDkyNCwxOTM4ODI2MTUsMjcwMjk4Njgy
 LDE0NTk2NTkxNjksLTEyNTE4ODUwNjgsMjk3MjQ0NjAwLDU0ND
 E5ODQ0NywtMjA0NDM5NzgyMyw1OTg1ODk3MzIsLTIwNDQzOTc4
