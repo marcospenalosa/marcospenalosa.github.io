@@ -53,13 +53,14 @@ Documento que muestra la situciación del patrimonio (Activo, pasivo y neto) de 
   * Acreedor: Debe < Haber.
   * Saldo 0 : Debe = Haber
 
-* Saldar una cuenta: Se suma en
+* Saldar una cuenta: Se suma en la parte que menos importe hay una cantidad para dejarla a 0.
+* Cerrar una cuenta: Sumar a ambos lados, saldarla y se le pone dos rayas paralelas al final de la cuenta para indicar que está cerrada.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjE5NjkwNDQsMjcwMjk4NjgyLDE0NT
-k2NTkxNjksLTEyNTE4ODUwNjgsMjk3MjQ0NjAwLDU0NDE5ODQ0
-NywtMjA0NDM5NzgyMyw1OTg1ODk3MzIsLTIwNDQzOTc4MjMsMT
-g2Mjk2MzQ1NywtMjA0NDM5NzgyMywtMTYyODMyMDg3MSwtMTYy
-OTA1Nzg3Niw2MDA1MDM3NjEsLTM1MDU0ODc1OV19
+eyJoaXN0b3J5IjpbMTkzODgyNjE1LDI3MDI5ODY4MiwxNDU5Nj
+U5MTY5LC0xMjUxODg1MDY4LDI5NzI0NDYwMCw1NDQxOTg0NDcs
+LTIwNDQzOTc4MjMsNTk4NTg5NzMyLC0yMDQ0Mzk3ODIzLDE4Nj
+I5NjM0NTcsLTIwNDQzOTc4MjMsLTE2MjgzMjA4NzEsLTE2Mjkw
+NTc4NzYsNjAwNTAzNzYxLC0zNTA1NDg3NTldfQ==
 -->
