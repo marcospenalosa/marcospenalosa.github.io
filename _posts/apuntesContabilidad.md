@@ -60,13 +60,14 @@ Documento que muestra la situciación del patrimonio (Activo, pasivo y neto) de 
 ## Partida doble
 * Partida doble implica que:
   *  Cargo en una cuenta -> Abono en otra
-  * 
+  *  Abono en una cuenta -> Cargo en otra
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyMjEwMDcyLDE5Mzg4MjYxNSwyNzAyOT
-g2ODIsMTQ1OTY1OTE2OSwtMTI1MTg4NTA2OCwyOTcyNDQ2MDAs
-NTQ0MTk4NDQ3LC0yMDQ0Mzk3ODIzLDU5ODU4OTczMiwtMjA0ND
-M5NzgyMywxODYyOTYzNDU3LC0yMDQ0Mzk3ODIzLC0xNjI4MzIw
-ODcxLC0xNjI5MDU3ODc2LDYwMDUwMzc2MSwtMzUwNTQ4NzU5XX
-0=
+eyJoaXN0b3J5IjpbLTEwMDkxNTQ5MjQsMTkzODgyNjE1LDI3MD
+I5ODY4MiwxNDU5NjU5MTY5LC0xMjUxODg1MDY4LDI5NzI0NDYw
+MCw1NDQxOTg0NDcsLTIwNDQzOTc4MjMsNTk4NTg5NzMyLC0yMD
+Q0Mzk3ODIzLDE4NjI5NjM0NTcsLTIwNDQzOTc4MjMsLTE2Mjgz
+MjA4NzEsLTE2MjkwNTc4NzYsNjAwNTAzNzYxLC0zNTA1NDg3NT
+ldfQ==
 -->
