@@ -222,13 +222,15 @@ Padding: Si se usa porcentaje, utiliza el width del padre para calcular el tamaÃ
  padding-bottom:56.25% (16:9)
 }
 ```
-height:  500vh; 
+height:  50vh; 
 width: 100vw;
+vh y vw -> viewportHeight viewportWidth ( 50 % de la pantalla , 100 %)
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzODY3NjA1NCwtMTk1NDQ2NTc4MCwyMD
+eyJoaXN0b3J5IjpbLTMyNjYzNDQzNiwtMTk1NDQ2NTc4MCwyMD
 U1MzkxNDU0LDY4MDE4MTYzMiwtNzk4MTkwNTI4LDc4MzMzMTU4
 MywtNjA4Mzg5MiwtMTIwNjc2ODg1NiwxMDI2NjI0ODIzLC01Nz
 gwMDcwNTIsMTY5MDU0NjAwMyw3MDk4MzQ0NDQsMTQzODU5NDQ1
