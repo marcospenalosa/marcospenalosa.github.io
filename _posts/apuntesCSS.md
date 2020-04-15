@@ -211,11 +211,13 @@ Box sizing, propiedad para cambiar la forma en que suma el total de la caja
     * margin-left: auto;
     * margin-right: auto;
   
-Colapsado de márgenes (solo ocurre de manera vertical), si tengo un article y un h1 dentro, el h1 manda en el margen y deja una separación, para ello hay que poner un padding-top:
+Colapsado de márgenes (solo ocurre de manera vertical), si tengo un article y un h1 dentro, el h1 manda en el margen y deja una separación, para ello hay que poner un padding-top:0.1px;
+
+Las buenas prácticas dicen que solo se usen en una sola dirección y lo mejor es **margin-bottom**. Si hay un margin-top y un margin-botton en otro
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTM2MjIxMzEsNjgwMTgxNjMyLC03OT
+eyJoaXN0b3J5IjpbLTEyNTYzMzEzNzcsNjgwMTgxNjMyLC03OT
 gxOTA1MjgsNzgzMzMxNTgzLC02MDgzODkyLC0xMjA2NzY4ODU2
 LDEwMjY2MjQ4MjMsLTU3ODAwNzA1MiwxNjkwNTQ2MDAzLDcwOT
 gzNDQ0NCwxNDM4NTk0NDUsMzY5MDMzNjEwLDY0Mjk0ODg0NSwt
