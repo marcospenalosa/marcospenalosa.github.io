@@ -41,12 +41,44 @@ En el caso de la empresa:
 Documento que muestra la situciación del patrimonio (Activo, pasivo y neto) de la empresa en una determinada fecha.
 ![balanceContable.png](https://github.com/marcospenalosa/marcospenalosa.github.io/blob/master/_posts/img/apuntesContabilidad/balanceContable.png?raw=true)Balance contable -> Activo = Pasivo + Neto (Patrimimonio en la imagen)
 ## Hechos contables y cuentas.
+<p align="center"><img src="https://raw.githubusercontent.com/marcospenalosa/marcospenalosa.github.io/master/_posts/img/apuntesContabilidad/cuentaContable.png"> <br>Cuenta contable</p>
 
+* Cargar cuenta
+  * Al Debe
+ * Abonar cuenta:
+   *  Al Haber
+ 
+* Saldo de una cuenta: Diferencia entre el Debe y el Haber
+  * Deudor: Debe > Haber
+  * Acreedor: Debe < Haber.
+  * Saldo 0 : Debe = Haber
 
+* Saldar una cuenta: Se suma en la parte que menos importe hay una cantidad para dejarla a 0.
+* Cerrar una cuenta: Sumar a ambos lados, saldarla y se le pone dos rayas paralelas al final de la cuenta para indicar que está cerrada.
+
+[Buena explicación del funcionamiento de las cuentas](https://www.plangeneralcontable.com/?tit=funcionamiento-de-una-cuenta-contable&name=Abanfin&fid=econcep)
+## Partida doble
+* Partida doble implica que:
+  *  Cargo en una cuenta -> Abono en otra
+  *  Abono en una cuenta -> Cargo en otra
+## Libros de ccontabilidad
+Hay dos libros principales:
+* Libro Diaro
+  * Hechos Contables
+  * Forma Cronológica
+  * Cada anotación -> Asientos
+    *  Nº asiento ------ Fecha ------------------
+    * Debe ------------------------------ Haber  
+    * (D) Cantidad - Nº cuenta - Nombre ----
+    * ----------------------a ----------------------
+    * ---- Cantidad - Nº cuenta - Nombre (H)
+* Libro Mayor
+  * Aparecen **todas** las cuentas que se anotan en el libro *diario*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTY1OTE2OSwtMTI1MTg4NTA2OCwyOT
-cyNDQ2MDAsNTQ0MTk4NDQ3LC0yMDQ0Mzk3ODIzLDU5ODU4OTcz
-MiwtMjA0NDM5NzgyMywxODYyOTYzNDU3LC0yMDQ0Mzk3ODIzLC
-0xNjI4MzIwODcxLC0xNjI5MDU3ODc2LDYwMDUwMzc2MSwtMzUw
-NTQ4NzU5XX0=
+eyJoaXN0b3J5IjpbLTY5MDI3ODk0NSw4NTM3NTk3NjgsLTEwMD
+kxNTQ5MjQsMTkzODgyNjE1LDI3MDI5ODY4MiwxNDU5NjU5MTY5
+LC0xMjUxODg1MDY4LDI5NzI0NDYwMCw1NDQxOTg0NDcsLTIwND
+QzOTc4MjMsNTk4NTg5NzMyLC0yMDQ0Mzk3ODIzLDE4NjI5NjM0
+NTcsLTIwNDQzOTc4MjMsLTE2MjgzMjA4NzEsLTE2MjkwNTc4Nz
+YsNjAwNTAzNzYxLC0zNTA1NDg3NTldfQ==
 -->
