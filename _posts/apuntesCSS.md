@@ -189,14 +189,18 @@ Box model es algoritmo como el navegador interpreta el css.
   * Border 
 * Margin
   * Margin
-
-
+Box sizing, propiedad para cambiar la forma en que suma el total de la caja
+```css
+.box{
+ 
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwODM4OTIsLTEyMDY3Njg4NTYsMTAyNj
-YyNDgyMywtNTc4MDA3MDUyLDE2OTA1NDYwMDMsNzA5ODM0NDQ0
-LDE0Mzg1OTQ0NSwzNjkwMzM2MTAsNjQyOTQ4ODQ1LC04MzMzMj
-gzOTcsMTIzOTg1MzIzMywxMjY4Mzc3MzkxLDU5NzI3MDc3OCwx
-MzMxNDAzNjgxLC0xNDY1MjQ2MTQxLC02MDczMzg5NDAsLTE0MD
-QwNTY0NzIsLTEyMjEzMTg4MzAsMjA1MTE0MzAsLTg4NTI4MTkw
-NV19
+eyJoaXN0b3J5IjpbLTEzMTM4OTgwOTgsLTYwODM4OTIsLTEyMD
+Y3Njg4NTYsMTAyNjYyNDgyMywtNTc4MDA3MDUyLDE2OTA1NDYw
+MDMsNzA5ODM0NDQ0LDE0Mzg1OTQ0NSwzNjkwMzM2MTAsNjQyOT
+Q4ODQ1LC04MzMzMjgzOTcsMTIzOTg1MzIzMywxMjY4Mzc3Mzkx
+LDU5NzI3MDc3OCwxMzMxNDAzNjgxLC0xNDY1MjQ2MTQxLC02MD
+czMzg5NDAsLTE0MDQwNTY0NzIsLTEyMjEzMTg4MzAsMjA1MTE0
+MzBdfQ==
 -->
