@@ -181,17 +181,16 @@ span{ display: block;} /* Obligo al elemnto a ser de bloque */
 ```
 Box model es algoritmo como el navegador interpreta el css.
 * Content
-* width
-* height
-* padding
-* border
-* margin
+* Padding box
+* Border
+* Margin
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNDU5NDUwNiwxMDI2NjI0ODIzLC01Nz
-gwMDcwNTIsMTY5MDU0NjAwMyw3MDk4MzQ0NDQsMTQzODU5NDQ1
-LDM2OTAzMzYxMCw2NDI5NDg4NDUsLTgzMzMyODM5NywxMjM5OD
-UzMjMzLDEyNjgzNzczOTEsNTk3MjcwNzc4LDEzMzE0MDM2ODEs
-LTE0NjUyNDYxNDEsLTYwNzMzODk0MCwtMTQwNDA1NjQ3MiwtMT
-IyMTMxODgzMCwyMDUxMTQzMCwtODg1MjgxOTA1LC0xNTI2MjMz
-NjZdfQ==
+eyJoaXN0b3J5IjpbLTEyMDY3Njg4NTYsMTAyNjYyNDgyMywtNT
+c4MDA3MDUyLDE2OTA1NDYwMDMsNzA5ODM0NDQ0LDE0Mzg1OTQ0
+NSwzNjkwMzM2MTAsNjQyOTQ4ODQ1LC04MzMzMjgzOTcsMTIzOT
+g1MzIzMywxMjY4Mzc3MzkxLDU5NzI3MDc3OCwxMzMxNDAzNjgx
+LC0xNDY1MjQ2MTQxLC02MDczMzg5NDAsLTE0MDQwNTY0NzIsLT
+EyMjEzMTg4MzAsMjA1MTE0MzAsLTg4NTI4MTkwNSwtMTUyNjIz
+MzY2XX0=
 -->
