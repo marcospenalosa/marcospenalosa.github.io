@@ -199,12 +199,14 @@ Box sizing, propiedad para cambiar la forma en que suma el total de la caja
  /* Calcula la suma de la caja hasta el borde con el width y height que declaremos --> 500x300 en el ejemplo */
 ```
 
-Margin
-
+* Margin
+  * margin- top
+  * margin-bottom
+  * margin-
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODUyOTYxNTYsLTYwODM4OTIsLTEyMD
+eyJoaXN0b3J5IjpbLTEzNjQzNzk1NDEsLTYwODM4OTIsLTEyMD
 Y3Njg4NTYsMTAyNjYyNDgyMywtNTc4MDA3MDUyLDE2OTA1NDYw
 MDMsNzA5ODM0NDQ0LDE0Mzg1OTQ0NSwzNjkwMzM2MTAsNjQyOT
 Q4ODQ1LC04MzMzMjgzOTcsMTIzOTg1MzIzMywxMjY4Mzc3Mzkx
