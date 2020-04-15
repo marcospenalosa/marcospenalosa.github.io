@@ -201,16 +201,18 @@ Box sizing, propiedad para cambiar la forma en que suma el total de la caja
 
 * Margin
   * margin- top
+  * margin-rigth
   * margin-bottom
-  * margin-
+  * margin-left
+  * margin: 50px 100px 200px 30px; (top - rigth - bottom - left)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjQzNzk1NDEsLTYwODM4OTIsLTEyMD
-Y3Njg4NTYsMTAyNjYyNDgyMywtNTc4MDA3MDUyLDE2OTA1NDYw
-MDMsNzA5ODM0NDQ0LDE0Mzg1OTQ0NSwzNjkwMzM2MTAsNjQyOT
-Q4ODQ1LC04MzMzMjgzOTcsMTIzOTg1MzIzMywxMjY4Mzc3Mzkx
-LDU5NzI3MDc3OCwxMzMxNDAzNjgxLC0xNDY1MjQ2MTQxLC02MD
-czMzg5NDAsLTE0MDQwNTY0NzIsLTEyMjEzMTg4MzAsMjA1MTE0
-MzBdfQ==
+eyJoaXN0b3J5IjpbOTcyNzE0MzY4LC02MDgzODkyLC0xMjA2Nz
+Y4ODU2LDEwMjY2MjQ4MjMsLTU3ODAwNzA1MiwxNjkwNTQ2MDAz
+LDcwOTgzNDQ0NCwxNDM4NTk0NDUsMzY5MDMzNjEwLDY0Mjk0OD
+g0NSwtODMzMzI4Mzk3LDEyMzk4NTMyMzMsMTI2ODM3NzM5MSw1
+OTcyNzA3NzgsMTMzMTQwMzY4MSwtMTQ2NTI0NjE0MSwtNjA3Mz
+M4OTQwLC0xNDA0MDU2NDcyLC0xMjIxMzE4ODMwLDIwNTExNDMw
+XX0=
 -->
