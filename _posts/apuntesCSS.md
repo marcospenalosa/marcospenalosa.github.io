@@ -256,16 +256,15 @@ box-shadow: h-offset v-offset blur spread color | inset
 
 ```css
 .box{
- border: 100px solid black;
- border-width: 100px;
- border-style: solid;
- border-color: black;
- border-radius: 25px;
+ box-shadow: 0 0 0 10px blue,
+	     0 0 0 20px grenn;
+	     0 0 0 30px yellow;
 }
+/* Creamos la sensación de múltiples bordes. */
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODU1MDY4OSwxNTY0NjgxMjQwLDI1NT
+eyJoaXN0b3J5IjpbMTY0NjU0NzQ1NSwxNTY0NjgxMjQwLDI1NT
 Y0MzY5OSwzMzE5NjYzODAsNDA5MDE3MjI4LC0xOTU0NDY1Nzgw
 LDIwNTUzOTE0NTQsNjgwMTgxNjMyLC03OTgxOTA1MjgsNzgzMz
 MxNTgzLC02MDgzODkyLC0xMjA2NzY4ODU2LDEwMjY2MjQ4MjMs
