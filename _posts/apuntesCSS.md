@@ -250,14 +250,15 @@ Propiedades:
 /* border-top-left-radius: 100px 20px hace una elipse */
 /* border: x x x x / y y y y; */
 ```
-**outline** es una línea que se dibuja por fuera de la caja y se suele usar para ins
+**outline** es una línea que se dibuja por fuera de la caja y se suele usar para inspeccionar el layout.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MTkzMjI0LDE1NjQ2ODEyNDAsMjU1Nj
-QzNjk5LDMzMTk2NjM4MCw0MDkwMTcyMjgsLTE5NTQ0NjU3ODAs
-MjA1NTM5MTQ1NCw2ODAxODE2MzIsLTc5ODE5MDUyOCw3ODMzMz
-E1ODMsLTYwODM4OTIsLTEyMDY3Njg4NTYsMTAyNjYyNDgyMywt
-NTc4MDA3MDUyLDE2OTA1NDYwMDMsNzA5ODM0NDQ0LDE0Mzg1OT
-Q0NSwzNjkwMzM2MTAsNjQyOTQ4ODQ1LC04MzMzMjgzOTddfQ==
+eyJoaXN0b3J5IjpbLTM2NTU0MTc5MywxNTY0NjgxMjQwLDI1NT
+Y0MzY5OSwzMzE5NjYzODAsNDA5MDE3MjI4LC0xOTU0NDY1Nzgw
+LDIwNTUzOTE0NTQsNjgwMTgxNjMyLC03OTgxOTA1MjgsNzgzMz
+MxNTgzLC02MDgzODkyLC0xMjA2NzY4ODU2LDEwMjY2MjQ4MjMs
+LTU3ODAwNzA1MiwxNjkwNTQ2MDAzLDcwOTgzNDQ0NCwxNDM4NT
+k0NDUsMzY5MDMzNjEwLDY0Mjk0ODg0NSwtODMzMzI4Mzk3XX0=
 
 -->
