@@ -252,7 +252,7 @@ Propiedades:
 ```
 **outline** es una línea que se dibuja por fuera de la caja y se suele usar para inspeccionar el layout.
 **Sombras** son la copia exacta del mismo elemento desplazado una distancia.
-box-shadow: h-offset v-offset (blur spread color | inset)
+box-shadow: h-offset v-offset blur spread color | inset
 
 ```css
 .box{
@@ -265,11 +265,11 @@ box-shadow: h-offset v-offset (blur spread color | inset)
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2NTE3MTIwLDE1NjQ2ODEyNDAsMjU1Nj
-QzNjk5LDMzMTk2NjM4MCw0MDkwMTcyMjgsLTE5NTQ0NjU3ODAs
-MjA1NTM5MTQ1NCw2ODAxODE2MzIsLTc5ODE5MDUyOCw3ODMzMz
-E1ODMsLTYwODM4OTIsLTEyMDY3Njg4NTYsMTAyNjYyNDgyMywt
-NTc4MDA3MDUyLDE2OTA1NDYwMDMsNzA5ODM0NDQ0LDE0Mzg1OT
-Q0NSwzNjkwMzM2MTAsNjQyOTQ4ODQ1LC04MzMzMjgzOTddfQ==
+eyJoaXN0b3J5IjpbMTc5ODU1MDY4OSwxNTY0NjgxMjQwLDI1NT
+Y0MzY5OSwzMzE5NjYzODAsNDA5MDE3MjI4LC0xOTU0NDY1Nzgw
+LDIwNTUzOTE0NTQsNjgwMTgxNjMyLC03OTgxOTA1MjgsNzgzMz
+MxNTgzLC02MDgzODkyLC0xMjA2NzY4ODU2LDEwMjY2MjQ4MjMs
+LTU3ODAwNzA1MiwxNjkwNTQ2MDAzLDcwOTgzNDQ0NCwxNDM4NT
+k0NDUsMzY5MDMzNjEwLDY0Mjk0ODg0NSwtODMzMzI4Mzk3XX0=
 
 -->
