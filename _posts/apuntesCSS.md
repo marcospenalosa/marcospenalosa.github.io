@@ -251,8 +251,9 @@ Propiedades:
 /* border: x x x x / y y y y; */
 ```
 **outline** es una línea que se dibuja por fuera de la caja y se suele usar para inspeccionar el layout.
-
+**Sombras** son la copia exacta del mismo elemento desplazado una distancia.
 box-shadow: h-offset v-offset (blur spread color | inset)
+
 ```css
 .box{
  border: 100px solid black;
@@ -261,13 +262,14 @@ box-shadow: h-offset v-offset (blur spread color | inset)
  border-color: black;
  border-radius: 25px;
 }
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjE1NTczNzQsMTU2NDY4MTI0MCwyNT
-U2NDM2OTksMzMxOTY2MzgwLDQwOTAxNzIyOCwtMTk1NDQ2NTc4
-MCwyMDU1MzkxNDU0LDY4MDE4MTYzMiwtNzk4MTkwNTI4LDc4Mz
-MzMTU4MywtNjA4Mzg5MiwtMTIwNjc2ODg1NiwxMDI2NjI0ODIz
-LC01NzgwMDcwNTIsMTY5MDU0NjAwMyw3MDk4MzQ0NDQsMTQzOD
-U5NDQ1LDM2OTAzMzYxMCw2NDI5NDg4NDUsLTgzMzMyODM5N119
+eyJoaXN0b3J5IjpbODQ2NTE3MTIwLDE1NjQ2ODEyNDAsMjU1Nj
+QzNjk5LDMzMTk2NjM4MCw0MDkwMTcyMjgsLTE5NTQ0NjU3ODAs
+MjA1NTM5MTQ1NCw2ODAxODE2MzIsLTc5ODE5MDUyOCw3ODMzMz
+E1ODMsLTYwODM4OTIsLTEyMDY3Njg4NTYsMTAyNjYyNDgyMywt
+NTc4MDA3MDUyLDE2OTA1NDYwMDMsNzA5ODM0NDQ0LDE0Mzg1OT
+Q0NSwzNjkwMzM2MTAsNjQyOTQ4ODQ1LC04MzMzMjgzOTddfQ==
 
 -->
