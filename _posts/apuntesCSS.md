@@ -243,11 +243,12 @@ Propiedades:
  border-style: solid;
  border-color: black;
 }
-/* border-top, -right, -bottom
+/*bo
+/* border-top, -right, -bottom, -left */
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTQ5OTA0MjUsMzMxOTY2MzgwLDQwOT
+eyJoaXN0b3J5IjpbLTEzMjc4NjQ4OTAsMzMxOTY2MzgwLDQwOT
 AxNzIyOCwtMTk1NDQ2NTc4MCwyMDU1MzkxNDU0LDY4MDE4MTYz
 MiwtNzk4MTkwNTI4LDc4MzMzMTU4MywtNjA4Mzg5MiwtMTIwNj
 c2ODg1NiwxMDI2NjI0ODIzLC01NzgwMDcwNTIsMTY5MDU0NjAw
