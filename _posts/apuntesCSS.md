@@ -252,13 +252,22 @@ Propiedades:
 ```
 **outline** es una línea que se dibuja por fuera de la caja y se suele usar para inspeccionar el layout.
 
+box-shadow: h-offset v-offset (blur spread color | inset)
+```css
+.box{
+ border: 100px solid black;
+ border-width: 100px;
+ border-style: solid;
+ border-color: black;
+ border-radius: 25px;
+}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NTU0MTc5MywxNTY0NjgxMjQwLDI1NT
-Y0MzY5OSwzMzE5NjYzODAsNDA5MDE3MjI4LC0xOTU0NDY1Nzgw
-LDIwNTUzOTE0NTQsNjgwMTgxNjMyLC03OTgxOTA1MjgsNzgzMz
-MxNTgzLC02MDgzODkyLC0xMjA2NzY4ODU2LDEwMjY2MjQ4MjMs
-LTU3ODAwNzA1MiwxNjkwNTQ2MDAzLDcwOTgzNDQ0NCwxNDM4NT
-k0NDUsMzY5MDMzNjEwLDY0Mjk0ODg0NSwtODMzMzI4Mzk3XX0=
+eyJoaXN0b3J5IjpbLTEyNjE1NTczNzQsMTU2NDY4MTI0MCwyNT
+U2NDM2OTksMzMxOTY2MzgwLDQwOTAxNzIyOCwtMTk1NDQ2NTc4
+MCwyMDU1MzkxNDU0LDY4MDE4MTYzMiwtNzk4MTkwNTI4LDc4Mz
+MzMTU4MywtNjA4Mzg5MiwtMTIwNjc2ODg1NiwxMDI2NjI0ODIz
+LC01NzgwMDcwNTIsMTY5MDU0NjAwMyw3MDk4MzQ0NDQsMTQzOD
+U5NDQ1LDM2OTAzMzYxMCw2NDI5NDg4NDUsLTgzMzMyODM5N119
 
 -->
