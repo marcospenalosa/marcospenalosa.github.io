@@ -198,7 +198,7 @@ Box sizing, propiedad para cambiar la forma en que suma el total de la caja
 }
  /* Calcula la suma de la caja hasta el borde con el width y height que declaremos --> 500x300 en el ejemplo */
 ```
-
+Se recomienda poner en la hoja de estilos css 
 * Margin
   * margin- top
   * margin-right
@@ -232,11 +232,11 @@ Si el alto es automático, al hijo no se le puede aplicar un alto con porcentaje
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5MDE3MjI4LC0xOTU0NDY1NzgwLDIwNT
-UzOTE0NTQsNjgwMTgxNjMyLC03OTgxOTA1MjgsNzgzMzMxNTgz
-LC02MDgzODkyLC0xMjA2NzY4ODU2LDEwMjY2MjQ4MjMsLTU3OD
-AwNzA1MiwxNjkwNTQ2MDAzLDcwOTgzNDQ0NCwxNDM4NTk0NDUs
-MzY5MDMzNjEwLDY0Mjk0ODg0NSwtODMzMzI4Mzk3LDEyMzk4NT
-MyMzMsMTI2ODM3NzM5MSw1OTcyNzA3NzgsMTMzMTQwMzY4MV19
+eyJoaXN0b3J5IjpbLTI0MTg0ODU1NCw0MDkwMTcyMjgsLTE5NT
+Q0NjU3ODAsMjA1NTM5MTQ1NCw2ODAxODE2MzIsLTc5ODE5MDUy
+OCw3ODMzMzE1ODMsLTYwODM4OTIsLTEyMDY3Njg4NTYsMTAyNj
+YyNDgyMywtNTc4MDA3MDUyLDE2OTA1NDYwMDMsNzA5ODM0NDQ0
+LDE0Mzg1OTQ0NSwzNjkwMzM2MTAsNjQyOTQ4ODQ1LC04MzMzMj
+gzOTcsMTIzOTg1MzIzMywxMjY4Mzc3MzkxLDU5NzI3MDc3OF19
 
 -->
