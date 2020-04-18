@@ -252,7 +252,7 @@ Propiedades:
 ```
 **outline** es una línea que se dibuja por fuera de la caja y se suele usar para inspeccionar el layout.
 **Sombras** son la copia exacta del mismo elemento desplazado una distancia.
-box-shadow: h-offset v-offset blur spread color | (inset -> se dibuja la sombra por dentro)
+box-shadow: h-offset v-offset blur spread color | (inset -> se dibuja al lado opuesto)
 
 ```css
 .box{
@@ -261,11 +261,12 @@ box-shadow: h-offset v-offset blur spread color | (inset -> se dibuja la sombra 
 	     0 0 0 30px yellow;
 }
 /* Creamos la sensación de múltiples bordes. */
-box-shadow: -6p 0 0 10px blue,
+box-shadow: -6px -px 40px rgba(0,0,0,.5) inset;
 ```
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzc4ODg3MjQsMTU2NDY4MTI0MCwyNT
+eyJoaXN0b3J5IjpbLTExODI5MzQxODAsMTU2NDY4MTI0MCwyNT
 U2NDM2OTksMzMxOTY2MzgwLDQwOTAxNzIyOCwtMTk1NDQ2NTc4
 MCwyMDU1MzkxNDU0LDY4MDE4MTYzMiwtNzk4MTkwNTI4LDc4Mz
 MzMTU4MywtNjA4Mzg5MiwtMTIwNjc2ODg1NiwxMDI2NjI0ODIz
