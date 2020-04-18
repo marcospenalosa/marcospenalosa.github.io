@@ -247,14 +247,15 @@ Propiedades:
 /*border-style: solid dotted dashed double*/
 /* border-top, -right, -bottom, -left */
 /* border-top-left-radius.... o border-radius:100px 50px 30px 25 px*/
+/* border-top-left-radius: 100px 20px hace una elipse */
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTY5NTQ3OTUsMjU1NjQzNjk5LDMzMT
-k2NjM4MCw0MDkwMTcyMjgsLTE5NTQ0NjU3ODAsMjA1NTM5MTQ1
-NCw2ODAxODE2MzIsLTc5ODE5MDUyOCw3ODMzMzE1ODMsLTYwOD
-M4OTIsLTEyMDY3Njg4NTYsMTAyNjYyNDgyMywtNTc4MDA3MDUy
-LDE2OTA1NDYwMDMsNzA5ODM0NDQ0LDE0Mzg1OTQ0NSwzNjkwMz
-M2MTAsNjQyOTQ4ODQ1LC04MzMzMjgzOTcsMTIzOTg1MzIzM119
+eyJoaXN0b3J5IjpbMTU2NDY4MTI0MCwyNTU2NDM2OTksMzMxOT
+Y2MzgwLDQwOTAxNzIyOCwtMTk1NDQ2NTc4MCwyMDU1MzkxNDU0
+LDY4MDE4MTYzMiwtNzk4MTkwNTI4LDc4MzMzMTU4MywtNjA4Mz
+g5MiwtMTIwNjc2ODg1NiwxMDI2NjI0ODIzLC01NzgwMDcwNTIs
+MTY5MDU0NjAwMyw3MDk4MzQ0NDQsMTQzODU5NDQ1LDM2OTAzMz
+YxMCw2NDI5NDg4NDUsLTgzMzMyODM5NywxMjM5ODUzMjMzXX0=
 
 -->
