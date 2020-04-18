@@ -228,14 +228,15 @@ vh y vw -> viewportHeight viewportWidth ( 50 % de la pantalla , 100 %)
 
 Si el alto es automático, al hijo no se le puede aplicar un alto con porcentaje.
 
+#### Bordes y sombras
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MTE0MTY3MSwtMTk1NDQ2NTc4MCwyMD
-U1MzkxNDU0LDY4MDE4MTYzMiwtNzk4MTkwNTI4LDc4MzMzMTU4
-MywtNjA4Mzg5MiwtMTIwNjc2ODg1NiwxMDI2NjI0ODIzLC01Nz
-gwMDcwNTIsMTY5MDU0NjAwMyw3MDk4MzQ0NDQsMTQzODU5NDQ1
-LDM2OTAzMzYxMCw2NDI5NDg4NDUsLTgzMzMyODM5NywxMjM5OD
-UzMjMzLDEyNjgzNzczOTEsNTk3MjcwNzc4LDEzMzE0MDM2ODFd
-fQ==
+eyJoaXN0b3J5IjpbNDA5MDE3MjI4LC0xOTU0NDY1NzgwLDIwNT
+UzOTE0NTQsNjgwMTgxNjMyLC03OTgxOTA1MjgsNzgzMzMxNTgz
+LC02MDgzODkyLC0xMjA2NzY4ODU2LDEwMjY2MjQ4MjMsLTU3OD
+AwNzA1MiwxNjkwNTQ2MDAzLDcwOTgzNDQ0NCwxNDM4NTk0NDUs
+MzY5MDMzNjEwLDY0Mjk0ODg0NSwtODMzMzI4Mzk3LDEyMzk4NT
+MyMzMsMTI2ODM3NzM5MSw1OTcyNzA3NzgsMTMzMTQwMzY4MV19
+
 -->
