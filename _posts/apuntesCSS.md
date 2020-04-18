@@ -235,14 +235,23 @@ vh y vw -> viewportHeight viewportWidth ( 50 % de la pantalla , 100 %)
 Si el alto es automático, al hijo no se le puede aplicar un alto con porcentaje.
 
 #### Bordes y sombras
-border: ancho
+Propiedades:
+```css
+.box{
+ border: 100px solid black;
+ border-width: 100px;
+ border-style: solid;
+ border-color: black;
+}
+/* border-top, -right, -bottom
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MTM2OTg1LDMzMTk2NjM4MCw0MDkwMT
-cyMjgsLTE5NTQ0NjU3ODAsMjA1NTM5MTQ1NCw2ODAxODE2MzIs
-LTc5ODE5MDUyOCw3ODMzMzE1ODMsLTYwODM4OTIsLTEyMDY3Nj
-g4NTYsMTAyNjYyNDgyMywtNTc4MDA3MDUyLDE2OTA1NDYwMDMs
-NzA5ODM0NDQ0LDE0Mzg1OTQ0NSwzNjkwMzM2MTAsNjQyOTQ4OD
-Q1LC04MzMzMjgzOTcsMTIzOTg1MzIzMywxMjY4Mzc3MzkxXX0=
-
+eyJoaXN0b3J5IjpbLTE1MTQ5OTA0MjUsMzMxOTY2MzgwLDQwOT
+AxNzIyOCwtMTk1NDQ2NTc4MCwyMDU1MzkxNDU0LDY4MDE4MTYz
+MiwtNzk4MTkwNTI4LDc4MzMzMTU4MywtNjA4Mzg5MiwtMTIwNj
+c2ODg1NiwxMDI2NjI0ODIzLC01NzgwMDcwNTIsMTY5MDU0NjAw
+Myw3MDk4MzQ0NDQsMTQzODU5NDQ1LDM2OTAzMzYxMCw2NDI5ND
+g4NDUsLTgzMzMyODM5NywxMjM5ODUzMjMzLDEyNjgzNzczOTFd
+fQ==
 -->
