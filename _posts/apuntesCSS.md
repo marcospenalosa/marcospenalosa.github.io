@@ -242,17 +242,18 @@ Propiedades:
  border-width: 100px;
  border-style: solid;
  border-color: black;
+ border-radius: 25px;
 }
 /*border-style: solid dotted dashed double*/
 /* border-top, -right, -bottom, -left */
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU1NjQzNjk5LDMzMTk2NjM4MCw0MDkwMT
-cyMjgsLTE5NTQ0NjU3ODAsMjA1NTM5MTQ1NCw2ODAxODE2MzIs
-LTc5ODE5MDUyOCw3ODMzMzE1ODMsLTYwODM4OTIsLTEyMDY3Nj
-g4NTYsMTAyNjYyNDgyMywtNTc4MDA3MDUyLDE2OTA1NDYwMDMs
-NzA5ODM0NDQ0LDE0Mzg1OTQ0NSwzNjkwMzM2MTAsNjQyOTQ4OD
-Q1LC04MzMzMjgzOTcsMTIzOTg1MzIzMywxMjY4Mzc3MzkxXX0=
+eyJoaXN0b3J5IjpbLTQyOTE5NjcwNiwyNTU2NDM2OTksMzMxOT
+Y2MzgwLDQwOTAxNzIyOCwtMTk1NDQ2NTc4MCwyMDU1MzkxNDU0
+LDY4MDE4MTYzMiwtNzk4MTkwNTI4LDc4MzMzMTU4MywtNjA4Mz
+g5MiwtMTIwNjc2ODg1NiwxMDI2NjI0ODIzLC01NzgwMDcwNTIs
+MTY5MDU0NjAwMyw3MDk4MzQ0NDQsMTQzODU5NDQ1LDM2OTAzMz
+YxMCw2NDI5NDg4NDUsLTgzMzMyODM5NywxMjM5ODUzMjMzXX0=
 
 -->
