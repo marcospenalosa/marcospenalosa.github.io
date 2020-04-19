@@ -93,7 +93,7 @@ h1 + p {
     color:red;
 }
 
-/* Seleccionar hermanos siguienteS ~ */
+/* Seleccionar hermanos siguientes ~ */
 /* Selecciona todos los descendientes */
 /* Cualquier elemento p que esté despues de un h1 tendrá un color rojo */  
 h1 ~ p {  
@@ -266,11 +266,11 @@ box-shadow: -6px -px 40px rgba(0,0,0,.5) inset;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODI5MzQxODAsMTU2NDY4MTI0MCwyNT
-U2NDM2OTksMzMxOTY2MzgwLDQwOTAxNzIyOCwtMTk1NDQ2NTc4
-MCwyMDU1MzkxNDU0LDY4MDE4MTYzMiwtNzk4MTkwNTI4LDc4Mz
-MzMTU4MywtNjA4Mzg5MiwtMTIwNjc2ODg1NiwxMDI2NjI0ODIz
-LC01NzgwMDcwNTIsMTY5MDU0NjAwMyw3MDk4MzQ0NDQsMTQzOD
-U5NDQ1LDM2OTAzMzYxMCw2NDI5NDg4NDUsLTgzMzMyODM5N119
+eyJoaXN0b3J5IjpbMTI2MTkwMzY3NiwtMTE4MjkzNDE4MCwxNT
+Y0NjgxMjQwLDI1NTY0MzY5OSwzMzE5NjYzODAsNDA5MDE3MjI4
+LC0xOTU0NDY1NzgwLDIwNTUzOTE0NTQsNjgwMTgxNjMyLC03OT
+gxOTA1MjgsNzgzMzMxNTgzLC02MDgzODkyLC0xMjA2NzY4ODU2
+LDEwMjY2MjQ4MjMsLTU3ODAwNzA1MiwxNjkwNTQ2MDAzLDcwOT
+gzNDQ0NCwxNDM4NTk0NDUsMzY5MDMzNjEwLDY0Mjk0ODg0NV19
 
 -->
