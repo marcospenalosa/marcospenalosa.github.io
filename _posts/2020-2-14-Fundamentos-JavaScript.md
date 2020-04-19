@@ -139,10 +139,13 @@ var rectangles = d3.selectAll('rect');
 //Seleccionar la primera forma en una variable con el método select
 var firstCircle = d3.select('circle');
 
+//Añadir un tiempo a la transición con duration()
+circle.transition().duration(5500).attr('cy',15);
+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0ODIzOTE5NCwxMTUzODE5MzcxLDE4OD
-E4MDYwNjYsMTg2Mjk3MjY0MiwtMzI5NjA2NDcxLC0xODMzNDcx
-ODExLDMxMDY0NDk1NSw1NzY1NzE5ODksNjY1NTUzODgyLDExMT
-IwOTQwNzBdfQ==
+eyJoaXN0b3J5IjpbLTkxMDI1NjU4LDE3NDgyMzkxOTQsMTE1Mz
+gxOTM3MSwxODgxODA2MDY2LDE4NjI5NzI2NDIsLTMyOTYwNjQ3
+MSwtMTgzMzQ3MTgxMSwzMTA2NDQ5NTUsNTc2NTcxOTg5LDY2NT
+U1Mzg4MiwxMTEyMDk0MDcwXX0=
 -->
