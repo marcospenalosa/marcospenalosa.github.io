@@ -82,9 +82,11 @@ Hay dos libros principales:
 <p align="center"><img src="https://raw.githubusercontent.com/marcospenalosa/marcospenalosa.github.io/master/_posts/img/apuntesContabilidad/balanceComprobacion.jpg
 "></p>
 Balance de comprobación o sumas y saldos.
-* Conocer la situacion del 
+* Conocer la situacion del patrimonio de la empresa (resumen de cuentas Mayor)
+* El balance de comprobación tiene que cuadrar siempre.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMjQyMTk3NiwxODA4ODE0OTk2LC02ND
+eyJoaXN0b3J5IjpbMTE4MjU2ODk2MiwxODA4ODE0OTk2LC02ND
 E0NjI3MTgsMTEwNjg2NDIzMCwtNjkwMjc4OTQ1LDg1Mzc1OTc2
 OCwtMTAwOTE1NDkyNCwxOTM4ODI2MTUsMjcwMjk4NjgyLDE0NT
 k2NTkxNjksLTEyNTE4ODUwNjgsMjk3MjQ0NjAwLDU0NDE5ODQ0
