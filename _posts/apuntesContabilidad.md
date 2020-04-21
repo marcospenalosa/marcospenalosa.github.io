@@ -84,13 +84,13 @@ Hay dos libros principales:
 Balance de comprobación o sumas y saldos.
 * Conocer la situacion del patrimonio de la empresa (resumen de cuentas Mayor)
 * El balance de comprobación tiene que cuadrar siempre.
-
+## Balance de comprobación
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MjU2ODk2MiwxODA4ODE0OTk2LC02ND
-E0NjI3MTgsMTEwNjg2NDIzMCwtNjkwMjc4OTQ1LDg1Mzc1OTc2
-OCwtMTAwOTE1NDkyNCwxOTM4ODI2MTUsMjcwMjk4NjgyLDE0NT
-k2NTkxNjksLTEyNTE4ODUwNjgsMjk3MjQ0NjAwLDU0NDE5ODQ0
-NywtMjA0NDM5NzgyMyw1OTg1ODk3MzIsLTIwNDQzOTc4MjMsMT
-g2Mjk2MzQ1NywtMjA0NDM5NzgyMywtMTYyODMyMDg3MSwtMTYy
-OTA1Nzg3Nl19
+eyJoaXN0b3J5IjpbMTcxOTE4MzQxOSwxMTgyNTY4OTYyLDE4MD
+g4MTQ5OTYsLTY0MTQ2MjcxOCwxMTA2ODY0MjMwLC02OTAyNzg5
+NDUsODUzNzU5NzY4LC0xMDA5MTU0OTI0LDE5Mzg4MjYxNSwyNz
+AyOTg2ODIsMTQ1OTY1OTE2OSwtMTI1MTg4NTA2OCwyOTcyNDQ2
+MDAsNTQ0MTk4NDQ3LC0yMDQ0Mzk3ODIzLDU5ODU4OTczMiwtMj
+A0NDM5NzgyMywxODYyOTYzNDU3LC0yMDQ0Mzk3ODIzLC0xNjI4
+MzIwODcxXX0=
 -->
