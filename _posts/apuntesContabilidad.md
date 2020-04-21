@@ -86,8 +86,16 @@ Balance de comprobación o sumas y saldos.
 * El balance de comprobación tiene que cuadrar siempre.
 ## Cuadro de cuentas contable
 Es el plan general contable.
+
+1. Financiación Básica. 
+2. Activo no corriente.
+3. Existencias.
+4. Acreedores y deudores por operaciones comerciales. 
+5. Cuentas Financieras. 
+6. Compras y Gastos. 
+7. Ventas e Ingresos.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0OTU5MDE4OCwxMTgyNTY4OTYyLDE4MD
+eyJoaXN0b3J5IjpbMTI1MTcwMTY2MywxMTgyNTY4OTYyLDE4MD
 g4MTQ5OTYsLTY0MTQ2MjcxOCwxMTA2ODY0MjMwLC02OTAyNzg5
 NDUsODUzNzU5NzY4LC0xMDA5MTU0OTI0LDE5Mzg4MjYxNSwyNz
 AyOTg2ODIsMTQ1OTY1OTE2OSwtMTI1MTg4NTA2OCwyOTcyNDQ2
