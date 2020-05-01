@@ -266,11 +266,13 @@ box-shadow: -6px -px 40px rgba(0,0,0,.5) inset;
 
 #### Fondos
 
-
+```css
+background-color
+```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODM5MjgzNzEsMTI2MTkwMzY3NiwtMT
+eyJoaXN0b3J5IjpbLTEyNjM1NjMzMTgsMTI2MTkwMzY3NiwtMT
 E4MjkzNDE4MCwxNTY0NjgxMjQwLDI1NTY0MzY5OSwzMzE5NjYz
 ODAsNDA5MDE3MjI4LC0xOTU0NDY1NzgwLDIwNTUzOTE0NTQsNj
 gwMTgxNjMyLC03OTgxOTA1MjgsNzgzMzMxNTgzLC02MDgzODky
