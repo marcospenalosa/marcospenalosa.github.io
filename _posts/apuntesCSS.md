@@ -282,14 +282,14 @@ background-origin: border-box | padding-box | content-box;
 background-size: 100px;
 background-size: 100px 200px;
 background-size: contain;
-/* x -> y center | x y | x = left - center right 
+/* x -> y center | x y | x = left - center right / y = top - center - bottom
 background-position: 50px;
- background-position: 50% 50%;
+background-position: 50% 50%;
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU1MjIzOTAzLC0xMzk3MDc3NzExLDc5ND
+eyJoaXN0b3J5IjpbMTkyNjMxMjE5LC0xMzk3MDc3NzExLDc5ND
 I4MzgzOCwxMjYxOTAzNjc2LC0xMTgyOTM0MTgwLDE1NjQ2ODEy
 NDAsMjU1NjQzNjk5LDMzMTk2NjM4MCw0MDkwMTcyMjgsLTE5NT
 Q0NjU3ODAsMjA1NTM5MTQ1NCw2ODAxODE2MzIsLTc5ODE5MDUy
