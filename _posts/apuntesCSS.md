@@ -267,13 +267,14 @@ box-shadow: -6px -px 40px rgba(0,0,0,.5) inset;
 #### Fondos
 
 ```css
-background-color
-background-image: url()
+background-color: yellow;
+background-image: url();
+background-repeat: repeat,
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDYyOTQxMCwxMjYxOTAzNjc2LC0xMT
+eyJoaXN0b3J5IjpbMTUxMDI0MzQ2NSwxMjYxOTAzNjc2LC0xMT
 gyOTM0MTgwLDE1NjQ2ODEyNDAsMjU1NjQzNjk5LDMzMTk2NjM4
 MCw0MDkwMTcyMjgsLTE5NTQ0NjU3ODAsMjA1NTM5MTQ1NCw2OD
 AxODE2MzIsLTc5ODE5MDUyOCw3ODMzMzE1ODMsLTYwODM4OTIs
