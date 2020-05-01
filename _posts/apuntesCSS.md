@@ -278,12 +278,14 @@ backgroun-clip: border-box | padding-box | content-box;
 /* Desde que caja se crea el fondo */
 background-origin: border-box | padding-box | content-box;
 
-background-size: width
+/* width calcula el alto | width height | contain - cover - auto */
+background-size: 100px;
+background-size: 100px 200px;
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTc1OTY0Myw3OTQyODM4MzgsMTI2MT
+eyJoaXN0b3J5IjpbMTcyOTQ4MjUzMCw3OTQyODM4MzgsMTI2MT
 kwMzY3NiwtMTE4MjkzNDE4MCwxNTY0NjgxMjQwLDI1NTY0MzY5
 OSwzMzE5NjYzODAsNDA5MDE3MjI4LC0xOTU0NDY1NzgwLDIwNT
 UzOTE0NTQsNjgwMTgxNjMyLC03OTgxOTA1MjgsNzgzMzMxNTgz
