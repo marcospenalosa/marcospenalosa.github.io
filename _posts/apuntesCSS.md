@@ -297,16 +297,16 @@ background-size: 25%, 50%, contain;
 
 /* Shorthand background: position / size */
 /* No importa el orden, solo position / size separados así */
-background: url(dirección) 0 
+background: url(dirección) 0 20px / 15% no-repeat, url(direccion2) bottom 20px right 20px / 25% no-repat;
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcxODA5NTE4LC0yMjU4MTA0MDEsLTEzOT
-cwNzc3MTEsNzk0MjgzODM4LDEyNjE5MDM2NzYsLTExODI5MzQx
-ODAsMTU2NDY4MTI0MCwyNTU2NDM2OTksMzMxOTY2MzgwLDQwOT
-AxNzIyOCwtMTk1NDQ2NTc4MCwyMDU1MzkxNDU0LDY4MDE4MTYz
-MiwtNzk4MTkwNTI4LDc4MzMzMTU4MywtNjA4Mzg5MiwtMTIwNj
-c2ODg1NiwxMDI2NjI0ODIzLC01NzgwMDcwNTIsMTY5MDU0NjAw
-M119
+eyJoaXN0b3J5IjpbLTI0NjQ2MjkwNCwtMjI1ODEwNDAxLC0xMz
+k3MDc3NzExLDc5NDI4MzgzOCwxMjYxOTAzNjc2LC0xMTgyOTM0
+MTgwLDE1NjQ2ODEyNDAsMjU1NjQzNjk5LDMzMTk2NjM4MCw0MD
+kwMTcyMjgsLTE5NTQ0NjU3ODAsMjA1NTM5MTQ1NCw2ODAxODE2
+MzIsLTc5ODE5MDUyOCw3ODMzMzE1ODMsLTYwODM4OTIsLTEyMD
+Y3Njg4NTYsMTAyNjYyNDgyMywtNTc4MDA3MDUyLDE2OTA1NDYw
+MDNdfQ==
 -->
