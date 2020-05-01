@@ -272,15 +272,21 @@ background-color: yellow;
 background-image: url();
 background-repeat: repeat | no-repeat | repeat-x | repeat-y;
 
+/* Que parte de la caja cubrimos */
+backgroun-clip: border-box | padding-box | content-box;
+
+/* Desde que caja se crea el fondo */
+background-origin: 
+
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg1OTI3MDgsMTI2MTkwMzY3NiwtMTE4Mj
-kzNDE4MCwxNTY0NjgxMjQwLDI1NTY0MzY5OSwzMzE5NjYzODAs
-NDA5MDE3MjI4LC0xOTU0NDY1NzgwLDIwNTUzOTE0NTQsNjgwMT
-gxNjMyLC03OTgxOTA1MjgsNzgzMzMxNTgzLC02MDgzODkyLC0x
-MjA2NzY4ODU2LDEwMjY2MjQ4MjMsLTU3ODAwNzA1MiwxNjkwNT
-Q2MDAzLDcwOTgzNDQ0NCwxNDM4NTk0NDUsMzY5MDMzNjEwXX0=
+eyJoaXN0b3J5IjpbNzk0MjgzODM4LDEyNjE5MDM2NzYsLTExOD
+I5MzQxODAsMTU2NDY4MTI0MCwyNTU2NDM2OTksMzMxOTY2Mzgw
+LDQwOTAxNzIyOCwtMTk1NDQ2NTc4MCwyMDU1MzkxNDU0LDY4MD
+E4MTYzMiwtNzk4MTkwNTI4LDc4MzMzMTU4MywtNjA4Mzg5Miwt
+MTIwNjc2ODg1NiwxMDI2NjI0ODIzLC01NzgwMDcwNTIsMTY5MD
+U0NjAwMyw3MDk4MzQ0NDQsMTQzODU5NDQ1LDM2OTAzMzYxMF19
 
 -->
