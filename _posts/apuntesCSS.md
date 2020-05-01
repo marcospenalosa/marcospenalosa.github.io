@@ -287,16 +287,16 @@ background-position: 50px;
 background-position: 50% 50%;
 background-position: right 20px bottom 20px;
 /* Como se dibuja el fondo respecto al viewport */
-background-attachment: 
+background-attachment: fixed
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTgxMDQwMSwtMTM5NzA3NzcxMSw3OT
-QyODM4MzgsMTI2MTkwMzY3NiwtMTE4MjkzNDE4MCwxNTY0Njgx
-MjQwLDI1NTY0MzY5OSwzMzE5NjYzODAsNDA5MDE3MjI4LC0xOT
-U0NDY1NzgwLDIwNTUzOTE0NTQsNjgwMTgxNjMyLC03OTgxOTA1
-MjgsNzgzMzMxNTgzLC02MDgzODkyLC0xMjA2NzY4ODU2LDEwMj
-Y2MjQ4MjMsLTU3ODAwNzA1MiwxNjkwNTQ2MDAzLDcwOTgzNDQ0
-NF19
+eyJoaXN0b3J5IjpbLTI5NzQ1MTQxOSwtMjI1ODEwNDAxLC0xMz
+k3MDc3NzExLDc5NDI4MzgzOCwxMjYxOTAzNjc2LC0xMTgyOTM0
+MTgwLDE1NjQ2ODEyNDAsMjU1NjQzNjk5LDMzMTk2NjM4MCw0MD
+kwMTcyMjgsLTE5NTQ0NjU3ODAsMjA1NTM5MTQ1NCw2ODAxODE2
+MzIsLTc5ODE5MDUyOCw3ODMzMzE1ODMsLTYwODM4OTIsLTEyMD
+Y3Njg4NTYsMTAyNjYyNDgyMywtNTc4MDA3MDUyLDE2OTA1NDYw
+MDNdfQ==
 -->
