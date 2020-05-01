@@ -292,12 +292,13 @@ background-attachment: fixed;
 
 /* Background múltiples se muestran por orden */
 background-image: url(direción1),url(direción2),url(direción3);
-background-size: 25%, 50%, contain
+background-size: 25%, 50%, contain;
+/* Se aplican las propiedades según el orden */
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2Mjc2MjkxOCwtMjI1ODEwNDAxLC0xMz
+eyJoaXN0b3J5IjpbMTY0ODk5MzM0OSwtMjI1ODEwNDAxLC0xMz
 k3MDc3NzExLDc5NDI4MzgzOCwxMjYxOTAzNjc2LC0xMTgyOTM0
 MTgwLDE1NjQ2ODEyNDAsMjU1NjQzNjk5LDMzMTk2NjM4MCw0MD
 kwMTcyMjgsLTE5NTQ0NjU3ODAsMjA1NTM5MTQ1NCw2ODAxODE2
