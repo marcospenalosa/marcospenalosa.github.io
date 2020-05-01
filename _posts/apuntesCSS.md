@@ -281,15 +281,16 @@ background-origin: border-box | padding-box | content-box;
 /* width calcula el alto | width height | contain - cover - auto */
 background-size: 100px;
 background-size: 100px 200px;
+background-size: contain
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTQ4MjUzMCw3OTQyODM4MzgsMTI2MT
-kwMzY3NiwtMTE4MjkzNDE4MCwxNTY0NjgxMjQwLDI1NTY0MzY5
-OSwzMzE5NjYzODAsNDA5MDE3MjI4LC0xOTU0NDY1NzgwLDIwNT
-UzOTE0NTQsNjgwMTgxNjMyLC03OTgxOTA1MjgsNzgzMzMxNTgz
-LC02MDgzODkyLC0xMjA2NzY4ODU2LDEwMjY2MjQ4MjMsLTU3OD
-AwNzA1MiwxNjkwNTQ2MDAzLDcwOTgzNDQ0NCwxNDM4NTk0NDVd
-fQ==
+eyJoaXN0b3J5IjpbNzUyNjMyMjkwLDc5NDI4MzgzOCwxMjYxOT
+AzNjc2LC0xMTgyOTM0MTgwLDE1NjQ2ODEyNDAsMjU1NjQzNjk5
+LDMzMTk2NjM4MCw0MDkwMTcyMjgsLTE5NTQ0NjU3ODAsMjA1NT
+M5MTQ1NCw2ODAxODE2MzIsLTc5ODE5MDUyOCw3ODMzMzE1ODMs
+LTYwODM4OTIsLTEyMDY3Njg4NTYsMTAyNjYyNDgyMywtNTc4MD
+A3MDUyLDE2OTA1NDYwMDMsNzA5ODM0NDQ0LDE0Mzg1OTQ0NV19
+
 -->
