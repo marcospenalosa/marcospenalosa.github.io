@@ -286,13 +286,13 @@ background-size: contain;
 background-position: 50px;
 background-position: 50% 50%;
 background-position: right 20px bottom 20px;
-/*Como se
-background-attachment
+/* Como se dibuja el fondo respecto al viewport */
+background-attachment: 
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MDMwNTI0MiwtMTM5NzA3NzcxMSw3OT
+eyJoaXN0b3J5IjpbLTIyNTgxMDQwMSwtMTM5NzA3NzcxMSw3OT
 QyODM4MzgsMTI2MTkwMzY3NiwtMTE4MjkzNDE4MCwxNTY0Njgx
 MjQwLDI1NTY0MzY5OSwzMzE5NjYzODAsNDA5MDE3MjI4LC0xOT
 U0NDY1NzgwLDIwNTUzOTE0NTQsNjgwMTgxNjMyLC03OTgxOTA1
