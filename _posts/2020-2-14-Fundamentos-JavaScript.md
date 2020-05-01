@@ -142,10 +142,13 @@ var firstCircle = d3.select('circle');
 //Añadir un tiempo a la transición con duration()
 circle.transition().duration(5500).attr('cy',15);
 
+//Añadir una interrupción con interrupt()
+bubble.interrupt().attr('r',15).attr('cx',100);
+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDI1NjU4LDE3NDgyMzkxOTQsMTE1Mz
-gxOTM3MSwxODgxODA2MDY2LDE4NjI5NzI2NDIsLTMyOTYwNjQ3
-MSwtMTgzMzQ3MTgxMSwzMTA2NDQ5NTUsNTc2NTcxOTg5LDY2NT
-U1Mzg4MiwxMTEyMDk0MDcwXX0=
+eyJoaXN0b3J5IjpbLTE2NDQ0MTQzNDMsLTkxMDI1NjU4LDE3ND
+gyMzkxOTQsMTE1MzgxOTM3MSwxODgxODA2MDY2LDE4NjI5NzI2
+NDIsLTMyOTYwNjQ3MSwtMTgzMzQ3MTgxMSwzMTA2NDQ5NTUsNT
+c2NTcxOTg5LDY2NTU1Mzg4MiwxMTEyMDk0MDcwXX0=
 -->
