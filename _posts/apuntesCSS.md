@@ -267,18 +267,20 @@ box-shadow: -6px -px 40px rgba(0,0,0,.5) inset;
 #### Fondos
 
 ```css
-background-color: yellow;
+/* color siempre aparece debajo de imágenes */
+background-color: yellow; 
 background-image: url();
-background-repeat: repeat,
+background-repeat: repeat | no-repeat | repeat-x | repeat-y;
+
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMDI0MzQ2NSwxMjYxOTAzNjc2LC0xMT
-gyOTM0MTgwLDE1NjQ2ODEyNDAsMjU1NjQzNjk5LDMzMTk2NjM4
-MCw0MDkwMTcyMjgsLTE5NTQ0NjU3ODAsMjA1NTM5MTQ1NCw2OD
-AxODE2MzIsLTc5ODE5MDUyOCw3ODMzMzE1ODMsLTYwODM4OTIs
-LTEyMDY3Njg4NTYsMTAyNjYyNDgyMywtNTc4MDA3MDUyLDE2OT
-A1NDYwMDMsNzA5ODM0NDQ0LDE0Mzg1OTQ0NSwzNjkwMzM2MTBd
-fQ==
+eyJoaXN0b3J5IjpbNDg1OTI3MDgsMTI2MTkwMzY3NiwtMTE4Mj
+kzNDE4MCwxNTY0NjgxMjQwLDI1NTY0MzY5OSwzMzE5NjYzODAs
+NDA5MDE3MjI4LC0xOTU0NDY1NzgwLDIwNTUzOTE0NTQsNjgwMT
+gxNjMyLC03OTgxOTA1MjgsNzgzMzMxNTgzLC02MDgzODkyLC0x
+MjA2NzY4ODU2LDEwMjY2MjQ4MjMsLTU3ODAwNzA1MiwxNjkwNT
+Q2MDAzLDcwOTgzNDQ0NCwxNDM4NTk0NDUsMzY5MDMzNjEwXX0=
+
 -->
