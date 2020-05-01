@@ -276,17 +276,18 @@ background-repeat: repeat | no-repeat | repeat-x | repeat-y;
 backgroun-clip: border-box | padding-box | content-box;
 
 /* Desde que caja se crea el fondo */
-background-origin: 
+background-origin: border-box | padding-box | content-box;
 
+background-size: width
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk0MjgzODM4LDEyNjE5MDM2NzYsLTExOD
-I5MzQxODAsMTU2NDY4MTI0MCwyNTU2NDM2OTksMzMxOTY2Mzgw
-LDQwOTAxNzIyOCwtMTk1NDQ2NTc4MCwyMDU1MzkxNDU0LDY4MD
-E4MTYzMiwtNzk4MTkwNTI4LDc4MzMzMTU4MywtNjA4Mzg5Miwt
-MTIwNjc2ODg1NiwxMDI2NjI0ODIzLC01NzgwMDcwNTIsMTY5MD
-U0NjAwMyw3MDk4MzQ0NDQsMTQzODU5NDQ1LDM2OTAzMzYxMF19
-
+eyJoaXN0b3J5IjpbMTI0NTc1OTY0Myw3OTQyODM4MzgsMTI2MT
+kwMzY3NiwtMTE4MjkzNDE4MCwxNTY0NjgxMjQwLDI1NTY0MzY5
+OSwzMzE5NjYzODAsNDA5MDE3MjI4LC0xOTU0NDY1NzgwLDIwNT
+UzOTE0NTQsNjgwMTgxNjMyLC03OTgxOTA1MjgsNzgzMzMxNTgz
+LC02MDgzODkyLC0xMjA2NzY4ODU2LDEwMjY2MjQ4MjMsLTU3OD
+AwNzA1MiwxNjkwNTQ2MDAzLDcwOTgzNDQ0NCwxNDM4NTk0NDVd
+fQ==
 -->
