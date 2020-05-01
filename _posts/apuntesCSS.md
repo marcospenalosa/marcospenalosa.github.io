@@ -281,16 +281,18 @@ background-origin: border-box | padding-box | content-box;
 /* width calcula el alto | width height | contain - cover - auto */
 background-size: 100px;
 background-size: 100px 200px;
-background-size: contain
+background-size: contain;
+
+background-position: 
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUyNjMyMjkwLDc5NDI4MzgzOCwxMjYxOT
-AzNjc2LC0xMTgyOTM0MTgwLDE1NjQ2ODEyNDAsMjU1NjQzNjk5
-LDMzMTk2NjM4MCw0MDkwMTcyMjgsLTE5NTQ0NjU3ODAsMjA1NT
-M5MTQ1NCw2ODAxODE2MzIsLTc5ODE5MDUyOCw3ODMzMzE1ODMs
-LTYwODM4OTIsLTEyMDY3Njg4NTYsMTAyNjYyNDgyMywtNTc4MD
-A3MDUyLDE2OTA1NDYwMDMsNzA5ODM0NDQ0LDE0Mzg1OTQ0NV19
-
+eyJoaXN0b3J5IjpbLTEzOTcwNzc3MTEsNzk0MjgzODM4LDEyNj
+E5MDM2NzYsLTExODI5MzQxODAsMTU2NDY4MTI0MCwyNTU2NDM2
+OTksMzMxOTY2MzgwLDQwOTAxNzIyOCwtMTk1NDQ2NTc4MCwyMD
+U1MzkxNDU0LDY4MDE4MTYzMiwtNzk4MTkwNTI4LDc4MzMzMTU4
+MywtNjA4Mzg5MiwtMTIwNjc2ODg1NiwxMDI2NjI0ODIzLC01Nz
+gwMDcwNTIsMTY5MDU0NjAwMyw3MDk4MzQ0NDQsMTQzODU5NDQ1
+XX0=
 -->
