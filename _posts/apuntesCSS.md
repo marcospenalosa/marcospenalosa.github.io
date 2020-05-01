@@ -282,17 +282,18 @@ background-origin: border-box | padding-box | content-box;
 background-size: 100px;
 background-size: 100px 200px;
 background-size: contain;
-/*
-background-position: 
+/* x -> y center | x y | x = left - center right 
+background-position: 50px;
+ background-position: 50% 50%;
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTgwOTU0NiwtMTM5NzA3NzcxMSw3OT
-QyODM4MzgsMTI2MTkwMzY3NiwtMTE4MjkzNDE4MCwxNTY0Njgx
-MjQwLDI1NTY0MzY5OSwzMzE5NjYzODAsNDA5MDE3MjI4LC0xOT
-U0NDY1NzgwLDIwNTUzOTE0NTQsNjgwMTgxNjMyLC03OTgxOTA1
-MjgsNzgzMzMxNTgzLC02MDgzODkyLC0xMjA2NzY4ODU2LDEwMj
-Y2MjQ4MjMsLTU3ODAwNzA1MiwxNjkwNTQ2MDAzLDcwOTgzNDQ0
-NF19
+eyJoaXN0b3J5IjpbNjU1MjIzOTAzLC0xMzk3MDc3NzExLDc5ND
+I4MzgzOCwxMjYxOTAzNjc2LC0xMTgyOTM0MTgwLDE1NjQ2ODEy
+NDAsMjU1NjQzNjk5LDMzMTk2NjM4MCw0MDkwMTcyMjgsLTE5NT
+Q0NjU3ODAsMjA1NTM5MTQ1NCw2ODAxODE2MzIsLTc5ODE5MDUy
+OCw3ODMzMzE1ODMsLTYwODM4OTIsLTEyMDY3Njg4NTYsMTAyNj
+YyNDgyMywtNTc4MDA3MDUyLDE2OTA1NDYwMDMsNzA5ODM0NDQ0
+XX0=
 -->
