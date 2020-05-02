@@ -307,17 +307,20 @@ rem -> Tamaño de fuente del root (html)
 
 /* Alienación del texto */
 ```css
+/* Para la dirección de texto, izquierda a derecha y derecha a izquierda */
 direction: ltr | rtl; 
+text-indet: 2em;
 
+```
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQ5ODk3NzcsMTA4MDExMzE2MiwtMj
-Q2NDYyOTA0LC0yMjU4MTA0MDEsLTEzOTcwNzc3MTEsNzk0Mjgz
-ODM4LDEyNjE5MDM2NzYsLTExODI5MzQxODAsMTU2NDY4MTI0MC
-wyNTU2NDM2OTksMzMxOTY2MzgwLDQwOTAxNzIyOCwtMTk1NDQ2
-NTc4MCwyMDU1MzkxNDU0LDY4MDE4MTYzMiwtNzk4MTkwNTI4LD
-c4MzMzMTU4MywtNjA4Mzg5MiwtMTIwNjc2ODg1NiwxMDI2NjI0
-ODIzXX0=
+eyJoaXN0b3J5IjpbMTUxNzEzNjQzOSwxMDgwMTEzMTYyLC0yND
+Y0NjI5MDQsLTIyNTgxMDQwMSwtMTM5NzA3NzcxMSw3OTQyODM4
+MzgsMTI2MTkwMzY3NiwtMTE4MjkzNDE4MCwxNTY0NjgxMjQwLD
+I1NTY0MzY5OSwzMzE5NjYzODAsNDA5MDE3MjI4LC0xOTU0NDY1
+NzgwLDIwNTUzOTE0NTQsNjgwMTgxNjMyLC03OTgxOTA1MjgsNz
+gzMzMxNTgzLC02MDgzODkyLC0xMjA2NzY4ODU2LDEwMjY2MjQ4
+MjNdfQ==
 -->
