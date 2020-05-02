@@ -314,18 +314,18 @@ text-align: start | end | left | center | right | justify;
 /* justificar texto en web mala práctica */
 /* text-align-last: propiedad; aliena la última línea */
 line-height: 1.5em;
-
+vertical-align: baseline | 
 
 ```
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDA5MTEzNTAsMTA4MDExMzE2MiwtMj
-Q2NDYyOTA0LC0yMjU4MTA0MDEsLTEzOTcwNzc3MTEsNzk0Mjgz
-ODM4LDEyNjE5MDM2NzYsLTExODI5MzQxODAsMTU2NDY4MTI0MC
-wyNTU2NDM2OTksMzMxOTY2MzgwLDQwOTAxNzIyOCwtMTk1NDQ2
-NTc4MCwyMDU1MzkxNDU0LDY4MDE4MTYzMiwtNzk4MTkwNTI4LD
-c4MzMzMTU4MywtNjA4Mzg5MiwtMTIwNjc2ODg1NiwxMDI2NjI0
-ODIzXX0=
+eyJoaXN0b3J5IjpbMTc3OTU1NjA4MSwtMTE0MDkxMTM1MCwxMD
+gwMTEzMTYyLC0yNDY0NjI5MDQsLTIyNTgxMDQwMSwtMTM5NzA3
+NzcxMSw3OTQyODM4MzgsMTI2MTkwMzY3NiwtMTE4MjkzNDE4MC
+wxNTY0NjgxMjQwLDI1NTY0MzY5OSwzMzE5NjYzODAsNDA5MDE3
+MjI4LC0xOTU0NDY1NzgwLDIwNTUzOTE0NTQsNjgwMTgxNjMyLC
+03OTgxOTA1MjgsNzgzMzMxNTgzLC02MDgzODkyLC0xMjA2NzY4
+ODU2XX0=
 -->
