@@ -300,13 +300,18 @@ background-size: 25%, 50%, contain;
 background: url(dirección) 0 20px / 15% no-repeat, url(direccion2) bottom 20px right 20px / 25% no-repat;
 ```
 
+#### Texto
+Unidades em y rem
+em -> Tamaño de fuente del contexto
+rem -> Tamaño de fuente del roo
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NjQ2MjkwNCwtMjI1ODEwNDAxLC0xMz
-k3MDc3NzExLDc5NDI4MzgzOCwxMjYxOTAzNjc2LC0xMTgyOTM0
-MTgwLDE1NjQ2ODEyNDAsMjU1NjQzNjk5LDMzMTk2NjM4MCw0MD
-kwMTcyMjgsLTE5NTQ0NjU3ODAsMjA1NTM5MTQ1NCw2ODAxODE2
-MzIsLTc5ODE5MDUyOCw3ODMzMzE1ODMsLTYwODM4OTIsLTEyMD
-Y3Njg4NTYsMTAyNjYyNDgyMywtNTc4MDA3MDUyLDE2OTA1NDYw
-MDNdfQ==
+eyJoaXN0b3J5IjpbLTEyNTE3ODYyODgsLTI0NjQ2MjkwNCwtMj
+I1ODEwNDAxLC0xMzk3MDc3NzExLDc5NDI4MzgzOCwxMjYxOTAz
+Njc2LC0xMTgyOTM0MTgwLDE1NjQ2ODEyNDAsMjU1NjQzNjk5LD
+MzMTk2NjM4MCw0MDkwMTcyMjgsLTE5NTQ0NjU3ODAsMjA1NTM5
+MTQ1NCw2ODAxODE2MzIsLTc5ODE5MDUyOCw3ODMzMzE1ODMsLT
+YwODM4OTIsLTEyMDY3Njg4NTYsMTAyNjYyNDgyMywtNTc4MDA3
+MDUyXX0=
 -->
