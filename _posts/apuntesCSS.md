@@ -302,14 +302,18 @@ background: url(dirección) 0 20px / 15% no-repeat, url(direccion2) bottom 20px 
 
 #### Texto
 Unidades em y rem
-em -> Tamaño de fuente del contexto, depn
+em -> Tamaño de fuente del contexto, depende del padre.
 rem -> Tamaño de fuente del root (html)
+
+/* Alienación del texto */
+```css
+direction: ltr | rtl; 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTIyOTg1NjMsMTA4MDExMzE2MiwtMj
+eyJoaXN0b3J5IjpbLTE3NDQ5ODk3NzcsMTA4MDExMzE2MiwtMj
 Q2NDYyOTA0LC0yMjU4MTA0MDEsLTEzOTcwNzc3MTEsNzk0Mjgz
 ODM4LDEyNjE5MDM2NzYsLTExODI5MzQxODAsMTU2NDY4MTI0MC
 wyNTU2NDM2OTksMzMxOTY2MzgwLDQwOTAxNzIyOCwtMTk1NDQ2
