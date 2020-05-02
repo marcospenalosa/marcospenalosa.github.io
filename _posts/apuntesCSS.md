@@ -311,18 +311,20 @@ rem -> Tamaño de fuente del root (html)
 direction: ltr | rtl; 
 text-indet: 2em;
 text-align: start | end | left | center | right | justify; 
-/*justificar texto en we
+/* justificar texto en web mala práctica */
+/* text-align-last: propiedad; aliena la última línea */
+
 
 ```
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA0OTc3OTA4LDEwODAxMTMxNjIsLTI0Nj
-Q2MjkwNCwtMjI1ODEwNDAxLC0xMzk3MDc3NzExLDc5NDI4Mzgz
-OCwxMjYxOTAzNjc2LC0xMTgyOTM0MTgwLDE1NjQ2ODEyNDAsMj
-U1NjQzNjk5LDMzMTk2NjM4MCw0MDkwMTcyMjgsLTE5NTQ0NjU3
-ODAsMjA1NTM5MTQ1NCw2ODAxODE2MzIsLTc5ODE5MDUyOCw3OD
-MzMzE1ODMsLTYwODM4OTIsLTEyMDY3Njg4NTYsMTAyNjYyNDgy
-M119
+eyJoaXN0b3J5IjpbMTQ4MjU5MDQ1NywxMDgwMTEzMTYyLC0yND
+Y0NjI5MDQsLTIyNTgxMDQwMSwtMTM5NzA3NzcxMSw3OTQyODM4
+MzgsMTI2MTkwMzY3NiwtMTE4MjkzNDE4MCwxNTY0NjgxMjQwLD
+I1NTY0MzY5OSwzMzE5NjYzODAsNDA5MDE3MjI4LC0xOTU0NDY1
+NzgwLDIwNTUzOTE0NTQsNjgwMTgxNjMyLC03OTgxOTA1MjgsNz
+gzMzMxNTgzLC02MDgzODkyLC0xMjA2NzY4ODU2LDEwMjY2MjQ4
+MjNdfQ==
 -->
