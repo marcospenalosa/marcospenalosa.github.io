@@ -341,11 +341,13 @@ text-shadow: h-offset v-offset blur color;
 white-space: normal | pre | nowrap | pre-warp | pre-line;
 
 /* Desboradmiento */
-
+word-break: normal | break-all  | keep-all;
+word-wrap: normal | break-word
+text-overflow
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTgyMjQ5MDIsNTg5NzEwNjk4LC0xMT
+eyJoaXN0b3J5IjpbLTE0ODE1MjU2ODAsNTg5NzEwNjk4LC0xMT
 QwOTExMzUwLDEwODAxMTMxNjIsLTI0NjQ2MjkwNCwtMjI1ODEw
 NDAxLC0xMzk3MDc3NzExLDc5NDI4MzgzOCwxMjYxOTAzNjc2LC
 0xMTgyOTM0MTgwLDE1NjQ2ODEyNDAsMjU1NjQzNjk5LDMzMTk2
