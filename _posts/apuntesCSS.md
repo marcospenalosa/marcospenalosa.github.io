@@ -340,14 +340,16 @@ text-shadow: h-offset v-offset blur color;
 ```css
 white-space: normal | pre | nowrap | pre-warp | pre-line;
 
-/* Desboradmiento */
+/* Desboradmiento - overflow */
 word-break: normal | break-all  | keep-all;
 word-wrap: normal | break-word
-text-overflow: ellipsis;
+text-overflow: clip | ellipsis; 
+/*ellipsis 3 puntos suspensivos*/ 
+/* se necesita primero overflow: hidden; para ocultar el texto que salga del contenedor */
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2OTEwMDQ2NCw1ODk3MTA2OTgsLTExND
+eyJoaXN0b3J5IjpbLTgxNTMxODkzNyw1ODk3MTA2OTgsLTExND
 A5MTEzNTAsMTA4MDExMzE2MiwtMjQ2NDYyOTA0LC0yMjU4MTA0
 MDEsLTEzOTcwNzc3MTEsNzk0MjgzODM4LDEyNjE5MDM2NzYsLT
 ExODI5MzQxODAsMTU2NDY4MTI0MCwyNTU2NDM2OTksMzMxOTY2
