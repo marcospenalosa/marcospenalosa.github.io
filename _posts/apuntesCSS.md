@@ -338,15 +338,18 @@ text-shadow: h-offset v-offset blur color;
 ```
 /* White space */
 ```css
-/* normal - respecta los 
-white-space: normal | pre | nowrap | pre-warp |;
+white-space: normal | pre | nowrap | pre-warp | pre-line;
+
+/* Desboradmiento */
+
+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NzAwNjkxNiw1ODk3MTA2OTgsLTExND
-A5MTEzNTAsMTA4MDExMzE2MiwtMjQ2NDYyOTA0LC0yMjU4MTA0
-MDEsLTEzOTcwNzc3MTEsNzk0MjgzODM4LDEyNjE5MDM2NzYsLT
-ExODI5MzQxODAsMTU2NDY4MTI0MCwyNTU2NDM2OTksMzMxOTY2
-MzgwLDQwOTAxNzIyOCwtMTk1NDQ2NTc4MCwyMDU1MzkxNDU0LD
-Y4MDE4MTYzMiwtNzk4MTkwNTI4LDc4MzMzMTU4MywtNjA4Mzg5
-Ml19
+eyJoaXN0b3J5IjpbLTIxMTgyMjQ5MDIsNTg5NzEwNjk4LC0xMT
+QwOTExMzUwLDEwODAxMTMxNjIsLTI0NjQ2MjkwNCwtMjI1ODEw
+NDAxLC0xMzk3MDc3NzExLDc5NDI4MzgzOCwxMjYxOTAzNjc2LC
+0xMTgyOTM0MTgwLDE1NjQ2ODEyNDAsMjU1NjQzNjk5LDMzMTk2
+NjM4MCw0MDkwMTcyMjgsLTE5NTQ0NjU3ODAsMjA1NTM5MTQ1NC
+w2ODAxODE2MzIsLTc5ODE5MDUyOCw3ODMzMzE1ODMsLTYwODM4
+OTJdfQ==
 -->
