@@ -355,11 +355,11 @@ text-orientation: upright;
 ```
 /* Texto transforml */
 ```css
-text-transform: uppercase | lo;
+text-transform: uppercase | lowercase | capitalize;
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNzc0MzE3Myw1ODk3MTA2OTgsLTExND
+eyJoaXN0b3J5IjpbLTIzMTg2Mjg4MSw1ODk3MTA2OTgsLTExND
 A5MTEzNTAsMTA4MDExMzE2MiwtMjQ2NDYyOTA0LC0yMjU4MTA0
 MDEsLTEzOTcwNzc3MTEsNzk0MjgzODM4LDEyNjE5MDM2NzYsLT
 ExODI5MzQxODAsMTU2NDY4MTI0MCwyNTU2NDM2OTksMzMxOTY2
