@@ -327,16 +327,18 @@ word-spacing: 1em;
 text-decoration-line: underline | line-through | overline;
 text-decoration-color:
 text-decoration-style: solid | dashed | dotted | double;
-text-decoration: line-through double red
+/* Shorthand */
+text-decoration: underline line-through overline;
+/* se puede poner multiples estilos */
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NDk3ODAxMiwtMTE0MDkxMTM1MCwxMD
-gwMTEzMTYyLC0yNDY0NjI5MDQsLTIyNTgxMDQwMSwtMTM5NzA3
-NzcxMSw3OTQyODM4MzgsMTI2MTkwMzY3NiwtMTE4MjkzNDE4MC
-wxNTY0NjgxMjQwLDI1NTY0MzY5OSwzMzE5NjYzODAsNDA5MDE3
-MjI4LC0xOTU0NDY1NzgwLDIwNTUzOTE0NTQsNjgwMTgxNjMyLC
-03OTgxOTA1MjgsNzgzMzMxNTgzLC02MDgzODkyLC0xMjA2NzY4
-ODU2XX0=
+eyJoaXN0b3J5IjpbLTIxMzQ1NDY4OTcsLTExNDA5MTEzNTAsMT
+A4MDExMzE2MiwtMjQ2NDYyOTA0LC0yMjU4MTA0MDEsLTEzOTcw
+Nzc3MTEsNzk0MjgzODM4LDEyNjE5MDM2NzYsLTExODI5MzQxOD
+AsMTU2NDY4MTI0MCwyNTU2NDM2OTksMzMxOTY2MzgwLDQwOTAx
+NzIyOCwtMTk1NDQ2NTc4MCwyMDU1MzkxNDU0LDY4MDE4MTYzMi
+wtNzk4MTkwNTI4LDc4MzMzMTU4MywtNjA4Mzg5MiwtMTIwNjc2
+ODg1Nl19
 -->
