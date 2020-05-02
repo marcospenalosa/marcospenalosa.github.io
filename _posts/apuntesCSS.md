@@ -324,19 +324,19 @@ word-spacing: 1em;
 ```
 /* Decoración del texto */
 ```css
-text-decoration:
 text-decoration-line: underline | line-through | overline;
 text-decoration-color:
-text-decoration-style: solid | dashed | dotted | 
+text-decoration-style: solid | dashed | dotted | double;
+text-decoration: line-through double red
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwNTYzNTY0LC0xMTQwOTExMzUwLDEwOD
-AxMTMxNjIsLTI0NjQ2MjkwNCwtMjI1ODEwNDAxLC0xMzk3MDc3
-NzExLDc5NDI4MzgzOCwxMjYxOTAzNjc2LC0xMTgyOTM0MTgwLD
-E1NjQ2ODEyNDAsMjU1NjQzNjk5LDMzMTk2NjM4MCw0MDkwMTcy
-MjgsLTE5NTQ0NjU3ODAsMjA1NTM5MTQ1NCw2ODAxODE2MzIsLT
-c5ODE5MDUyOCw3ODMzMzE1ODMsLTYwODM4OTIsLTEyMDY3Njg4
-NTZdfQ==
+eyJoaXN0b3J5IjpbLTM2NDk3ODAxMiwtMTE0MDkxMTM1MCwxMD
+gwMTEzMTYyLC0yNDY0NjI5MDQsLTIyNTgxMDQwMSwtMTM5NzA3
+NzcxMSw3OTQyODM4MzgsMTI2MTkwMzY3NiwtMTE4MjkzNDE4MC
+wxNTY0NjgxMjQwLDI1NTY0MzY5OSwzMzE5NjYzODAsNDA5MDE3
+MjI4LC0xOTU0NDY1NzgwLDIwNTUzOTE0NTQsNjgwMTgxNjMyLC
+03OTgxOTA1MjgsNzgzMzMxNTgzLC02MDgzODkyLC0xMjA2NzY4
+ODU2XX0=
 -->
