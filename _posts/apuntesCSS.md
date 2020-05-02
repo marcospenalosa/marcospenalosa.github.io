@@ -310,13 +310,14 @@ rem -> Tamaño de fuente del root (html)
 /* Para la dirección de texto, izquierda a derecha y derecha a izquierda */
 direction: ltr | rtl; 
 text-indet: 2em;
+text-align: start | end | left | center | right |
 
 ```
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNzEzNjQzOSwxMDgwMTEzMTYyLC0yND
+eyJoaXN0b3J5IjpbMTAwMTQ2NjYxNSwxMDgwMTEzMTYyLC0yND
 Y0NjI5MDQsLTIyNTgxMDQwMSwtMTM5NzA3NzcxMSw3OTQyODM4
 MzgsMTI2MTkwMzY3NiwtMTE4MjkzNDE4MCwxNTY0NjgxMjQwLD
 I1NTY0MzY5OSwzMzE5NjYzODAsNDA5MDE3MjI4LC0xOTU0NDY1
