@@ -314,14 +314,14 @@ text-align: start | end | left | center | right | justify;
 /* justificar texto en web mala práctica */
 /* text-align-last: propiedad; aliena la última línea */
 line-height: 1.5em;
-vertical-align: baseline | 
+vertical-align: baseline | top | middle | bottom 
 
 ```
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTU1NjA4MSwtMTE0MDkxMTM1MCwxMD
+eyJoaXN0b3J5IjpbLTkyMjgwNjM2MiwtMTE0MDkxMTM1MCwxMD
 gwMTEzMTYyLC0yNDY0NjI5MDQsLTIyNTgxMDQwMSwtMTM5NzA3
 NzcxMSw3OTQyODM4MzgsMTI2MTkwMzY3NiwtMTE4MjkzNDE4MC
 wxNTY0NjgxMjQwLDI1NTY0MzY5OSwzMzE5NjYzODAsNDA5MDE3
