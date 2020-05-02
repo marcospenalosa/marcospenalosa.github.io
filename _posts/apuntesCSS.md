@@ -302,18 +302,18 @@ background: url(dirección) 0 20px / 15% no-repeat, url(direccion2) bottom 20px 
 
 #### Texto
 Unidades em y rem
-em -> Tamaño de fuente del contexto
+em -> Tamaño de fuente del contexto, depn
 rem -> Tamaño de fuente del root (html)
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MDExMzE2MiwtMjQ2NDYyOTA0LC0yMj
-U4MTA0MDEsLTEzOTcwNzc3MTEsNzk0MjgzODM4LDEyNjE5MDM2
-NzYsLTExODI5MzQxODAsMTU2NDY4MTI0MCwyNTU2NDM2OTksMz
-MxOTY2MzgwLDQwOTAxNzIyOCwtMTk1NDQ2NTc4MCwyMDU1Mzkx
-NDU0LDY4MDE4MTYzMiwtNzk4MTkwNTI4LDc4MzMzMTU4MywtNj
-A4Mzg5MiwtMTIwNjc2ODg1NiwxMDI2NjI0ODIzLC01NzgwMDcw
-NTJdfQ==
+eyJoaXN0b3J5IjpbLTE1MTIyOTg1NjMsMTA4MDExMzE2MiwtMj
+Q2NDYyOTA0LC0yMjU4MTA0MDEsLTEzOTcwNzc3MTEsNzk0Mjgz
+ODM4LDEyNjE5MDM2NzYsLTExODI5MzQxODAsMTU2NDY4MTI0MC
+wyNTU2NDM2OTksMzMxOTY2MzgwLDQwOTAxNzIyOCwtMTk1NDQ2
+NTc4MCwyMDU1MzkxNDU0LDY4MDE4MTYzMiwtNzk4MTkwNTI4LD
+c4MzMzMTU4MywtNjA4Mzg5MiwtMTIwNjc2ODg1NiwxMDI2NjI0
+ODIzXX0=
 -->
