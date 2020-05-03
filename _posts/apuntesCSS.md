@@ -374,12 +374,18 @@ font-family: 'Open Sans', Verdana, Arial, sans-serif;
 /* Se suele poner al final una tipografía generica para que cargue al menos la del SO */
 ```
 
+/* Font-size */
+[google fonts](https://fonts.google.com/)
+```css
+font-size: sans-serif;
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTE1MDg1NywxOTc3MjY4MDIzLC0yMz
-E4NjI4ODEsNTg5NzEwNjk4LC0xMTQwOTExMzUwLDEwODAxMTMx
-NjIsLTI0NjQ2MjkwNCwtMjI1ODEwNDAxLC0xMzk3MDc3NzExLD
-c5NDI4MzgzOCwxMjYxOTAzNjc2LC0xMTgyOTM0MTgwLDE1NjQ2
-ODEyNDAsMjU1NjQzNjk5LDMzMTk2NjM4MCw0MDkwMTcyMjgsLT
-E5NTQ0NjU3ODAsMjA1NTM5MTQ1NCw2ODAxODE2MzIsLTc5ODE5
-MDUyOF19
+eyJoaXN0b3J5IjpbLTgwNjQxOTg5MCwtNTI5MTUwODU3LDE5Nz
+cyNjgwMjMsLTIzMTg2Mjg4MSw1ODk3MTA2OTgsLTExNDA5MTEz
+NTAsMTA4MDExMzE2MiwtMjQ2NDYyOTA0LC0yMjU4MTA0MDEsLT
+EzOTcwNzc3MTEsNzk0MjgzODM4LDEyNjE5MDM2NzYsLTExODI5
+MzQxODAsMTU2NDY4MTI0MCwyNTU2NDM2OTksMzMxOTY2MzgwLD
+QwOTAxNzIyOCwtMTk1NDQ2NTc4MCwyMDU1MzkxNDU0LDY4MDE4
+MTYzMl19
 -->
