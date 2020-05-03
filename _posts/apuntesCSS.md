@@ -367,13 +367,14 @@ text-orientation: upright;
 text-transform: uppercase | lowercase | capitalize;
 ```
 /* Font-familyl */
+[google fonts](fonts-google.com)
 ```css
 writing-mode: vertical-lr;
 text-orientation: upright;
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NDEzOTYwNiwxOTc3MjY4MDIzLC0yMz
+eyJoaXN0b3J5IjpbLTI0MzA5Mjc0MywxOTc3MjY4MDIzLC0yMz
 E4NjI4ODEsNTg5NzEwNjk4LC0xMTQwOTExMzUwLDEwODAxMTMx
 NjIsLTI0NjQ2MjkwNCwtMjI1ODEwNDAxLC0xMzk3MDc3NzExLD
 c5NDI4MzgzOCwxMjYxOTAzNjc2LC0xMTgyOTM0MTgwLDE1NjQ2
