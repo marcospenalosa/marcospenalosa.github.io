@@ -370,11 +370,12 @@ text-transform: uppercase | lowercase | capitalize;
 [google fonts](https://fonts.google.com/)
 ```css
 font-family: sans-serif;
-font-family: 'Open Sans',
+font-family: 'Open Sans', Verdana, Arial, sans-serif;
+/* Se suele poner al final una tipografía generica para que cargue al menos la del SO */
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMDczOTkxNSwxOTc3MjY4MDIzLC0yMz
+eyJoaXN0b3J5IjpbLTUyOTE1MDg1NywxOTc3MjY4MDIzLC0yMz
 E4NjI4ODEsNTg5NzEwNjk4LC0xMTQwOTExMzUwLDEwODAxMTMx
 NjIsLTI0NjQ2MjkwNCwtMjI1ODEwNDAxLC0xMzk3MDc3NzExLD
 c5NDI4MzgzOCwxMjYxOTAzNjc2LC0xMTgyOTM0MTgwLDE1NjQ2
