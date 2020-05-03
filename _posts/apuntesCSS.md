@@ -369,11 +369,12 @@ text-transform: uppercase | lowercase | capitalize;
 /* Font-familyl */
 [google fonts](https://fonts.google.com/)
 ```css
-font-family: sans-serif
+font-family: sans-serif;
+font-family: 'Open Sans',
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODc3NDQ4NywxOTc3MjY4MDIzLC0yMz
+eyJoaXN0b3J5IjpbMTIxMDczOTkxNSwxOTc3MjY4MDIzLC0yMz
 E4NjI4ODEsNTg5NzEwNjk4LC0xMTQwOTExMzUwLDEwODAxMTMx
 NjIsLTI0NjQ2MjkwNCwtMjI1ODEwNDAxLC0xMzk3MDc3NzExLD
 c5NDI4MzgzOCwxMjYxOTAzNjc2LC0xMTgyOTM0MTgwLDE1NjQ2
