@@ -356,14 +356,31 @@ text-orientation: upright;
 /* Texto transforml */
 ```css
 text-transform: uppercase | lowercase | capitalize;
-
+```
+/* Texto vertical */
+```css
+writing-mode: vertical-lr;
+text-orientation: upright;
+```
+/* Texto transforml */
+```css
+text-transform: uppercase | lowercase | capitalize;
+```
+/* Font-familyl */
+```css
+writing-mode: vertical-lr;
+text-orientation: upright;
+```
+/* Texto transforml */
+```css
+text-transform: uppercase | lowercase | capitalize;
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMTg2Mjg4MSw1ODk3MTA2OTgsLTExND
-A5MTEzNTAsMTA4MDExMzE2MiwtMjQ2NDYyOTA0LC0yMjU4MTA0
-MDEsLTEzOTcwNzc3MTEsNzk0MjgzODM4LDEyNjE5MDM2NzYsLT
-ExODI5MzQxODAsMTU2NDY4MTI0MCwyNTU2NDM2OTksMzMxOTY2
-MzgwLDQwOTAxNzIyOCwtMTk1NDQ2NTc4MCwyMDU1MzkxNDU0LD
-Y4MDE4MTYzMiwtNzk4MTkwNTI4LDc4MzMzMTU4MywtNjA4Mzg5
-Ml19
+eyJoaXN0b3J5IjpbMTk3NzI2ODAyMywtMjMxODYyODgxLDU4OT
+cxMDY5OCwtMTE0MDkxMTM1MCwxMDgwMTEzMTYyLC0yNDY0NjI5
+MDQsLTIyNTgxMDQwMSwtMTM5NzA3NzcxMSw3OTQyODM4MzgsMT
+I2MTkwMzY3NiwtMTE4MjkzNDE4MCwxNTY0NjgxMjQwLDI1NTY0
+MzY5OSwzMzE5NjYzODAsNDA5MDE3MjI4LC0xOTU0NDY1NzgwLD
+IwNTUzOTE0NTQsNjgwMTgxNjMyLC03OTgxOTA1MjgsNzgzMzMx
+NTgzXX0=
 -->
