@@ -377,11 +377,11 @@ font-family: 'Open Sans', Verdana, Arial, sans-serif;
 /* Font-size */
 [google fonts](https://fonts.google.com/)
 ```css
-font-size: sans-serif;
-```em
+font-size: 2em;
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODk4MjM0NTAsLTgwNjQxOTg5MCwtNT
+eyJoaXN0b3J5IjpbLTIxMzE1MzI4MDEsLTgwNjQxOTg5MCwtNT
 I5MTUwODU3LDE5NzcyNjgwMjMsLTIzMTg2Mjg4MSw1ODk3MTA2
 OTgsLTExNDA5MTEzNTAsMTA4MDExMzE2MiwtMjQ2NDYyOTA0LC
 0yMjU4MTA0MDEsLTEzOTcwNzc3MTEsNzk0MjgzODM4LDEyNjE5
