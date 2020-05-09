@@ -379,13 +379,13 @@ font-family: 'Open Sans', Verdana, Arial, sans-serif;
 ```css
 font-size: 2em;
 ```
-/* Font-size */
-[google fonts](https://fonts.google.com/)
+/* Font-weight */
+/* grosor del trazo */ 
 ```css
-font-size: 2em;
+font-weight: bold | normal | ;
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMzAyMjE2NSwtMjEzMTUzMjgwMSwtOD
+eyJoaXN0b3J5IjpbLTcwNDMyODQxOCwtMjEzMTUzMjgwMSwtOD
 A2NDE5ODkwLC01MjkxNTA4NTcsMTk3NzI2ODAyMywtMjMxODYy
 ODgxLDU4OTcxMDY5OCwtMTE0MDkxMTM1MCwxMDgwMTEzMTYyLC
 0yNDY0NjI5MDQsLTIyNTgxMDQwMSwtMTM5NzA3NzcxMSw3OTQy
