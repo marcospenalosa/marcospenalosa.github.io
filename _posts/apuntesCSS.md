@@ -382,11 +382,12 @@ font-size: 2em;
 /* Font-weight */
 /* grosor del trazo */ 
 ```css
-font-weight: bold | normal | lighter;
+font-weight: bold | normal | lighter | bolder; /* evitarlas */
+font-weight: 100 | 200 | ... | 900;
 font-style: italic;
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0Njg3MDA2OSwtMjEzMTUzMjgwMSwtOD
+eyJoaXN0b3J5IjpbLTM1MTg3MTkwNywtMjEzMTUzMjgwMSwtOD
 A2NDE5ODkwLC01MjkxNTA4NTcsMTk3NzI2ODAyMywtMjMxODYy
 ODgxLDU4OTcxMDY5OCwtMTE0MDkxMTM1MCwxMDgwMTEzMTYyLC
 0yNDY0NjI5MDQsLTIyNTgxMDQwMSwtMTM5NzA3NzcxMSw3OTQy
