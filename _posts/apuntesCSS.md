@@ -386,12 +386,17 @@ font-weight: bold | normal | lighter | bolder; /* evitarlas */
 font-weight: 100 | 200 | ... | 900; 
 font-style: italic;
 ```
+
+font-variant: small-caps; /* versalitas */
+
+/* Generalmente Serif título y sans serif resto */
+/* Aunque se puede intercambiar 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk3MDQ3NDUxLC0zNTE4NzE5MDcsLTIxMz
-E1MzI4MDEsLTgwNjQxOTg5MCwtNTI5MTUwODU3LDE5NzcyNjgw
-MjMsLTIzMTg2Mjg4MSw1ODk3MTA2OTgsLTExNDA5MTEzNTAsMT
-A4MDExMzE2MiwtMjQ2NDYyOTA0LC0yMjU4MTA0MDEsLTEzOTcw
-Nzc3MTEsNzk0MjgzODM4LDEyNjE5MDM2NzYsLTExODI5MzQxOD
-AsMTU2NDY4MTI0MCwyNTU2NDM2OTksMzMxOTY2MzgwLDQwOTAx
-NzIyOF19
+eyJoaXN0b3J5IjpbMTk5MTM1MjUzMywtMzUxODcxOTA3LC0yMT
+MxNTMyODAxLC04MDY0MTk4OTAsLTUyOTE1MDg1NywxOTc3MjY4
+MDIzLC0yMzE4NjI4ODEsNTg5NzEwNjk4LC0xMTQwOTExMzUwLD
+EwODAxMTMxNjIsLTI0NjQ2MjkwNCwtMjI1ODEwNDAxLC0xMzk3
+MDc3NzExLDc5NDI4MzgzOCwxMjYxOTAzNjc2LC0xMTgyOTM0MT
+gwLDE1NjQ2ODEyNDAsMjU1NjQzNjk5LDMzMTk2NjM4MCw0MDkw
+MTcyMjhdfQ==
 -->
