@@ -386,13 +386,17 @@ font-weight: bold | normal | lighter | bolder; /* evitarlas */
 font-weight: 100 | 200 | ... | 900; 
 font-style: italic;
 ```
-
-font-variant: small-caps; /* versalitas */
-
+```css
+font-variant: small-caps; 
+/* versalitas */
+```
 /* Generalmente Serif título y sans serif resto */
-/* Aunque se puede intercambiar 
+/* Aunque se puede intercambiar o usar uno solo */
+/* Google fonts da ejemplos */
+
+/* Shorthand 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTM1MjUzMywtMzUxODcxOTA3LC0yMT
+eyJoaXN0b3J5IjpbLTQ3MzMzOTE1OSwtMzUxODcxOTA3LC0yMT
 MxNTMyODAxLC04MDY0MTk4OTAsLTUyOTE1MDg1NywxOTc3MjY4
 MDIzLC0yMzE4NjI4ODEsNTg5NzEwNjk4LC0xMTQwOTExMzUwLD
 EwODAxMTMxNjIsLTI0NjQ2MjkwNCwtMjI1ODEwNDAxLC0xMzk3
