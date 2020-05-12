@@ -399,10 +399,16 @@ font-variant: small-caps;
 /* font-family font-size siempre */
 /* font-size al final */
 ```css
-font: 5em verdana;
+font: 5em / 1.5 verdana;
 ```
+
+/* Regla font-face */
+/* Google usa font-face */
+```css
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODI2MzA5MCwtMzUxODcxOTA3LC0yMT
+eyJoaXN0b3J5IjpbMTUzOTE5MzQyNywtMzUxODcxOTA3LC0yMT
 MxNTMyODAxLC04MDY0MTk4OTAsLTUyOTE1MDg1NywxOTc3MjY4
 MDIzLC0yMzE4NjI4ODEsNTg5NzEwNjk4LC0xMTQwOTExMzUwLD
 EwODAxMTMxNjIsLTI0NjQ2MjkwNCwtMjI1ODEwNDAxLC0xMzk3
