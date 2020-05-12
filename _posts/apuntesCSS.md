@@ -405,7 +405,7 @@ font: 5em / 1.5 verdana;
 /* Regla font-face  -> indicamos que fuente usar*/
 /* usa forma woff (Web Open Font Format) */
 /* Google usa font-face */
-/*
+/* www.fontsquirrel.com convertidor */
 ```css
 @font-face{
  font-family: nombre;
@@ -415,7 +415,7 @@ font: 5em / 1.5 verdana;
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzOTgyNzk1NywtMzUxODcxOTA3LC0yMT
+eyJoaXN0b3J5IjpbLTczNjgyNzkyMywtMzUxODcxOTA3LC0yMT
 MxNTMyODAxLC04MDY0MTk4OTAsLTUyOTE1MDg1NywxOTc3MjY4
 MDIzLC0yMzE4NjI4ODEsNTg5NzEwNjk4LC0xMTQwOTExMzUwLD
 EwODAxMTMxNjIsLTI0NjQ2MjkwNCwtMjI1ODEwNDAxLC0xMzk3
