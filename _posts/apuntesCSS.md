@@ -405,6 +405,7 @@ font: 5em / 1.5 verdana;
 /* Regla font-face  -> indicamos que fuente usar*/
 /* usa forma woff (Web Open Font Format) */
 /* Google usa font-face */
+/*
 ```css
 @font-face{
  font-family: nombre;
@@ -414,11 +415,11 @@ font: 5em / 1.5 verdana;
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1Mjk3NDM4LC0zNTE4NzE5MDcsLTIxMz
-E1MzI4MDEsLTgwNjQxOTg5MCwtNTI5MTUwODU3LDE5NzcyNjgw
-MjMsLTIzMTg2Mjg4MSw1ODk3MTA2OTgsLTExNDA5MTEzNTAsMT
-A4MDExMzE2MiwtMjQ2NDYyOTA0LC0yMjU4MTA0MDEsLTEzOTcw
-Nzc3MTEsNzk0MjgzODM4LDEyNjE5MDM2NzYsLTExODI5MzQxOD
-AsMTU2NDY4MTI0MCwyNTU2NDM2OTksMzMxOTY2MzgwLDQwOTAx
-NzIyOF19
+eyJoaXN0b3J5IjpbLTQzOTgyNzk1NywtMzUxODcxOTA3LC0yMT
+MxNTMyODAxLC04MDY0MTk4OTAsLTUyOTE1MDg1NywxOTc3MjY4
+MDIzLC0yMzE4NjI4ODEsNTg5NzEwNjk4LC0xMTQwOTExMzUwLD
+EwODAxMTMxNjIsLTI0NjQ2MjkwNCwtMjI1ODEwNDAxLC0xMzk3
+MDc3NzExLDc5NDI4MzgzOCwxMjYxOTAzNjc2LC0xMTgyOTM0MT
+gwLDE1NjQ2ODEyNDAsMjU1NjQzNjk5LDMzMTk2NjM4MCw0MDkw
+MTcyMjhdfQ==
 -->
