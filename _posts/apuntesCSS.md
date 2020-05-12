@@ -394,9 +394,15 @@ font-variant: small-caps;
 /* Aunque se puede intercambiar o usar uno solo */
 /* Google fonts da ejemplos */
 
-/* Shorthand 
+/* Shorthand font*/
+/* font-family font-size / line-height */
+/* font-family font-size siempre */
+/* font-size al final */
+```css
+font: 5em verdana;
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzMzOTE1OSwtMzUxODcxOTA3LC0yMT
+eyJoaXN0b3J5IjpbMTA2ODI2MzA5MCwtMzUxODcxOTA3LC0yMT
 MxNTMyODAxLC04MDY0MTk4OTAsLTUyOTE1MDg1NywxOTc3MjY4
 MDIzLC0yMzE4NjI4ODEsNTg5NzEwNjk4LC0xMTQwOTExMzUwLD
 EwODAxMTMxNjIsLTI0NjQ2MjkwNCwtMjI1ODEwNDAxLC0xMzk3
