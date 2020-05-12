@@ -407,15 +407,18 @@ font: 5em / 1.5 verdana;
 /* Google usa font-face */
 ```css
 @font-face{
- font-family: nom
+ font-family: nombre;
+ font-weight: value;
+ font-style: value;
+ src: local(font) url(path) format(woff2);
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjYxODY2MTAsLTM1MTg3MTkwNywtMj
-EzMTUzMjgwMSwtODA2NDE5ODkwLC01MjkxNTA4NTcsMTk3NzI2
-ODAyMywtMjMxODYyODgxLDU4OTcxMDY5OCwtMTE0MDkxMTM1MC
-wxMDgwMTEzMTYyLC0yNDY0NjI5MDQsLTIyNTgxMDQwMSwtMTM5
-NzA3NzcxMSw3OTQyODM4MzgsMTI2MTkwMzY3NiwtMTE4MjkzND
-E4MCwxNTY0NjgxMjQwLDI1NTY0MzY5OSwzMzE5NjYzODAsNDA5
-MDE3MjI4XX0=
+eyJoaXN0b3J5IjpbNTY1Mjk3NDM4LC0zNTE4NzE5MDcsLTIxMz
+E1MzI4MDEsLTgwNjQxOTg5MCwtNTI5MTUwODU3LDE5NzcyNjgw
+MjMsLTIzMTg2Mjg4MSw1ODk3MTA2OTgsLTExNDA5MTEzNTAsMT
+A4MDExMzE2MiwtMjQ2NDYyOTA0LC0yMjU4MTA0MDEsLTEzOTcw
+Nzc3MTEsNzk0MjgzODM4LDEyNjE5MDM2NzYsLTExODI5MzQxOD
+AsMTU2NDY4MTI0MCwyNTU2NDM2OTksMzMxOTY2MzgwLDQwOTAx
+NzIyOF19
 -->
