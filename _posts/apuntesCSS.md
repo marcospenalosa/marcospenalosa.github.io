@@ -402,17 +402,20 @@ font-variant: small-caps;
 font: 5em / 1.5 verdana;
 ```
 
-/* Regla font-face */
+/* Regla font-face  -> indicamos que fuente usar*/
+/* usa forma woff (Web Open Font Format) */
 /* Google usa font-face */
 ```css
-
-
+@font-face{
+ font-family: nom
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzOTE5MzQyNywtMzUxODcxOTA3LC0yMT
-MxNTMyODAxLC04MDY0MTk4OTAsLTUyOTE1MDg1NywxOTc3MjY4
-MDIzLC0yMzE4NjI4ODEsNTg5NzEwNjk4LC0xMTQwOTExMzUwLD
-EwODAxMTMxNjIsLTI0NjQ2MjkwNCwtMjI1ODEwNDAxLC0xMzk3
-MDc3NzExLDc5NDI4MzgzOCwxMjYxOTAzNjc2LC0xMTgyOTM0MT
-gwLDE1NjQ2ODEyNDAsMjU1NjQzNjk5LDMzMTk2NjM4MCw0MDkw
-MTcyMjhdfQ==
+eyJoaXN0b3J5IjpbLTE3NjYxODY2MTAsLTM1MTg3MTkwNywtMj
+EzMTUzMjgwMSwtODA2NDE5ODkwLC01MjkxNTA4NTcsMTk3NzI2
+ODAyMywtMjMxODYyODgxLDU4OTcxMDY5OCwtMTE0MDkxMTM1MC
+wxMDgwMTEzMTYyLC0yNDY0NjI5MDQsLTIyNTgxMDQwMSwtMTM5
+NzA3NzcxMSw3OTQyODM4MzgsMTI2MTkwMzY3NiwtMTE4MjkzND
+E4MCwxNTY0NjgxMjQwLDI1NTY0MzY5OSwzMzE5NjYzODAsNDA5
+MDE3MjI4XX0=
 -->
