@@ -421,8 +421,7 @@ https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-classes
 ### Pseudoelementos
 /*
 ::first-line | ::first-letter
-::before | ::after  hijos del elemento antes y después
-hay que generar contenido para que aparezcan before y after
+::before | ::after  
 */
 /* Se dibuja en tiempo real, javascript no puede acceder a ellos*/
 /* Solo para elementos de bloque */
@@ -431,13 +430,25 @@ p::first-line{
  color: red;
 }
 ```
+/*
+::before | ::after  hijos del elemento antes y después
+hay que generar contenido para que aparezcan before y after
+*/
 
+```css
+h1::before{
+ content: '¿';
+}
+h1::after{
+ content: '?';
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDEzNjYxNSwtMjk3NTQ1NjIwLC0yMD
-M4ODEwNTY1LDM2MTYzMTUyNiw2ODQ5MjUxMzksLTczNjgyNzky
-MywtMzUxODcxOTA3LC0yMTMxNTMyODAxLC04MDY0MTk4OTAsLT
-UyOTE1MDg1NywxOTc3MjY4MDIzLC0yMzE4NjI4ODEsNTg5NzEw
-Njk4LC0xMTQwOTExMzUwLDEwODAxMTMxNjIsLTI0NjQ2MjkwNC
-wtMjI1ODEwNDAxLC0xMzk3MDc3NzExLDc5NDI4MzgzOCwxMjYx
-OTAzNjc2XX0=
+eyJoaXN0b3J5IjpbLTE4ODU3MzI3NjIsLTI5NzU0NTYyMCwtMj
+AzODgxMDU2NSwzNjE2MzE1MjYsNjg0OTI1MTM5LC03MzY4Mjc5
+MjMsLTM1MTg3MTkwNywtMjEzMTUzMjgwMSwtODA2NDE5ODkwLC
+01MjkxNTA4NTcsMTk3NzI2ODAyMywtMjMxODYyODgxLDU4OTcx
+MDY5OCwtMTE0MDkxMTM1MCwxMDgwMTEzMTYyLC0yNDY0NjI5MD
+QsLTIyNTgxMDQwMSwtMTM5NzA3NzcxMSw3OTQyODM4MzgsMTI2
+MTkwMzY3Nl19
 -->
