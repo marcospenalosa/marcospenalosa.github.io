@@ -423,7 +423,7 @@ https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-classes
 ::first-line | ::first-letter
 ::before | ::after
 */
-/* Se dibuja en tiempo real, javascript no puede acceder a el
+/* Se dibuja en tiempo real, javascript no puede acceder a ellos*/
 ```css
 p::first-line{
  color: red;
@@ -431,7 +431,7 @@ p::first-line{
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5ODMyMTIzMiwtMjk3NTQ1NjIwLC0yMD
+eyJoaXN0b3J5IjpbMTAxOTcwNDIxNywtMjk3NTQ1NjIwLC0yMD
 M4ODEwNTY1LDM2MTYzMTUyNiw2ODQ5MjUxMzksLTczNjgyNzky
 MywtMzUxODcxOTA3LC0yMTMxNTMyODAxLC04MDY0MTk4OTAsLT
 UyOTE1MDg1NywxOTc3MjY4MDIzLC0yMzE4NjI4ODEsNTg5NzEw
