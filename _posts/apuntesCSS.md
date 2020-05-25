@@ -424,6 +424,7 @@ https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-classes
 ::before | ::after
 */
 /* Se dibuja en tiempo real, javascript no puede acceder a ellos*/
+
 ```css
 p::first-line{
  color: red;
@@ -431,11 +432,11 @@ p::first-line{
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxOTcwNDIxNywtMjk3NTQ1NjIwLC0yMD
-M4ODEwNTY1LDM2MTYzMTUyNiw2ODQ5MjUxMzksLTczNjgyNzky
-MywtMzUxODcxOTA3LC0yMTMxNTMyODAxLC04MDY0MTk4OTAsLT
-UyOTE1MDg1NywxOTc3MjY4MDIzLC0yMzE4NjI4ODEsNTg5NzEw
-Njk4LC0xMTQwOTExMzUwLDEwODAxMTMxNjIsLTI0NjQ2MjkwNC
-wtMjI1ODEwNDAxLC0xMzk3MDc3NzExLDc5NDI4MzgzOCwxMjYx
-OTAzNjc2XX0=
+eyJoaXN0b3J5IjpbMzYxNjE3MzUsLTI5NzU0NTYyMCwtMjAzOD
+gxMDU2NSwzNjE2MzE1MjYsNjg0OTI1MTM5LC03MzY4Mjc5MjMs
+LTM1MTg3MTkwNywtMjEzMTUzMjgwMSwtODA2NDE5ODkwLC01Mj
+kxNTA4NTcsMTk3NzI2ODAyMywtMjMxODYyODgxLDU4OTcxMDY5
+OCwtMTE0MDkxMTM1MCwxMDgwMTEzMTYyLC0yNDY0NjI5MDQsLT
+IyNTgxMDQwMSwtMTM5NzA3NzcxMSw3OTQyODM4MzgsMTI2MTkw
+MzY3Nl19
 -->
