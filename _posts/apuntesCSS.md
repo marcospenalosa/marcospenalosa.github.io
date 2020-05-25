@@ -443,6 +443,7 @@ h1::after{
  content: '?';
 }
 ```
+quotes
 ```css
 h1{
  quotes: '\201C' '\201D'; /* Unicode */
@@ -450,16 +451,16 @@ h1{
 h1::before{
 content: open-quote;
 }
-h1::before{
-content: open-quote;
+h1::after{
+content: close-quote;
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwMDM1MjA0LC0xODg1NzMyNzYyLC0yOT
-c1NDU2MjAsLTIwMzg4MTA1NjUsMzYxNjMxNTI2LDY4NDkyNTEz
-OSwtNzM2ODI3OTIzLC0zNTE4NzE5MDcsLTIxMzE1MzI4MDEsLT
-gwNjQxOTg5MCwtNTI5MTUwODU3LDE5NzcyNjgwMjMsLTIzMTg2
-Mjg4MSw1ODk3MTA2OTgsLTExNDA5MTEzNTAsMTA4MDExMzE2Mi
-wtMjQ2NDYyOTA0LC0yMjU4MTA0MDEsLTEzOTcwNzc3MTEsNzk0
-MjgzODM4XX0=
+eyJoaXN0b3J5IjpbMTY2MzQ4NjUzOCwtMTg4NTczMjc2MiwtMj
+k3NTQ1NjIwLC0yMDM4ODEwNTY1LDM2MTYzMTUyNiw2ODQ5MjUx
+MzksLTczNjgyNzkyMywtMzUxODcxOTA3LC0yMTMxNTMyODAxLC
+04MDY0MTk4OTAsLTUyOTE1MDg1NywxOTc3MjY4MDIzLC0yMzE4
+NjI4ODEsNTg5NzEwNjk4LC0xMTQwOTExMzUwLDEwODAxMTMxNj
+IsLTI0NjQ2MjkwNCwtMjI1ODEwNDAxLC0xMzk3MDc3NzExLDc5
+NDI4MzgzOF19
 -->
