@@ -463,12 +463,14 @@ list-style-image
 list-style-position
 list-style
 */
-
+/*
+counter
+*/
 ```css
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE5NTExNDgzLC04NDU1MzI1MDMsLTEwMT
+eyJoaXN0b3J5IjpbNzIyODAzMjgxLC04NDU1MzI1MDMsLTEwMT
 MwNDUzMjIsMTY2MzQ4NjUzOCwtMTg4NTczMjc2MiwtMjk3NTQ1
 NjIwLC0yMDM4ODEwNTY1LDM2MTYzMTUyNiw2ODQ5MjUxMzksLT
 czNjgyNzkyMywtMzUxODcxOTA3LC0yMTMxNTMyODAxLC04MDY0
