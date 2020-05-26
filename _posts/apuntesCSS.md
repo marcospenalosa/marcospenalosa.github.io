@@ -469,16 +469,22 @@ contador: se crea una variable para contar
 se crea el contandor en la clase si es posible
 */
 ```css
-body{
- counter-rest:
+.chapters{
+ counter-rest: contador;
+}
+.chapter{
+ counter-increment: contador;
+}
+.chapter::before{
+ content: counter(contador)
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4Nzk0NTM5Niw3MjI4MDMyODEsLTg0NT
-UzMjUwMywtMTAxMzA0NTMyMiwxNjYzNDg2NTM4LC0xODg1NzMy
-NzYyLC0yOTc1NDU2MjAsLTIwMzg4MTA1NjUsMzYxNjMxNTI2LD
-Y4NDkyNTEzOSwtNzM2ODI3OTIzLC0zNTE4NzE5MDcsLTIxMzE1
-MzI4MDEsLTgwNjQxOTg5MCwtNTI5MTUwODU3LDE5NzcyNjgwMj
-MsLTIzMTg2Mjg4MSw1ODk3MTA2OTgsLTExNDA5MTEzNTAsMTA4
-MDExMzE2Ml19
+eyJoaXN0b3J5IjpbMTMzMzkwNjU5LDcyMjgwMzI4MSwtODQ1NT
+MyNTAzLC0xMDEzMDQ1MzIyLDE2NjM0ODY1MzgsLTE4ODU3MzI3
+NjIsLTI5NzU0NTYyMCwtMjAzODgxMDU2NSwzNjE2MzE1MjYsNj
+g0OTI1MTM5LC03MzY4Mjc5MjMsLTM1MTg3MTkwNywtMjEzMTUz
+MjgwMSwtODA2NDE5ODkwLC01MjkxNTA4NTcsMTk3NzI2ODAyMy
+wtMjMxODYyODgxLDU4OTcxMDY5OCwtMTE0MDkxMTM1MCwxMDgw
+MTEzMTYyXX0=
 -->
