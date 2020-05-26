@@ -466,7 +466,7 @@ list-style
 
 /*
 contador: se crea una variable para contar
-se crea el contandor en la clase si es posible
+se crea el contador en la clase si es posible
 */
 ```css
 .chapters{
@@ -476,11 +476,13 @@ se crea el contandor en la clase si es posible
  counter-increment: contador;
 }
 .chapter::before{
- content: counter(contador)
+ content: counter(contador) '.';
+ color: red;
+ margin-right: .25em
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMzkwNjU5LDcyMjgwMzI4MSwtODQ1NT
+eyJoaXN0b3J5IjpbNDcwNzQ2MTU3LDcyMjgwMzI4MSwtODQ1NT
 MyNTAzLC0xMDEzMDQ1MzIyLDE2NjM0ODY1MzgsLTE4ODU3MzI3
 NjIsLTI5NzU0NTYyMCwtMjAzODgxMDU2NSwzNjE2MzE1MjYsNj
 g0OTI1MTM5LC03MzY4Mjc5MjMsLTM1MTg3MTkwNywtMjEzMTUz
