@@ -485,9 +485,9 @@ se crea el contador en la clase si es posible
 ```
 
 #### Color
-/*  RGB*/ 
+/*  RGBA (alpha transparencia)*/ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzM4MzQ1NzYsLTg2MzI1OTk0MSwzOD
+eyJoaXN0b3J5IjpbLTE3NDc4OTIxNTEsLTg2MzI1OTk0MSwzOD
 E5NTQzMjIsNDcwNzQ2MTU3LDcyMjgwMzI4MSwtODQ1NTMyNTAz
 LC0xMDEzMDQ1MzIyLDE2NjM0ODY1MzgsLTE4ODU3MzI3NjIsLT
 I5NzU0NTYyMCwtMjAzODgxMDU2NSwzNjE2MzE1MjYsNjg0OTI1
