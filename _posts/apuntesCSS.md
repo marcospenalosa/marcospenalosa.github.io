@@ -490,8 +490,13 @@ se crea el contador en la clase si es posible
 gris con el mismo numero en todos
 (0,0,0) -> negro
 A de 0 a 1*/ 
+```css
+body{
+color: (125,125,125,0.5);
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDI0MzA4NiwtODYzMjU5OTQxLDM4MT
+eyJoaXN0b3J5IjpbMTY0Mzg2ODI3MywtODYzMjU5OTQxLDM4MT
 k1NDMyMiw0NzA3NDYxNTcsNzIyODAzMjgxLC04NDU1MzI1MDMs
 LTEwMTMwNDUzMjIsMTY2MzQ4NjUzOCwtMTg4NTczMjc2MiwtMj
 k3NTQ1NjIwLC0yMDM4ODEwNTY1LDM2MTYzMTUyNiw2ODQ5MjUx
