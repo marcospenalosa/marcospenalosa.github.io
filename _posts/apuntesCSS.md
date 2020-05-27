@@ -496,11 +496,12 @@ color: (125,125,125,0.5);
 }
 ```
 
-/*  RGBA (alpha transparencia)
-(255,255,255) -> Blanco
-gris con el mismo numero en todos
-(0,0,0) -> negro
-A de 0 a 1*/ 
+/* HLS
+HUE -> tonalidad:  360 grados círculo cromático
+Saturación (intesidad del color, 0% gris al color puro 100%)
+Luminosidad (0 % negro, 50% puro, blanco 100%)
+hls() o hsla()
+*/ 
 ```css
 body{
 color: (125,125,125,0.5);
@@ -508,7 +509,7 @@ color: (125,125,125,0.5);
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MjgxNzc3MSwxNjQzODY4MjczLC04Nj
+eyJoaXN0b3J5IjpbLTQ4NzEzMjQ0NSwxNjQzODY4MjczLC04Nj
 MyNTk5NDEsMzgxOTU0MzIyLDQ3MDc0NjE1Nyw3MjI4MDMyODEs
 LTg0NTUzMjUwMywtMTAxMzA0NTMyMiwxNjYzNDg2NTM4LC0xOD
 g1NzMyNzYyLC0yOTc1NDU2MjAsLTIwMzg4MTA1NjUsMzYxNjMx
