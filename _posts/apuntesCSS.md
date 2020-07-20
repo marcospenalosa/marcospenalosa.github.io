@@ -508,20 +508,26 @@ color: hlsa(125,125,125,0.5);
 }
 ```
 #### Position
-/*  postion: static | relative | absolute | fixed | sticky;
+postion: static | relative | absolute | fixed | sticky;
 Static no se considera posicionado 
-Propiedades  offset: Mueven */ 
+Propiedades  offset: Mueven un elemento posicionado según el borde indicado.
+ * top
+ * bottom
+ * left
+ * right
+ 
+
 ```css
 body{
 color: rgba(125,125,125,0.5);
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NDEwNzkyMywxNzIyNzc4NjUyLDE2ND
-M4NjgyNzMsLTg2MzI1OTk0MSwzODE5NTQzMjIsNDcwNzQ2MTU3
-LDcyMjgwMzI4MSwtODQ1NTMyNTAzLC0xMDEzMDQ1MzIyLDE2Nj
-M0ODY1MzgsLTE4ODU3MzI3NjIsLTI5NzU0NTYyMCwtMjAzODgx
-MDU2NSwzNjE2MzE1MjYsNjg0OTI1MTM5LC03MzY4Mjc5MjMsLT
-M1MTg3MTkwNywtMjEzMTUzMjgwMSwtODA2NDE5ODkwLC01Mjkx
-NTA4NTddfQ==
+eyJoaXN0b3J5IjpbNDYwNTAzNDM1LDE3MjI3Nzg2NTIsMTY0Mz
+g2ODI3MywtODYzMjU5OTQxLDM4MTk1NDMyMiw0NzA3NDYxNTcs
+NzIyODAzMjgxLC04NDU1MzI1MDMsLTEwMTMwNDUzMjIsMTY2Mz
+Q4NjUzOCwtMTg4NTczMjc2MiwtMjk3NTQ1NjIwLC0yMDM4ODEw
+NTY1LDM2MTYzMTUyNiw2ODQ5MjUxMzksLTczNjgyNzkyMywtMz
+UxODcxOTA3LC0yMTMxNTMyODAxLC04MDY0MTk4OTAsLTUyOTE1
+MDg1N119
 -->
