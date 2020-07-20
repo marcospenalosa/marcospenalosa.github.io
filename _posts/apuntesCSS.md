@@ -508,18 +508,20 @@ color: hlsa(125,125,125,0.5);
 }
 ```
 #### Position
-/*  postion: static | relative | absolute | fixed | sticky;*/ 
+/*  postion: static | relative | absolute | fixed | sticky;
+Static no se considera posicionado 
+Propiedades  offset: Mueven */ 
 ```css
 body{
 color: rgba(125,125,125,0.5);
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTIzNzc4OTcsMTcyMjc3ODY1MiwxNj
-QzODY4MjczLC04NjMyNTk5NDEsMzgxOTU0MzIyLDQ3MDc0NjE1
-Nyw3MjI4MDMyODEsLTg0NTUzMjUwMywtMTAxMzA0NTMyMiwxNj
-YzNDg2NTM4LC0xODg1NzMyNzYyLC0yOTc1NDU2MjAsLTIwMzg4
-MTA1NjUsMzYxNjMxNTI2LDY4NDkyNTEzOSwtNzM2ODI3OTIzLC
-0zNTE4NzE5MDcsLTIxMzE1MzI4MDEsLTgwNjQxOTg5MCwtNTI5
-MTUwODU3XX0=
+eyJoaXN0b3J5IjpbMTA4NDEwNzkyMywxNzIyNzc4NjUyLDE2ND
+M4NjgyNzMsLTg2MzI1OTk0MSwzODE5NTQzMjIsNDcwNzQ2MTU3
+LDcyMjgwMzI4MSwtODQ1NTMyNTAzLC0xMDEzMDQ1MzIyLDE2Nj
+M0ODY1MzgsLTE4ODU3MzI3NjIsLTI5NzU0NTYyMCwtMjAzODgx
+MDU2NSwzNjE2MzE1MjYsNjg0OTI1MTM5LC03MzY4Mjc5MjMsLT
+M1MTg3MTkwNywtMjEzMTUzMjgwMSwtODA2NDE5ODkwLC01Mjkx
+NTA4NTddfQ==
 -->
